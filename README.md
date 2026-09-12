@@ -15,8 +15,15 @@ matéria, textos compartilhados e figuras vinculadas.
 | Contextos (texto/tira compartilhado) | 37 |
 | Imagens vinculadas | 245 |
 | Questões anuladas na origem | 1 (2009 q06, marcada `N` no gabarito) |
-| Questões sinalizadas para conferência | 4 |
+| Questões fora do banco | 4 (`revisar: true` — seguem nos JSON) |
+| **Questões no SQLite** | **646** |
 | Anos faltando | 2017, 2018 |
+
+As 4 excluídas são de Matemática e têm alternativas desenhadas como vetor
+(2008 q10, 2010 q46, 2016 q28, 2019 q28): o recorte da alternativa é limitado
+pela altura do rótulo seguinte e corta figura alta pela base. Ficam registradas
+nos JSON com `recorte_integral`; `python tools/build_db.py --incluir-revisar`
+as inclui, se o recorte for corrigido depois.
 
 ## Estrutura
 
@@ -75,8 +82,12 @@ Requisitos: Python 3.12 e `pymupdf`.
 
 - **Fórmula inline no enunciado.** Quando a frase tem uma fração no meio
   (`quando x + y = 2/5 e a – b = –5/8`), o valor é desenho e não texto: o
-  enunciado extraído fica com a lacuna. São as 4 questões com `revisar: true`,
-  todas de Matemática, todas com `recorte_integral` para leitura fiel.
+  enunciado extraído fica com a lacuna. Afeta 2008 q10, 2016 q28 e 2019 q28,
+  que têm `recorte_integral` para leitura fiel e estão fora do banco.
+- **Recorte de alternativa alta.** O recorte de uma alternativa-figura termina
+  na altura do rótulo seguinte; figura que invade essa faixa sai cortada pela
+  base (2010 q46, mapas com escala de longitude). Corrigir isso é o que falta
+  para reaproveitar as 4 questões excluídas.
 - **Texto dentro de tirinha.** Os balões de quadrinho são texto de verdade no
   PDF. Ficam em `texto_na_figura` (contextos) — servem de transcrição acessível,
   e a imagem carrega a versão visual.

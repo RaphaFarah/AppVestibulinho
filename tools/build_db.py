@@ -1,14 +1,20 @@
 # -*- coding: utf-8 -*-
 """Monta data/questoes.sqlite a partir dos JSON gerados por parse_exam.py.
 
+Questao marcada com revisar=true fica FORA do banco: sao aquelas em que uma
+formula inline do enunciado e desenho vetorial, nao texto, e o enunciado sai
+com lacuna. Elas seguem registradas nos JSON, com recorte_integral, para poder
+ser recuperadas a mao depois.
+
 Uso:
     python tools/build_db.py
+    python tools/build_db.py --incluir-revisar   # inclui as pendentes
 """
 import os
-import re
 import json
 import glob
 import sqlite3
+import argparse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 JSON_DIR = os.path.join(ROOT, "data", "questoes")
@@ -29,13 +35,14 @@ AREA = {
 }
 
 
-def main():
+def main(incluir_revisar=False):
     if os.path.exists(DB):
         os.remove(DB)
     con = sqlite3.connect(DB)
     con.executescript(open(SCHEMA, encoding="utf-8").read())
 
     n_q = n_a = n_i = n_c = 0
+    puladas = []
     for caminho in sorted(glob.glob(os.path.join(JSON_DIR, "*.json"))):
         d = json.load(open(caminho, encoding="utf-8"))
         ano = d["ano"]
@@ -60,6 +67,9 @@ def main():
 
         for q in d["questoes"]:
             qid = f"{ano}-q{q['numero']:02d}"
+            if q["revisar"] and not incluir_revisar:
+                puladas.append((qid, ", ".join(q["motivo_revisao"])))
+                continue
             con.execute(
                 "INSERT INTO questao (id, ano, numero, materia, area, contexto_id,"
                 " enunciado, texto_na_figura, correta, anulada, revisar, motivo_revisao,"
@@ -96,6 +106,14 @@ def main():
                         (qid, papel, img["arquivo"], img["pagina"], ordem))
                     n_i += 1
 
+    # contexto que perdeu todas as suas questoes nao deve sobrar no banco
+    orfaos = con.execute(
+        "SELECT id FROM contexto WHERE id NOT IN"
+        " (SELECT contexto_id FROM questao WHERE contexto_id IS NOT NULL)").fetchall()
+    for (cid,) in orfaos:
+        con.execute("DELETE FROM imagem WHERE dono_tipo='contexto' AND dono_id=?", (cid,))
+        con.execute("DELETE FROM contexto WHERE id=?", (cid,))
+    n_c -= len(orfaos)
     con.commit()
 
     # ---- busca textual, quando o SQLite tiver FTS5
@@ -124,8 +142,15 @@ def main():
     print(f"  contextos ...... {n_c}")
     print(f"  imagens ........ {n_i}")
     print(f"  busca textual .. {fts}")
+    if puladas:
+        print(f"  fora do banco .. {len(puladas)} (revisar=true, seguem nos JSON)")
+        for qid, motivo in puladas:
+            print(f"      - {qid}: {motivo}")
     con.close()
 
 
 if __name__ == "__main__":
-    main()
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--incluir-revisar", action="store_true",
+                    help="inclui tambem as questoes marcadas para revisao")
+    main(incluir_revisar=ap.parse_args().incluir_revisar)
