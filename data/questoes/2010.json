@@ -1,0 +1,2277 @@
+{
+ "ano": 2010,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "VESTIBULINHO prova2010-bauru-guara.pdf",
+ "fonte_gabarito": "VEST gabarito2010-bauru-guara.pdf",
+ "n_alternativas": 5,
+ "contextos": [
+  {
+   "id": "ctx-2010-19",
+   "questoes": [
+    19,
+    20
+   ],
+   "instrucao": "responder às questões de números 19 e 20.",
+   "texto": "Cristina era uma garota normal. Tinha RH positivo, menstruava de 28 em 28 dias e, dependendo do pique da moda, usava ou não sutiã. Tinha dia que se pintava, tinha dia que não. Às vezes entrava numa de macrobiótica e dava uma de naturalista em clima de meditação. Depois, voltava a comer x-salada com bacon na maior. Ela era, assim, normal. O único desastre na vida de Cristina foi levar bomba em física no 2.º ano do Ensino Médio. Primeiro chorou bastante, depois chegou à conclusão de que o seu problema com a física era uma questão de química emocional. (Jorge Miguel Marinho, in Na curva das emoções. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O valor da expressão é:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1,08.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "18.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "18,08.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "100,8.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "101,6.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q01-p2-c0-0.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Para a venda de uma geladeira, João encontrou a seguinte placa no Shopping: 24 × R$153,00 ou R$ 2.700,00 à vista Quem comprar a prazo, pagará, a mais do que no preço à vista,",
+   "texto_na_figura": "24 × R$153,00 ou R$ 2.700,00 à vista",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "26%.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "28%.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "32%.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "36%.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "40%.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q02-p2-c0-1.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Para que a equação kx2 –2(k–1)x + 3 = 0 admita uma raiz , o valor de k deve ser igual",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "–3.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "5.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "6.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Para se calcular 182, pode-se usar o conhecimento do produto notável que dá o quadrado da soma de dois números. Utilizando esta informação, o resultado poderá ser encontrado resolvendo-se a expressão:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "100 – 164 + 64",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "100 + 64",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "100+ 160 + 64",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "100+ 160 – 64",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "100 – 64",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Ao reduzir a fração a uma expressão mais simples , e, a seguir, calculando o seu valor numérico para obter-se-á o seguinte valor:",
+   "texto_na_figura": "a uma expressão mais simples , e, a seguir, calculando o seu valor numérico para",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "–2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "0.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "0,1.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "0,2.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "0,25.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q05-p2-c0-2.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Na escola de Paulo será construída uma pista circular para arremesso de pesos. Seu Zé pedreiro achou conveniente pegar para medida de raio a maior dimensão da quadra de futebol, que é retangular e tem 5 m de largura e 35 m2 de área. Baseado nesses dados, pode-se afirmar que a área da pista é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "25 π m2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "35 π m2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "49 π m2.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "144 π m2.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "169 π m2.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Para que a equação 4x2 – 4x + 2m – 1 = 0 não possua raízes reais, o valor de m deverá ser",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "m >1.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "m < 1.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "m < –1.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "m > –1.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "m> 0.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Pedro e Zeca apostaram que acertariam o resultado da soma das raízes da equação 2x4 –5x2 –3 = 0. Sabendo-se que Zeca acertou, pode-se concluir que sua resposta foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "–3.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "–2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "–0,5.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "0.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "1.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Marina fará um arranjo de flores e frutas para o Natal. Ela usará, como base, um triângulo retângulo cujas medidas dos lados somam 60 cm e são proporcionais a 3, 4 e 5. A área dessa base é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "125 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "150 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "225 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "250 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "275 cm2.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Tico foi adestrado para latir ao observar duas lâmpadas quando piscam juntas. Sabe-se que as duas lâmpadas piscaram juntas às 8 horas, que a 1.ª pisca a cada 30 min e a segunda, a cada 40 min. Então, Tico latirá, pela 2.ª vez, às",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "8 h 40 min.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "9 horas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "9 h 10 min.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "9 h 20 min.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "10 horas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 11,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Uma lona com a forma de um trapézio retângulo, cuja base média tem 12 m, e o menor dos lados não paralelos mede 4 m, será usado por Dudu para montar uma barraca de venda de cocadas. A área da lona corresponde a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "48 m2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "60 m2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "64 m2.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "72 m2.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "76 m2.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Ao se efetuar a operação (23)2 + 232, obter-se-á o seguinte resultado:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "72.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "128.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "144.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "576.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "1 024.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 13,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O valor de x que torna verdadeira a igualdade é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "4.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "2.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "1. 2",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 14,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um ramal de via do metrô tem 24 km de extensão, e dos 3 trilhos já foram instalados. Se para cada metro de trilho são necessários dois dormentes, ainda serão colocados",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "80 dormentes.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "160 dormentes.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "800 dormentes.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1 600 dormentes.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "16 000 dormentes.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 15,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "No baile de formatura da escola, a razão entre o número de alunos formandos e demais pessoas presentes é de 2 para 3, nessa ordem. Do total de pessoas presentes, os formandos representam",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "20%.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "30%.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "40%.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "50%.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "60%.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 16,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "O efeito de humor que o texto produz no leitor se deve",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "à inadequada linguagem utilizada pelo emissor para o receptor a que se destina.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "à subversiva estrutura do texto, que não obedece ao modelo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "ao ambíguo estilo do texto que impede o príncipe Charles de agir.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à triste constatação de Luís de que não obterá resposta de seu interlocutor.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "ao incomum motivo do e-mail, já que a Inglaterra é um país de tempo instável.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 17,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "No trecho – Aí eu pensei: por que eu não escrevo um e-mail... – a frase – por que eu não escrevo um e-mail – é exemplo de discurso direto. Assinale a alternativa em que está correta a transposição para o discurso indireto.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aí ele pensou por que não escreverá um e-mail.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Aí ele pensou por que ele não escrevia um e-mail.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Luís pensa como não teria escrito um e-mail.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Aí ele pensava se tivesse escrito um e-mail.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Aí Luís pensou que eu não escrevi um e-mail.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 18,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Em – ... será que o senhor poderia dar uma olhadinha pela janela... – o diminutivo olhadinha expressa a ideia de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "formalidade.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "tempo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "espaço.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "reforço.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "deformidade. Leia o trecho extraído do conto A libertinagem das mães para",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4,
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 19,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2010-19",
+   "enunciado": "Leia as afirmações. I. O primeiro parágrafo do texto descreve a personagem Cristina. II. Primeiro chorou bastante ... – é uma frase narrativa. III. [ela] chegou à conclusão de que o seu problema com a física era uma questão de química emocional. – classificase como um trecho dissertativo. IV. Em – O único desastre de Cristina foi levar bomba em física … – a expressão levar bomba é usada em sentido próprio. Está correto apenas o que se afirma em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e IV.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "II e III.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "III e IV.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "I, II e III.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "II, III e IV.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 20,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2010-19",
+   "enunciado": "No trecho – Primeiro chorou bastante, depois... – as palavras primeiro, bastante e depois expressam, correta e respectivamente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "intensidade ; espaço ; intensidade.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "espaço ; modo ; tempo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "modo ; espaço ; intensidade.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "espaço ; tempo ; modo.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "tempo ; intensidade ; tempo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 21,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "A alternativa correta quanto ao uso do acento indicativo da crase é:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Passou à ela a travessa de macarrão fumegante.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "À princípio, todos os convidados aceitaram participar do evento beneficente.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "À uma hora, o ônibus chegará com as crianças, em frente da escola.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Que estás à dizer, menino!",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Percorri à pé os cinco quilômetros do parque até em casa.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 22,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "De acordo com o texto, é correto afirmar que o autor",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "denuncia o retrocesso vivido pela mulher brasileira, utilizando as estatísticas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "analisa a situação da mulher brasileira atual e os efeitos desse novo status para a sociedade.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "demonstra que a brasileira não pôde beneficiar-se das conquistas sociais.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "discute o passivo papel da mulher na construção de uma sociedade mais justa.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "expõe os riscos de uma vida sexualmente ativa, sem o uso do preservativo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 23,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Neste artigo, o autor busca tratar o tema de forma",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "subjetiva, estruturando o texto com uma linguagem emocional, próximo do relato.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "imparcial, porém faltam dados objetivos para dar suporte a sua argumentação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "parcial, como deve ser um texto jornalístico que pretende discutir um tema social.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "imprecisa, porque seu texto não faz uma análise do tema proposto.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "opinativa, já que fica explicitada a defesa de um ponto de vista.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 24,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "A palavra preservativo, nesta frase, está empregada em seu sentido",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "próprio, porque se refere a um dos métodos contraceptivos distribuídos pelos postos de saúde à população.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "próprio, já que há suficiente divulgação de que o preservativo não deve ser usado na cabeça.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "figurado, uma vez que o texto o compara a um ornamento para a cabeça feminina.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "figurado, pois refere-se à consciência da mulher no planejamento familiar e na condução de sua vida.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "próprio, porque o texto tem a intenção de instruir a mulher a respeito da importância do preservativo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 25,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Reescrevendo a frase, sem alterar-lhe o sentido de oposição, expresso por porém, tem-se:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O melhor preservativo, então, está mesmo na cabeça.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "O melhor preservativo, por isso, está mesmo na cabeça.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "No entanto, o melhor preservativo está mesmo na cabeça.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Por conseguinte, o melhor preservativo está mesmo na cabeça.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Porque o melhor preservativo está mesmo na cabeça.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 26,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "O eclipse solar é um fenômeno que ocorre quando o Sol, a Lua e a Terra estão alinhados. Dependendo da localização de um observador na superfície da Terra, esse eclipse pode ser observado parcialmente, totalmente ou, até mesmo, não observado. Na figura, há esquematizado de maneira simples um eclipse solar (onde astros e as distâncias não estão em escala). Cone de penumbra Sol Terra Lua D C B A Cone de penumbra Cone de sombra Um observador, na Terra, presenciará um eclipse solar total, se estiver localizado",
+   "texto_na_figura": "Terra Lua D C B A Cone de penumbra",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em A ou em C.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "em B.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "em D.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "apenas em A.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "apenas em C.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q26-p5-c0-0.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 27,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Analise a charge que descreve a situação de uma mosca que se encontra no interior de um automóvel em movimento. Considere que a mosca esteja apoiada no vidro do passageiro. (Níquel Náusea - Fernando Gonsales, Folha de S.Paulo 22.10.2009) Com relação a esse movimento, pode-se afirmar que a mosca",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "se encontra em repouso em relação a um referencial fixo na Terra.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "movimenta-se a 120 km/h em relação a um referencial fixo na Terra.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "movimenta-se a 120 km/h em relação ao automóvel.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "movimenta-se a 240 km/h em relação a um referencial fixo na Terra.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "movimenta-se a 120 km/h tanto em relação a um referencial fixo na Terra quanto em relação ao automóvel.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q27-p5-c1-0.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 28,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Nas aulas de Biologia e Física, costuma-se deparar com dois conceitos aparentemente díspares de energia. Os conceitos empregados nas duas disciplinas, entretanto, são integrados e remetem à mesma entidade física: a capacidade de um corpo (ou sistema de corpos), em qualquer escala espacial, produzir movimento próprio ou de outros corpos que estão a seu redor. Assim, o ser humano, nas atividades diárias, todo o tempo utiliza energia. Ele a retira dos alimentos que ingere e, como se fosse uma máquina, transforma-a nas diversas modalidades necessárias ao funcionamento do seu organismo. A tabela ilustra o consumo de energia do corpo humano em diversas atividades. Média de necessidades energéticas para várias atividades (em kcal/h) Trabalho Trabalho Trabalho Trabalho muito leve moderado pesado pesado Escrever 20 Dormir 100 Marchar 340 Escalar 650 Tocar Tomar 170 Andar de 45 400 Correr 900 violino banho bicicleta Lavar Subir 60 Caminhar 200 Nadar 500 1 000 louça escadas (E. Cook. Man, Energy, Society, W. H. F and Co, San Francisco) Com base nos dados da tabela, um corredor, que desenvolve uma velocidade média de 5 km/h, ao final de um percurso de 2 000 m, consome um total de",
+   "texto_na_figura": "Média de necessidades energéticas para várias atividades (em kcal/h) Trabalho Trabalho Trabalho Trabalho muito leve moderado pesado pesado Escrever 20 Dormir 100 Marchar 340 Escalar 650 Tocar Tomar 170 Andar de 45 400 Correr 900 violino banho bicicleta Lavar Subir 60 Caminhar 200 Nadar 500 1 000 louça escadas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "200 kcal.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "360 kcal.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "450 kcal.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1 800 kcal.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "4 500 kcal.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q28-p5-c1-1.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 29,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Segundo a 3.ª Lei de Newton (Princípio da Ação e Reação), toda vez que um corpo A aplica uma força em um corpo B, recebe deste uma força de mesma intensidade, mesma direção e sentido contrário. Considere que uma locomotiva puxa um vagão. Como a cada ação corresponde a uma reação de mesma intensidade, mesma direção e sentido contrário, o vagão puxa a locomotiva. Conclui-se que as forças aplicadas se equilibram e a resultante delas é nula; assim sendo, não pode haver movimento. Essa conclusão está",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "errada, pois o vagão somente exerce força na locomotiva depois que esta entra em movimento.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "certa, e a locomotiva não entrará em movimento.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "errada, pois as forças de ação e reação, por atuarem em corpos distintos, não se equilibram.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "certa, e só haverá movimento se a massa da locomotiva for muito maior que a do vagão.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "errada, pois a força que o vagão exerce sobre a locomotiva é menor do que a força que a locomotiva exerce no vagão.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 30,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "A energia elétrica (EEL) consumida por um aparelho elétrico, em um intervalo de tempo (∆t), é dada por: EEL = P. ∆t onde P é a potência elétrica do aparelho, dada em kW. A unidade de energia elétrica é o kWh, que é a quantidade de energia consumida por um aparelho de potência 1kW (1 000W) em um intervalo de tempo de 1h. Em uma residência, pode-se estimar o consumo de energia elétrica considerando os principais aparelhos elétricos que são utilizados. Em um caso hipotético, apenas os aparelhos da tabela a seguir são utilizados diariamente na residência: Tempo de uso diário Aparelho Potência (kW) (horas) Lâmpadas 0,50 6 Chuveiro 4,00 1/4 Geladeira 0,40 10 Freezer 0,25 6 TV 0,25 2 Supondo que o mês tenha 30 dias e que o custo de 1kWh é R$ 0,40, o gasto mensal com a energia elétrica utilizada nessa residência é de, aproximadamente,",
+   "texto_na_figura": "Tempo de uso diário Aparelho Potência (kW) (horas) Lâmpadas 0,50 6 Chuveiro 4,00 1/4 Geladeira 0,40 10 Freezer 0,25 6 TV 0,25 2",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 12,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 54,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 120,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 230,00.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "R$ 538,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q30-p6-c0-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 31,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "A cultura do arroz, fortemente desenvolvida na Ásia e a digestão entérica, arrotos e flatulências do gado contribuem, significativamente, com emissões de metano (CH4) o segundo gás responsável pelo aumento do efeito estufa. (Journal de L’Environnement, 09.09.2007. Adaptado) Considerando essas informações, assinale a alternativa correta.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O metano é classificado como uma substância pura e simples.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "O efeito estufa é causado por uma mistura de substâncias simples.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "O metano é uma substância simples cuja molécula tem cinco átomos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "O metano é classificado como uma substância pura composta.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "O efeito estufa é causado apenas pelo metano cuja molécula tem cinco elementos químicos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 32,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Nas salinas, bem ventiladas, construídas na cidade de Cabo Frio – RJ, cuja temperatura média é de 30 oC, a água do mar é recolhida em tabuleiros grandes e rasos para que a água se separe do sal. A técnica de separação empregada nas salinas é chamada de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "filtração.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "evaporação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "decantação.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ebulição.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "ventilação.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 33,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "O volume, em cm3, ocupado por uma amostra de 1 kg de um bloco de cobre, que tem volume de 400 mL e massa 3 584 gramas, é, aproximadamente, igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "35,8.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "89,6.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "111,6.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "201,2.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "400,0.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 34,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "A tabela a seguir fornece cinco misturas e seus componentes. Misturas Componentes I Água e areia II Água e acetona III Água e óleo IV Gás hidrogênio e gás oxigênio V Água e gás carbônico Sobre essas informações, pode-se afirmar que apenas",
+   "texto_na_figura": "Misturas Componentes I Água e areia II Água e acetona III Água e óleo IV Gás hidrogênio e gás oxigênio V Água e gás carbônico",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a mistura I é homogênea.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "as misturas I e IV são heterogêneas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a mistura II é homogênea e a mistura V é heterogênea.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "as misturas III, IV e V são homogêneas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "as misturas I e III são heterogêneas.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q34-p6-c1-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 35,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "O bicarbonato de sódio, NaHCO3, usado como antiácido para tratar a acidez do estômago e, nas receitas culinárias, como fermento químico, é um composto cristalino que funde a 270 ºC, é branco, tem densidade igual a 2,16 g/mL à temperatura de 25 ºC, tem sabor ligeiramente alcalino e conduz corrente elétrica em solução aquosa. Das propriedades do bicarbonato de sódio mencionadas, as mais indicadas para constatar se uma amostra dessa substância é pura são",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a densidade e o ponto de fusão.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a cor e o ponto de fusão.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o sabor e a condutibilidade elétrica.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a cor e o sabor.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "a dureza e a condutibilidade elétrica. Biologia",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 36,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Desde 1960, inseticidas químicos são aplicados em plantações de diferentes culturas, como forma de controle de pragas. Porém, muitas são as consequências de sua utilização sobre os ecossistemas. Em plantações de algodão, a presença de lagartas tem sido considerada praga, e, causa de perda para agricultores por estragarem bolas dos algodoeiros. Os gráficos de barra apresentam medidas referentes ao número de lagartas, seus predadores e bolas de algodão que foram estragadas em plantações que receberam ou não aplicação de inseticidas. Gráfico 2 Gráfico 1 Gráfico 3 n.º de predadores n.º de lagartas n.º de bolas de algodão de lagarta estragadas 40",
+   "texto_na_figura": "40",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "35 200 125 bolas de 20 por 300 50 estragadas algodão algodoeiros 100 15 num total 40 75 10 de 300 30 50 5 20 25 10 0 0 área tratada com inseticida (B) área não tratada com inseticida (A) (Paul Ehrlich e Anne Ehrlich. População, recursos, ambiente.) Com base nos dados e conhecimentos de ecologia, é correto afirmar que o uso dos inseticidas nas plantações tem como objetivo matar as lagartas, e, portanto, promove o aumento do número de seus predadores, deixando a plantação livre de pragas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "30 175 lagartas bolas de 25 por 300 predadores 150 60 algodão a aplicação dos inseticidas favorece o aumento da produção de algodão pelos agricultores por garantir a diminuição de bolas estragadas ao eliminar lagartas e seus predadores.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "áreas tratadas com inseticidas apresentam maior número de predadores em relação às áreas em que houve o controle natural dos predadores sobre as lagartas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ao longo do tempo, os predadores possuem maior efetividade no controle das lagartas do que os inseticidas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "áreas não tratadas com inseticidas levam a um maior prejuízo dos agricultores de algodão por permitir a reprodução e aumento do número de lagartas que permanecem sem seus predadores naturais.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q36-p7-c0-0.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 37,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Os alimentos que fazem parte da dieta equilibrada têm sido representados sob a forma de uma pirâmide que contém, em sua base, os alimentos que devem ser consumidos em maior quantidade. Inversamente, o topo apresenta os alimentos que devem ser consumidos com mais moderação. (www.supernanny.com.br/images/1/piramide_alimentar.jpg) Sobre a alimentação balanceada e a constituição da pirâmide alimentar, assinale a alternativa correta.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os alimentos que compõem a base da pirâmide são compostos principalmente por proteínas complexas, associadas ao fornecimento de energia e defesa do organismo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "O segundo nível da pirâmide é constituído por legumes, verduras e frutas sendo rico em carboidratos, fibras, vitaminas e sais minerais, com função energética.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Os alimentos construtores se encontram no segundo patamar da pirâmide por serem ricos em proteínas e lipídios.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Os alimentos ricos em lipídios e açúcares devem ser consumidos em menores quantidades por oferecer alta quantidade de calorias e baixa quantidade de nutrientes.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Os alimentos com função reguladora são encontrados no topo da pirâmide e estão associados ao fornecimento de vitaminas e prevenção de doenças cardiovasculares.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q37-p7-c1-0.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 38,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "No ano de 2009, comemoram-se os 200 anos do nascimento de Charles Darwin e os 150 anos da Teoria da Evolução. Durante sua longa viagem ao redor do mundo, Darwin fez excursões de observações e coletas de amostras em vários continentes. O trecho a seguir foi extraído do diário de Darwin e publicado em Viagem de um naturalista ao redor do mundo em sua passagem pelo arquipélago de Galápagos a bordo do navio Beagle. O dia estava abrasador. (...) O fato mais curioso a ser observado é a perfeita graduação do tamanho do bico nas diferentes espécies de tentilhões(pequenos pássaros) (...). O extraordinário gênero de lagartos é restrito ao arquipélago (...) uma espécie aquática é extremamente comum em todas as ilhas e vive exclusivamente nas praias rochosas(...) A partir das observações realizadas e organização dos dados coletados, Darwin formulou suas ideias de evolução baseadas na",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "transmissão hereditária dos caracteres adquiridos e fixismo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "lei do uso e desuso e adaptação das espécies.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "variabilidade e adaptação das espécies.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "mutação e recombinação gênica.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "imutabilidade e adaptação das espécies.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 39,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "A interferência do ser humano tem provocado alterações na atmosfera. Chamamos de aquecimento global o aumento da temperatura que vem ocorrendo durante os últimos cem anos. Este fenômeno está diretamente relacionado ao efeito estufa. Outra consequência da poluição atmosférica nas áreas industrializadas é a ocorrência de chuvas ácidas resultantes da combinação de poluentes, vapor d’água e oxigênio. Há alguns anos se descobriu, sobre a Antártica, uma região da atmosfera em que a concentração de ozônio era significativamente menor do que em outras regiões do planeta. Assinale a alternativa que relaciona, correta e respectivamente, os gases com efeito estufa, chuva ácida e destruição da camada de ozônio.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gás carbônico; dióxido de enxofre e oxigênio.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Gás carbônico; dióxido de enxofre e clorofluorcarbono.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Gás carbônico; oxigênio e dióxido de enxofre.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Clorofluorcarbono; ozônio e oxigênio.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Oxigênio; clorofluorcarbono e gás carbônico.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 40,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Uma pesquisa publicada pelo jornal da Associação Médica Americana revelou que o pâncreas de diabéticos acometidos pelo tipo 1 da doença voltou a funcionar após o transplante de células tronco do próprio doente, livrando-o da necessidade da administração de insulina sintética, hormônio utilizado para absorção da glicose pelas células do organismo. A vantagem da utilização das células tronco no estudo apresentado, deve-se",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "à facilidade e simplicidade na obtenção de células tronco a partir de células somáticas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "à capacidade e células tronco transplantadas em absorver a glicose do sangue.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "ao aumento da produção de insulina sintética pelo organismo do paciente transplantado.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à capacidade das células tronco em se transformar em diferentes tipos de células capazes de inutilizar a insulina sintética.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "à utilização de células tronco do próprio paciente o que garante a compatibilidade, eliminando as chances de rejeição.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 41,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "Entre os vários conflitos desencadeados durante o período da Guerra Fria, pode-se citar a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Revolução Chinesa, a Guerra do Ópio e a Independência da Índia.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Guerra do Vietnã, a Guerra da Coreia e a Revolução Cubana.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Revolução Cubana, o Golpe Militar do Chile e a Guerra de Secessão.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Revolução Mexicana, a Guerra do Golfo e a Guerra do Ópio.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Guerra de Boxers, a Revolução Mexicana e a Independência do Haiti.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 42,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "A expansão do transporte ferroviário, no Brasil, durante a 2.ª metade do século XIX, esteve diretamente ligada ao",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "crescimento da produção algodoeira na região nordeste durante a Guerra de Independência dos EUA.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "grande desenvolvimento da extração da borracha na região norte.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "processo de descoberta e exploração do ouro na região das Minas Gerais.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "incentivo governamental à ocupação da região centrooeste.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "desenvolvimento da atividade cafeeira no Rio de Janeiro e em São Paulo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 43,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "A proibição da briga de galos e do uso do biquíni, e a condecoração do líder guerrilheiro Ernesto ‘Che’ Guevara, fazem parte do curto governo do presidente",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Juscelino Kubitschek.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Getúlio Vargas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Castelo Branco.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Jânio Quadros.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "João Goulart.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 44,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "A criação da Petrobras, a construção de Brasília e a privatização da Companhia Vale do Rio Doce ocorreram, respectivamente, nos governos",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Getúlio Vargas, Juscelino Kubitschek e Fernando Henrique Cardoso.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Getúlio Vargas, Jânio Quadros e Lula.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "João Goulart, Getúlio Vargas e Fernando Henrique Cardoso.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Juscelino Kubitschek, Getúlio Vargas e José Sarney.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "João Goulart, Juscelino Kubitschek e José Sarney.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 45,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "O confisco dos valores que excedessem à quantia de cinquenta mil cruzeiros de todas as contas correntes, cadernetas de poupança e demais aplicações financeiras pelo prazo de dezoito meses, com o objetivo de combater a inflação, foi uma das medidas do plano",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cruzado.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Verão.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Collor.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Real.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Bresser.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 46,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "A cidade A tem latitude menor que a cidade B e ambas têm a mesma longitude. Assinale a alternativa que apresenta a correta representação das coordenadas geográficas descritas.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2010/2010-q46-altA.png",
+      "pagina": 10
+     }
+    },
+    {
+     "letra": "B",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2010/2010-q46-altB.png",
+      "pagina": 10
+     }
+    },
+    {
+     "letra": "C",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2010/2010-q46-altC.png",
+      "pagina": 10
+     }
+    },
+    {
+     "letra": "D",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2010/2010-q46-altD.png",
+      "pagina": 10
+     }
+    },
+    {
+     "letra": "E",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2010/2010-q46-altE.png",
+      "pagina": 10
+     }
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q46-p9-c0-0.png",
+     "pagina": 10
+    },
+    {
+     "arquivo": "data/imagens/2010/2010-q46-p9-c0-1.png",
+     "pagina": 10
+    },
+    {
+     "arquivo": "data/imagens/2010/2010-q46-p9-c0-2.png",
+     "pagina": 10
+    },
+    {
+     "arquivo": "data/imagens/2010/2010-q46-p9-c0-3.png",
+     "pagina": 10
+    },
+    {
+     "arquivo": "data/imagens/2010/2010-q46-p9-c0-4.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [
+    {
+     "arquivo": "data/imagens/2010/2010-q46-integral-p9-c0.png",
+     "pagina": 10
+    }
+   ],
+   "paginas": [
+    10
+   ],
+   "revisar": true,
+   "motivo_revisao": [
+    "alternativa e figura"
+   ],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 47,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "Observe o mapa a seguir. (Maria Elena Simielli, Geoatlas. São Paulo. 2009) O título correto para o fenômeno representado é:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Metrópoles regionais.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Usinas hidrelétricas e termelétricas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Recursos Minerais.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Assentamentos para reforma agrária.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Agroindústria.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q47-p9-c1-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 48,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "No mês de setembro deste ano (2009), o IBGE divulgou os dados obtidos na Pesquisa Nacional de Amostra por Domicílio do ano de 2008. Dentre as novidades sobre as características da população brasileira, pode-se destacar",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o aumento do índice de escolarização que já está próximo dos países desenvolvidos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a queda na taxa de fecundidade, que já é inferior à mínima necessária para a reposição da população.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a redução na expectativa de vida, de 60 para 55 anos, em razão das más condições no setor da saúde.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o crescimento da população com mais de 60 anos, que já ultrapassou a população jovem.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "o aumento da população rural, promovido pelas políticas de reforma agrária.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 49,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "Observe a imagem e o climograma a seguir. (travel.mongabay.com) Com base na imagem e nas características climáticas, pode-se concluir que se trata da seguinte formação vegetal:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vegetação Mediterrânea.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Floresta Boreal.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Vegetação de Altitude.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Savanas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Floresta Subtropical.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2010/2010-q49-p10-c0-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 50,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "A partir da década de 1980, um grupo de países, denominados Tigres Asiáticos, destacou-se no cenário econômico internacional por apresentar altas taxas de crescimento econômico. Dentre as razões para o sucesso desses países, podem-se destacar",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os incentivos fiscais para o capital estrangeiro e o grande mercado interno protegido da concorrência por altas taxas de importação.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "as políticas econômicas nacionalistas, que incentivaram o desenvolvimento da indústria nacional, e a economia fechada ao exterior.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a existência de mão de obra qualificada e os incentivos à produção industrial voltada para o mercado externo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o grande mercado consumidor interno e o território extenso, principais atrativos para as empresas multinacionais.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "a presença de mão de obra abundante, pouco qualificada e barata, além de reservas de recursos minerais como o minério de ferro.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  }
+ ]
+}

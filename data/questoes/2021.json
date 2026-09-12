@@ -1,0 +1,2030 @@
+{
+ "ano": 2021,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "2021.pdf",
+ "fonte_gabarito": "gabarito 2021.pdf",
+ "n_alternativas": 4,
+ "contextos": [
+  {
+   "id": "ctx-2021-01",
+   "questoes": [
+    1,
+    2
+   ],
+   "instrucao": "Leia a tira para responder às questões de números 01 e 02.",
+   "texto": "(Fernando Gonsales, Níquel Náusea. Folha de S.Paulo, 19.09.2020)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2021-03",
+   "questoes": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 03 a 06.",
+   "texto": "Quem não gosta de cachorro? Há, entre meus conhecidos, o mito de que não gosto de cachorro. Boatos infundados levam alguns, até, a duvidar do meu caráter. Tô tranquilo. Acho cães bonitos, inteligentes, fiéis, generosos etc. Minha única restrição é: sem minha anuência, não lambe, mano. Pode parecer antiquado, mas levo a sério a troca de fluidos. Minha epiderme, minhas regras. Por que diabos eu deveria tolerar essa atitude de um cachorro? Desconhecido? E a verdade é que todo cachorro, conhecido ou desconhecido, me lambe. É ou não é uma relação abusiva? Era. Pois na última semana conheci, finalmente, um cão que não lambe. Uma cadela, na verdade, cujo comportamento achei tão virtuoso. (Antonio Prata, “Quem não gosta de cachorro?. Folha de S.Paulo, 10.10.2020. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2021-07",
+   "questoes": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 07 a 13.",
+   "texto": "Jean Valjean Em um dos primeiros dias de outubro, em 1815, antes do pôr do sol, um homem viajava a pé. Tinha aparência assustadora. Seria difícil encontrar alguém com aspecto mais miserável. Era forte, de estatura mediana. Parecia ter de quarenta e cinco a cinquenta anos. Na cabeça, um boné com aba de couro. A camisa, de tecido grosseiro, mal fechada, deixava ver o peito cabeludo. Calças esfarrapadas. Sapatos sem meias. Nas costas, um volumoso saco de viagem de soldado. Trazia na mão um cajado de madeira, cheio de nós. Cabeça raspada e barba crescida. O suor e o pó da estrada tornavam sua aparência ainda pior. Chegou à cidade francesa de Digne. Lá, ninguém o conhecia. Como era hábito na época, passou na Prefeitura para se identificar. Apresentou o documento, uma espécie de licença, exigido para viajar pelo país na época. Em seguida, procurou a melhor estalagem local, de propriedade de um tal Jacquin Labarre. Os fogões estavam acesos. A lareira aquecia o ambiente. Labarre preparava o jantar destinado aos hóspedes. Quando ouviu a porta se abrir, sem tirar os olhos do que estava fazendo, perguntou: – Que deseja? – Comer e dormir. – Nada mais fácil! Olhou o recém-chegado dos pés à cabeça e fez uma observação: – Pagando! O homem mostrou uma bolsa de couro. – Tenho dinheiro. – Estou às ordens – respondeu Labarre. O recém-chegado tirou o saco de viagem dos ombros. Sentou-se perto do fogo. Em Digne, cidade próxima à montanha, na região dos Alpes franceses, as tardes e as noites são frias. O dono da hospedaria, entretanto, não tirava os olhos do homem. Escreveu uma mensagem. Deu-a a um rapazinho que lá trabalhava. Este correu para a Prefeitura. O forasteiro, com fome, perguntou: – E o jantar? – Não demora – respondeu Labarre. O rapaz voltou com a resposta. O dono da hospedaria leu com atenção. Pensou um pouco. Foi até o viajante e disse: – Senhor, não posso hospedá-lo. (Victor Hugo, Os miseráveis. Tradução e adaptação: Walcyr Carrasco, 2018) CTIN2001 | 001-ConhecGerais",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2021-14",
+   "questoes": [
+    14,
+    15
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 14 e 15.",
+   "texto": "À primeira vista, parece paradoxal que a maior floresta chuvosa, a Amazônia, e a mais vasta planície alagada do planeta, o Pantanal, há meses ardendo em fogo, esses dois biomas de riquíssima biodiversidade. Enfrentando a pior estiagem em 60 anos, o Pantanal contabilizou 8 106 focos de queimadas. Trata-se da maior cifra para o mês e quase o triplo do registrado há um ano. aos dois biomas é a origem da devastação. A intervenção humana explica a maior parte dos incêndios, seja pela queima intencional dos despojos de áreas previamente desmatadas, seja pelo descontrole acidental do fogo usado para limpar pastagens. (Editorial. Folha de S.Paulo, 03.10.2020. Adaptado)",
+   "texto_na_figura": "como os dados oficiais. O mês de setembro demonstrou mais uma vez a realidade trágica a que estão",
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2021/ctx-2021-14-p4-c1-0.png",
+     "pagina": 5
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-01",
+   "enunciado": "Considerando os sentidos da tira, conclui-se corretamente que seu efeito de humor advém da ação do cachorro, que interpretou o verbo passar com o mesmo significado que este assume na frase:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Era um meme tão bom que o celular passou de mão em mão e todos os amigos se divertiram muito.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Já era de madrugada quando a família passou pelo centro da cidade, voltando para casa depois da festa.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Ele estava já na faculdade, quando se deu conta de que o tempo passou mais rápido do que realmente queria.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Depois que passou bronzeador no corpo todo, observou o rótulo e constatou que o produto estava vencido.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 2,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-01",
+   "enunciado": "Na frase “Um idioma complexo!”, o termo destacado é antônimo de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "confuso.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "simples.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "controlável.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "incompreensível.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 3,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-03",
+   "enunciado": "As informações do texto permitem concluir que o narrador",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "descarta a ideia de ser lambido por cachorros.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "exalta seus vizinhos que detestam os animais.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "dispensa qualquer limite na ação dos cachorros.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "prefere lamber os cachorros a ser lambido por eles.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 4,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-03",
+   "enunciado": "Com frases como “Tô tranquilo.” e “... sem minha anuência, não lambe, mano,” o narrador expressa",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "respeito aos cachorros, em linguagem culta.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "mau humor pessoal, em linguagem rebuscada.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "descaso pelos animais, em linguagem grosseira.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ponto de vista sobre cães, em linguagem informal.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 5,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-03",
+   "enunciado": "Assinale a alternativa em que o emprego do acento indicativo da crase está em conformidade com a norma-padrão.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Meus conhecidos referem-se à mim como uma pessoa que não gosta de animais.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Quando me refiro à cães, considero-os bonitos, inteligentes, fiéis, generosos etc.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Um novo olhar sobre os cachorros veio à tona ao conhecer uma cadela que não lambe.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Ficando frente à frente com um cachorro, é certo que ele vem até nós para lamber.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 6,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-03",
+   "enunciado": "Os pronomes destacados estão empregados de acordo com a norma-padrão em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O narrador conheceu um cão que não lhe lambeu. Era uma cadela, na verdade, e achou-a tão virtuosa por isso.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "O narrador conheceu um cão que não o lambeu. Era uma cadela, na verdade, e achou ela tão virtuosa por isso.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "O narrador conheceu um cão que não o lambeu. Era uma cadela, na verdade, e achou-a tão virtuosa por isso.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "O narrador conheceu um cão que não lambeu ele. Era uma cadela, na verdade, e achou-lhe tão virtuosa por isso.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 7,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-07",
+   "enunciado": "As informações do primeiro parágrafo do texto mostram que Jean Valjean",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "espantava pela sua aparência física miserável.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "era um promissor forasteiro na cidade de Digne.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "tinha um semblante calmo e vestia-se com elegância.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "estava contente por chegar a uma cidade francesa.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 8,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-07",
+   "enunciado": "Na passagem do 11o parágrafo – O dono da hospedaria, entretanto, não tirava os olhos do homem. – fica evidente que o senhor Labarre estava",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "animado com o recém-chegado, o que se pode confirmar com o fato de oferecer comida e abrigo ao novo hóspede, mesmo sem saber se este tinha algum dinheiro.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "desconfiado do recém-chegado, o que se pode confirmar com o fato de escrever uma mensagem e pedir ao rapazinho que lá trabalhava para levá-la à Prefeitura.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "irritado com o recém-chegado, o que se pode confirmar com o fato de o forasteiro mostrar a bolsa de couro e o dono da hospedaria continuar fazendo a comida.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "assustado com o recém-chegado, o que se pode confirmar com o alerta que a Prefeitura mandou ao estabelecimento, já que o forasteiro não tinha documentos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 9,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-07",
+   "enunciado": "O sujeito simples é representado por um pronome que expressa sentido impreciso e está corretamente destacado em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Seria difícil encontrar alguém...",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Lá, ninguém o conhecia.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Este correu para a Prefeitura.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "– Senhor, não posso hospedá-lo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 10,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-07",
+   "enunciado": "Assinale a alternativa em que a primeira oração está organizada com um predicado nominal, e a segunda, com um predicado verbal.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "... um homem viajava a pé. Tinha aparência assustadora.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Chegou à cidade francesa de Digne. Lá, ninguém o conhecia.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Os fogões estavam acesos. A lareira aquecia o ambiente.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Sentou-se perto do fogo. Em Digne, [...] as tardes e as noites são frias.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 11,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-07",
+   "enunciado": "Na passagem do 2o parágrafo – Como era hábito na época, passou na Prefeitura para se identificar. [...] Quando ouviu a porta se abrir, sem tirar os olhos do que estava fazendo, perguntou... –, os termos destacados estabelecem, correta e respectivamente, relações de sentido de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "causa, finalidade e tempo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "comparação, adição e condição.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "conformidade, finalidade e tempo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "consequência, causa e condição.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 12,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-07",
+   "enunciado": "Observe as frases: • \u0007Os fogões estavam acesos. (2o parágrafo) • \u0007Deu-a a um rapazinho que lá trabalhava. (11o parágrafo) Assinale a alternativa em que há, respectivamente, um termo que flexiona no plural com “ões”, assim como “fogões”, e o sentido expresso pelo diminutivo do substantivo “rapazinho”.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "perdão; rapaz abobalhado.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "capitão; rapaz inconsequente.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "cidadão; rapaz bem-humorado.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "mamão; rapaz de pouca idade.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 13,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-07",
+   "enunciado": "No trecho do primeiro parágrafo – Seria difícil encontrar alguém com aspecto mais miserável. –, querendo-se intensificar o sentido dos adjetivos destacados, podem-se usar as seguintes formas, devidamente acentuadas e grafadas:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "dificilimo; miseravilícimo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "dificílimo; miserabilíssimo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "dificilimo; miseravilissimo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "dificílimo; miserabilicimo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 14,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-14",
+   "enunciado": "Em conformidade com a norma-padrão, as lacunas do texto devem ser preenchidas, correta e respectivamente, com:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "venham ... atestam ... entregues ... Comum",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "vêm ... atesta ... entregues ... Comuns",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "venha ... atestam ... entregue ... Comuns",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "vem ... atesta ... entregue ... Comum",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 15,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2021-14",
+   "enunciado": "Os termos destacados no texto significam, correta e respectivamente:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "chuvarada; impensada; antecipadamente.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "falta de água; deliberada; atualmente.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "desgraça; incidental; eventualmente.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "seca; proposital; anteriormente.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Joana tinha, na manhã de certo dia, saldo negativo de R$ 87,00, na sua conta corrente do banco. Naquele dia, ela foi ao banco e depositou R$ 350,00, em dinheiro. Sabendo- -se que, no mesmo dia, foram debitadas as contas de água, no valor de R$ 127,00, e de energia elétrica, no valor de R$ 132,00, e que nenhuma outra movimentação ocorreu na conta corrente de Joana, no final do dia o seu saldo bancário era",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "negativo, de R$ 14,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "negativo, de R$ 4,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "positivo, de R$ 4,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "positivo, de R$ 14,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em uma lata havia 6 kg de farinha de trigo. Após José utilizar um quinto da quantidade de farinha da lata e Cássia utilizar metade do que não foi utilizado por José, a quantidade de quilogramas de farinha que restou na lata foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0,7.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2,4.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3,6.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1,8.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Comprando 3 unidades de um mesmo produto, Igor pagou o total de R$ 50,40. Se ele tivesse comprado, ao mesmo preço unitário, 8 unidades desse produto, e tivesse dado uma nota de R$ 200,00 para pagar essa compra, Igor receberia de troco o valor de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 61,40.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 63,40.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 65,60.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 67,60.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Uma piscina é abastecida por 3 entradas de água, todas com a mesma vazão. Quando totalmente vazia, se essas 3 entradas de água forem ligadas ao mesmo tempo, em exatamente uma hora a piscina ficará totalmente cheia. Ligando-se apenas 2 destas entradas de água em um mesmo momento, o tempo necessário para encher esta piscina será de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 hora e 20 minutos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1 hora e 30 minutos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1 hora e 40 minutos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1 hora e 50 minutos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Sabendo-se que em um recipiente com volume de 1 decímetro cúbico cabe exatamente 1 litro de água, é correto afirmar que em um recipiente com volume de 10 000 centímetros cúbicos cabem, de água, exatamente",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10 litros.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "100 litros.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1 000 litros.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "10 000 litros.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Carlos pagará hoje o correspondente a 20% de uma dívida de R$ 774,00, e o restante, ele pagará no próximo mês, sem acréscimo de juros. Sendo assim, o valor que ele pagará no próximo mês será:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 619,20.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 620,40.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 621,30.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 622,50.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um produto foi comprado por R$ 97,75. Sabendo-se que o valor pago resultou de um desconto de 15% aplicado sobre o preço que consta na etiqueta de venda, o valor que consta nesta etiqueta é de:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 112,40.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 113,80.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 114,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 115,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Uma aplicação de R$ 10.000,00 foi realizada no regime de juros simples, por um período de 5 meses, gerando um montante de R$ 10.750,00. A taxa de juros mensal utilizada nessa aplicação foi de:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0,15%",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "0,12%",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1,20%",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1,50% R A S C U N H O",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Ana comprou 3 unidades de um produto A e 5 unidades de um produto B e gastou nessa compra o total de R$ 435,00. Roberto comprou 2 unidades do produto A e 4 unidades do produto B e, na compra realizada, gastou o total de R$ 330,00. Cláudio comprou apenas uma unidade de cada produto. Se todos eles pagaram o mesmo preço no produto A e o mesmo preço no produto B, então Cláudio gastou, nessa compra, o total de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 120,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 115,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 110,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 105,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Ana comprou certa quantidade de doces para revender. Se ela vender cada doce por R$ 2,50, ela terá prejuízo de R$ 45,00, em relação ao valor total que pagou nos doces para a revenda. Mas se ela vender cada doce por R$ 3,00, ela terá um lucro de R$ 30,00. A quantidade de doces que Ana comprou para revender é:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "130.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "140.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "150.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "160.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Débora tem, ao todo, 30 cédulas de real, apenas de R$ 50,00, R$ 20,00 ou R$ 10,00, totalizando R$ 590,00. Se a quantidade de cédulas de R$ 10,00 corresponde à terça parte da quantidade de cédulas de R$ 20,00, então a quantidade de cédulas de R$ 50,00 é igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um terreno quadrado tem perímetro de 56 m. A área desse terreno é de:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "186 m2",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "190 m2",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "196 m2",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "200 m2",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Necessita-se recortar, de uma folha de papel, uma figura no formato de triângulo retângulo, com o maior lado medindo 12,5 cm e o menor lado medindo 7,5 cm. O terceiro lado desse triângulo deverá medir",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10,0 cm.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "10,5 cm.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "11,0 cm.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "11,5 cm.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Considere um ângulo reto e um ângulo agudo, nessa ordem. As medidas desses dois ângulos são, correta e respectivamente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "90º exatos; maior que 0º e menor que 90º.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "180º exatos; maior que 0º e menor que 90º.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "90º exatos; maior que 90º e menor que 180º.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "180º exatos; maior que 90º e menor que 180º.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Se , então o valor numérico da expressão é igual a",
+   "texto_na_figura": "Se , então o valor numérico da expressão é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4. R A S C U N H O",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2021/2021-q30-p8-c0-0.png",
+     "pagina": 9
+    },
+    {
+     "arquivo": "data/imagens/2021/2021-q30-p8-c0-1.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 31,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Assim, quando uma criança recebe a vacina contra o sarampo, ela produz",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "anticorpos contra o vírus do sarampo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "antígenos contra o vírus do sarampo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "soro específico contra o vírus do sarampo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "plaquetas contra o vírus do sarampo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 32,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Segundo o texto, a vacina contra a tuberculose é produzida com um micróbio cuja célula não apresenta",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "membrana celular.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "membrana nuclear.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "DNA.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "citoplasma.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 33,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A pitaia é uma espécie de cacto, nativo da América do Sul, muito cultivado no Brasil ultimamente. Há três espécies, a pitaia branca, a pitaia amarela e a pitaia vermelha. Na ilustração a seguir, são mostradas partes de uma estrutura produzida por esse vegetal. (http://www.temitatiba.com.br. Adaptado) De acordo com as informações, a pitaia é classificada dentro do grupo vegetal das",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "briófitas, que inclui os musgos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "pteridófitas, que inclui as samambaias.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "gimnospermas, que inclui os pinheiros.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "angiospermas, que inclui a laranjeira.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2021/2021-q33-p9-c0-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 34,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "De acordo com o representado, a ilustração corresponde à região do bioma de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mata atlântica, com muitas plantas arbustivas e ambientes alagados o ano todo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "floresta amazônica, com muitas plantas que se desenvolvem sobre outras plantas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "cerrado, que apresenta muitos tipos de palmeiras e vegetação herbácea.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "caatinga, que apresenta plantas resistentes ao excesso de sal e clima seco.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 35,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O aluno também descreveu algumas relações alimentares que podem ocorrer nesse ecossistema, considerando o representado na ilustração. Assim, quando",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o tucano se alimenta de frutos, é um consumidor secundário.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o sapo se alimenta da borboleta, é um consumidor primário.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a serpente se alimenta da ave que se alimenta de sementes, é um consumidor secundário.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a onça se alimenta da capivara que se alimenta de capins, é um consumidor terciário.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 36,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Vários métodos contraceptivos podem ser utilizados para evitar uma gravidez não desejada. No desenho a seguir, está representado o sistema reprodutor feminino e suas diferentes partes. (https://br.pinterest.com/pin/610871136939064305/?nic_v2=1a3IWeKki Adaptado) Dentre os métodos contraceptivos que podem ser utilizados pela mulher, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o diafragma é colocado em 4, antes da relação sexual.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o DIU é inserido em 1, por um médico ginecologista.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a laqueadura consiste na remoção de 2, sob anestesia.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a camisinha feminina é inserida em 3, antes do período menstrual.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2021/2021-q36-p10-c0-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 37,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Ao percorrer uma praia, um aluno fotografou um animal na beira do mar, como pode ser observado a seguir. (https://www.vix.com/pt/saude/570778/ Adaptado) Fazendo uma pesquisa, o aluno verificou que esse animal apresenta em seus tentáculos células urticantes, presentes em outros animais do seu grupo, como",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o ouriço-do-mar.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o polvo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a lula.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a anêmona-do-mar.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2021/2021-q37-p10-c0-1.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 38,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A aceleração do crescimento das árvores registrada nos últimos anos vem sendo acompanhada de uma redução da vida útil dessas plantas. Isso pode parcialmente neutralizar ganhos obtidos com a absorção de dióxido de carbono (CO2) pelas plantas para a realização da fotossíntese. Essa relação entre crescimento e expectativa de vida das árvores vale para florestas do mundo todo. (https://agencia.fapesp.br/reducao-da-vida-util-das-arvores-em-florestas- -podera-neutralizar-ganhos-com-sequestro-de-co2/34444/. Adaptado) Com isso, os resultados esperados e as projeções de absorção de CO2 pelas plantas, baseados no sistema atual, podem estar superestimando a capacidade de absorção dos gases de efeito estufa pelas florestas no futuro. Ou seja,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "as florestas deverão absorver cada vez mais CO2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "ainda é essencial a redução da emissão do CO2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "as queimadas diminuem a emissão de CO2.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "é necessário o uso de combustíveis fósseis.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 39,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Até o ano de 2004, a ocorrência de doença de Chagas aguda (DCA) por transmissão oral, relacionada ao consumo de alimentos, constituía um evento pouco conhecido ou investigado. Atualmente, tornou-se frequente na região amazônica e está relacionada à ocorrência de surtos recentes em diversos estados brasileiros. Os casos recentes notificados no Brasil de DCA estão relacionados ao consumo do suco de açaí, considerado um alimento essencial na dieta da população da Região Norte e muito apreciado nos demais estados brasileiros e em outros países. (https://www.arca.fiocruz.br/bitstream/icict/9712/2/Vig_Sanit_Debate_2_4-11.pdf) Essa forma de transmissão da doença ocorre quando a pessoa ingere alimento contaminado",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "por fezes do barbeiro.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "pela saliva do mosquito.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "pelo vírus da doença.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "pela bactéria do alimento.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 40,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A combustão de resíduos sólidos pode ser utilizada para a obtenção de energia elétrica, sendo uma alternativa para a destinação do lixo urbano. Nesse caso, os resíduos são queimados e o calor liberado aquece a água que está em câmaras ou caldeiras. O vapor originado, então, movimenta a turbina usada para gerar eletricidade. Nesse processo de obtenção de energia elétrica, ocorrem transformações de energia. Duas dessas transformações, na ordem em que são citadas no texto, são:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "energia térmica em elétrica e energia química em mecânica.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "energia mecânica em elétrica e energia mecânica em térmica.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "energia elétrica em mecânica e energia potencial em elétrica.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "energia térmica em mecânica e energia mecânica em elétrica.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 41,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "No circuito elétrico a seguir, estão representadas três lâmpadas e duas chaves. Se a chave 1 for fechada, as lâmpadas",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II e III irão acender.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "II e III irão acender.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "I, II e III ficarão apagadas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "I e II ficarão apagadas.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2021/2021-q41-p11-c0-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 42,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "No gráfico a seguir, é apresentada a variação de temperatura de uma determinada substância, ao longo do tempo. Observando o gráfico, é correto afirmar que, entre as temperaturas de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0 e 15 oC, a substância encontra-se no estado sólido.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "15 e 30 oC, ocorre uma mudança de estado da substância.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "30 e 45 oC, a substância muda de estado físico.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "45 e 60 oC, ocorre o processo de liquefação da substância.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2021/2021-q42-p11-c1-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 43,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Denominam-se recursos naturais os materiais encontrados na natureza e que são explorados pela população humana para seu benefício, como é o caso dos minerais. Um exemplo de mineral muito explorado é a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hematita (Fe2O3), para a obtenção do ferro.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "rocha calcárea, para obtenção do cimento (CaCO3).",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "rocha ígnea, cuja decomposição resulta na areia (SiO2).",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "rocha sedimentar, para obtenção da bauxita (Al2O3).",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 44,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A ilustração a seguir faz parte de um material de divulgação de educação ambiental que orienta os moradores de locais arborizados a não descartar como lixo as folhas que caem das árvores. Essa parte da vegetação pode ser usada para nutrir terras de vasos, jardins e hortas a partir de um processo biológico em que microrganismos transformam a matéria orgânica num material semelhante ao solo, e que pode ser utilizado como adubo. (http://neidebandeiraperfil.blogspot.com/2016/09/ folha-seca-nao-e-sujeira.html/Adaptado) O processo biológico, citado no texto, é denominado",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aterro sanitário.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "coleta seletiva.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "compostagem.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "incineração.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2021/2021-q44-p12-c0-0.png",
+     "pagina": 13
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 45,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Até chegar às nossas mesas, os grãos de café passam por vários processos. Na época de maturação, os grãos são colhidos, muitas vezes de forma manual. Os grãos que caem no chão também são colhidos. São, então, colocados em um tipo de peneira e lançados para cima, processo que faz com que sejam eliminadas as sujidades, como representado na ilustração a seguir. (https://www.brasilagro.com.br/conteudo/brasil-deve-colher-cafe-mais-cedo- -em-2019-por-calor-e-excesso-de-floradas-.html) O processo descrito no texto é um tipo de separação que pode ser utilizado em misturas heterogêneas, e é denominado",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "catação.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "levigação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "filtração.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ventilação.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2021/2021-q45-p12-c0-1.png",
+     "pagina": 13
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 46,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "A questão está relacionada à imagem e ao mapa apresentados a seguir. (https://bit.ly/2GQmzGT Acesso em 07.out.2020) (IBGE) A imagem mostra um tipo de vegetação encontrado na área indicada no mapa pelo número",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1, que apresenta longos períodos de alta temperatura e seca; a vegetação ainda está preservada, pois a principal atividade é a pecuária extensiva de bovinos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2, que se caracteriza pela presença de duas estações distintas: uma chuvosa e outra seca; desde a década de 1970, a vegetação vem sendo substituída por cultivos de grãos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3, que se destaca pela elevada amplitude térmica entre o verão e o inverno; recentemente, a vegetação está em extinção devido à expansão dos canaviais.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4, que exibe sérios problemas ambientais devido à instalação de garimpos e usinas de exploração de minérios; a contaminação das águas contamina a vegetação e a população.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2021/2021-q46-p12-c1-0.png",
+     "pagina": 13
+    },
+    {
+     "arquivo": "data/imagens/2021/2021-q46-p12-c1-1.png",
+     "pagina": 13
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 47,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Analise as pirâmides etárias (1 e 2) para responder à questão. (https://novaescola.org.br/plano-de-aula/5930/crescimento -populacional-mundial# Acesso em 08.out.2020) Comparando as duas pirâmides, é correto afirmar que a pirâmide 1",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "indica que as taxas de natalidade e de mortalidade são menores que na pirâmide 2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "destaca o predomínio da população feminina, ao contrário da pirâmide 2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "mostra a população com menor expectativa de vida que na pirâmide 2.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "apresenta maior população em idade produtiva que na pirâmide 2.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2021/2021-q47-p13-c0-0.png",
+     "pagina": 14
+    },
+    {
+     "arquivo": "data/imagens/2021/2021-q47-p13-c0-1.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 48,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Considere os fatos que ocorreram ao longo do ano de 2019, em momentos anteriores e durante pandemia do Covid-19. – Sucessivas crises entre Estados Unidos e China. – Queda nas taxas de crescimento econômico em vários países do mundo. – Indefinições políticas e econômicas na Europa devido ao Brexit. – Instabilidades políticas em países do Oriente Médio. Esses fatos tiveram forte influência",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "na redefinição de tradicionais instituições globais com forte atuação geopolítica, como a OTAN (Organização do Tratado do Atlântico Norte).",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a reorganização da ONU (Organização das Nações Unidas), devido à sua incapacidade de resolver problemas sociopolíticos em nível global.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "na criação de novos blocos econômicos, principalmente aqueles que seriam formados por países com forte depen dência econômica dos países ricos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "no comércio mundial de mercadorias que sofreu forte retração, afetando, principalmente, os países em desenvolvimento, exportadores de commodities.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 49,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Leia com atenção o trecho a seguir. Ao que tudo indica, as divergências entre Estados Unidos e China tendem a não terminar no curto prazo. O temor estadunidense em relação aos asiáticos vai muito além das relações comerciais. A ascensão chinesa conduziu o país a um ponto em que suas capacidades – bem como seu potencial – incomodam os estadunidenses, que temem a perda de sua posição hegemônica no mundo. (https://diariodocomercio.com.br/ opiniao/o-brasil-em-meio-a-disputa-entre-eua-e-china/) Considerando esse contexto, avalie as seguintes asserçõ es e a relaçã o proposta entre elas: I. O governo do presidente Donald Trump, dos Estrados Unidos, adotou, ao longo do seu mandato, medidas de protecionismo comercial em relação aos produtos chineses. PORQUE II. O crescimento constante da economia chinesa nas últimas décadas projeta que a China poderá tornar-se a maior economia do sistema internacional. A respeito dessas asserçõ es, assinale a alternativa correta.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As asserçõ es I e II são proposiçõ es verdadeiras, e a II é uma justificativa da I.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "As asserçõ es I e II são proposiçõ es verdadeiras, mas a II não é uma justificativa da I.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "A asserçã o I é uma proposiçã o verdadeira, e a II é uma proposiçã o falsa.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "A asserçã o I é uma proposiçã o falsa, e a II é uma proposiçã o verdadeira.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 50,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "A chamada Era Vargas (1930-1954) foi composta por momentos e contextos diferentes como, por exemplo: a Revolução de 1930, o Estado Novo e o Segundo Governo Vargas. O nacionalismo foi marcante, embora de formas distintas, nos dois últimos períodos. Na esfera econômica, a Era Vargas, em especial durante a fase denominada Segundo Governo Vargas, pode ser caracterizada pela estratégia",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "do liberalismo econômico, com a privatização de empresas estatais.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "de socialização dos meios de produção, especialmente no setor pecuário.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "de substituição das importações, por intermédio de investimentos na industrialização.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "de fortes investimentos em grandes obras no setor rodoviário e na construção de uma nova capital.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  }
+ ]
+}

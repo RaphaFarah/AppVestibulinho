@@ -1,0 +1,2041 @@
+{
+ "ano": 2014,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "Prova objetiva 2014.pdf",
+ "fonte_gabarito": "Gabarito 2014.pdf",
+ "n_alternativas": 4,
+ "contextos": [
+  {
+   "id": "ctx-2014-01",
+   "questoes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 01 a 06.",
+   "texto": "Celulares japoneses para terceira idade começam a ser vendidos na França A porcentagem de pessoas idosas no Japão é a mais alta do mundo, com 23% da população representada por pessoas com mais de 65 anos. De acordo com o censo do Serviço de Estatísticas do Japão, estima-se que essa taxa subirá para 39% até 2050. Pensando nesse nicho de mercado em expansão, a empresa japonesa Fujitsu, em parceria com a NTT Docomo, passou a desenvolver aparelhos celulares com tecnologia denominada raku-raku, ou “fáceis de usar”. Ela foi criada para facilitar o uso dos celulares, para que os idosos possam se adaptar às novas tecnologias. Os “raku-raku phones” já são comercializados no Japão há 12 anos e agora chegarão ao continente europeu. A parceria da Fujitsu com a Orange – empresa de telefonia móvel que tem atuação na França e no Reino Unido – já foi anunciada. Desde o lançamento, já foram vendidos mais de 20 milhões de celulares raku-raku no mercado japonês. Os primeiros aparelhos eram mais simples, porém já comportam uma linha com mais de 15 modelos diferentes, incluindo smartphones. Esses aparelhos têm fontes diferenciadas para facilitar a leitura, microfones duplos que diminuem a produção de ruídos, alto-falantes melhorados para facilitar a escuta, botões maiores e mais sensíveis ao toque, tecnologia para tornar a voz mais clara e lenta a fim de facilitar a compreensão de quem escuta. Todas essas mudanças são pensadas para melhorar a qualidade de vida dos usuários, que se sentirão mais seguros ao usar um celular. (Karin Kimura. http://madeinjapan.uol.com.br/2013/09/13/celulares-japoneses- -para-terceira-idade-comecam-a-ser-vendidos-na-franca/. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2014-07",
+   "questoes": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 07 a 12.",
+   "texto": "Pescadores vão coletar lixo plástico no mar Como se sabe, a maior parte das embalagens plásticas que jogamos no lixo vão parar no mar, e a vida marinha está prejudicada por toda essa poluição sobre as águas que a ameaça. A situação é caótica, sem dúvida, e agrava as condições dos oceanos que já sofrem com o aquecimento global e a poluição provocada por elementos tóxicos jogados no mar por navios e barcos ou pela extração de petróleo. Ao mesmo tempo, já há uma lei de preservação dos oceanos que será colocada em prática em breve, pela União Europeia, e punirá os pescadores que praticarem a pesca predatória, que resulta na morte e devolução de peixes mortos aos oceanos. Cerca de 2/3 dos peixes pescados são devolvidos ao mar, geralmente mortos, pois os pescadores priorizam os peixes grandes, de maior valor. Por isso a União Europeia lançou um projeto inovador para resolver o problema da poluição dos oceanos por plásticos e que pode ajudar a evitar o desemprego dos pescadores. É na cidade de Fiskardo, na Grécia, que ele será testado. Lá, além de pescar seguindo a nova lei, os pescadores recolherão dejetos plásticos que serão encaminhados para reciclagem. Realmente, uma ótima ideia que poderá ser replicada pelo mundo. Porém dar a esses pescadores uma nova fonte de renda com base na limpeza dos oceanos é apenas um paliativo para um problema grave, que se alastra a cada dia. É preciso que a popu lação esteja ciente do problema, mude seus hábitos e reduza, diariamente, o consumo de plásticos de qualquer natureza. Os relatos da jornalista Liana John durante uma expedição com cientistas, em alto mar, são contundentes: não só peixes mas também baleias, focas, golfinhos, tartarugas e vários tipos de pássaros morrem por ingerir todo tipo de lixo plástico que jogamos nos mares. Até quando vamos deixar isso acontecer? (Ana Luíza Vastag. http://super.abril.com.br/blogs/planeta/ pescadores-vao-coletar-lixo-plastico-no-mar/ 09.05.2011. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2014-13",
+   "questoes": [
+    13,
+    14,
+    15
+   ],
+   "instrucao": "Observe a tirinha para responder às questões de números 13 a 15.",
+   "texto": "(Dik Browne. Hagar. http://www1.folha.uol.com.br/ilustrada/ cartum/cartunsdiarios/#7/9/2013)",
+   "texto_na_figura": "HAGAR ME PROMETEU UM VESTIDO NOVO DE SEDA QUANDO VOLTASSE DE SEU VITORIOSO ATAQUE À INGLATERRA! IMAGINO QUE NÃO HAJA VESTIDO NOVO...",
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/ctx-2014-13-p4-c0-0.png",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "id": "ctx-2014-38",
+   "questoes": [
+    38,
+    39
+   ],
+   "instrucao": "Para responder às questões de números 38 e 39, observe o gráfico",
+   "texto": "onde estão representadas as fontes de geração de energia elétrica no Brasil em 2012. (preservarparasobreviver.blogspot.com)",
+   "texto_na_figura": null,
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/ctx-2014-38-p11-c0-0.png",
+     "pagina": 12
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-01",
+   "enunciado": "De acordo com o texto, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "as pessoas idosas no Japão só se comunicam por celulares raku-raku.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "os celulares de tecnologia raku-raku só têm aplicativos japoneses.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "os celulares destinados aos idosos são mais simples no Japão do que na França e no Reino Unido.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "os celulares raku-raku apresentam inovações para ajudar os idosos a usá-los.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 2,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-01",
+   "enunciado": "Pode-se concluir, pelo texto, que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os celulares raku-raku são específicos para idosos com defi ciência auditiva.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a população de idosos no Japão não influenciou as buscas por tecnologias mais acessíveis.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a tecnologia raku-raku despertou interesse e foi bem rece bida pelos idosos no Japão.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "23% da população japonesa comprou os celulares raku-raku.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 3,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-01",
+   "enunciado": "Talvez possível a tecnologia melhorar a comunicação entre idosos no planeta. Segundo a norma-padrão da língua portuguesa, o espaço da frase deve ser completado por:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "era",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "seja",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "for",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q03-p2-c1-0.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 4,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-01",
+   "enunciado": "No trecho – De acordo com o censo do Serviço de Estatísticas do Japão, estima-se que essa taxa subirá para 39% até 2050. (1.º parágrafo) –, a expressão destacada pode ser substituída, sem prejuízo do sentido do texto, por",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "garante-se",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "calcula-se",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "desacredita-se",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "promete-se",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 5,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-01",
+   "enunciado": "Segundo a norma-padrão da língua portuguesa, a forma destacada do superlativo absoluto dos adjetivos está correta em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os telefones com tecnologia raku-raku são baratésimos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "A leitura nos celulares raku-raku é facílima.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "A qualidade de vida dos idosos ficará bonérrima com os novos telefones.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Os botões do novo telefone são sensivíssimos ao toque.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 6,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-01",
+   "enunciado": "Brasil e Japão têm atitudes diferentes em relação aos idosos. Enquanto se preocupa em melhorar a qualidade de vida das pessoas da terceira idade, deixa faltar atendimento médico a esses cidadãos. Os espaços da frase devem ser completados, correta e respectivamente, por:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "este ... aquele",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "este ... esse",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "esse ... aquele",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "aquele ... esta",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 7,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-07",
+   "enunciado": "Considere o período do texto: Porém dar a esses pescadores uma nova fonte de renda com base na limpeza dos oceanos é apenas um paliativo para um problema tão grave, que se alastra a cada dia. (4.º parágrafo) É correto afirmar que a conjunção destacada estabelece, no texto, relação de sentido de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "consequência.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "concessão.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "oposição.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "conclusão.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 8,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-07",
+   "enunciado": "Segundo o texto, pode-se afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é importante a adoção de novos hábitos de consumo no dia a dia.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "cerca de 2/3 dos peixes pescados morrem por ingerir plásticos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "é mais grave a presença de plásticos no mar do que o aquecimento global.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "só na cidade de Fiskardo, na Grécia, a nova lei para pesca será aprovada.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 9,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-07",
+   "enunciado": "Assinale a frase em que a preposição destacada estabelece uma relação de lugar.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "... e vários tipos de pássaros morrem por ingerir todo tipo de lixo plástico que jogamos nos mares.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Até quando vamos deixar isso acontecer?",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "A situação é caótica, sem dúvida, e agrava as condições dos oceanos que já sofrem com o aquecimento global ...",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Os relatos da jornalista Liana John durante uma expedição com cientistas, em alto mar, são contundentes ...",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 10,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-07",
+   "enunciado": "A concordância verbal está de acordo com a norma-padrão da língua portuguesa em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Morre peixes, baleias, focas, golfinhos, tartarugas e vários tipos de pássaros, porque ingerem todo tipo de lixo plástico jogado nos mares.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "A fauna marinha – peixes, baleias, focas, golfinhos e tarta rugas – morre devido ao lixo plástico jogado nos mares.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "O lixo plástico nos mares matam peixes, baleias, focas, golfinhos, tartarugas e vários tipos de pássaros.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Baleias, focas, golfinhos, tartarugas e vários tipos de pássaros, tudo morrem ao ingerir o lixo plástico jogado nos mares.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 11,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-07",
+   "enunciado": "No predicado nominal, os verbos de ligação não indicam ação. Esses verbos fazem a ligação entre dois termos – o sujeito e suas características –, como em A situação é caótica ... Assinale a alternativa em que há predicado nominal, o verbo destacado é de ligação e expressa-se a característica do sujeito.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ao mesmo tempo, já há uma lei de preservação dos oceanos...",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "... e punirá os pescadores que praticarem a pesca predatória...",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "... os pescadores recolherão dejetos plásticos...",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "... e a vida marinha está prejudicada por toda essa poluição...",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 12,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-07",
+   "enunciado": "Assinale a alternativa que preenche corretamente a lacuna da frase a seguir, segundo a norma-padrão da língua portuguesa. Durante os séculos passados, os povos não a necessária atenção com o meio ambiente.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "terão",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "teriam",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "tiveram",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "tiverem",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 13,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-13",
+   "enunciado": "Analisando a tirinha, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hagar foi derrotado no ataque à Inglaterra.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Helga recusou o vestido trazido por Hagar.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "os marinheiros de Hagar não são valentes como ele.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Helga vangloria-se ao ganhar seu novo vestido de seda.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 14,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-13",
+   "enunciado": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do texto a seguir, segundo a norma-padrão da língua portuguesa. Hagar prometeu esposa um vestido novo de seda antes de ir terras inglesas decidido vencer uma grande batalha.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a ... às ... à",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "à ... as ... à",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a ... às ... a",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à ... às ... a",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 15,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2014-13",
+   "enunciado": "Assinale a alternativa correta segundo a norma-padrão da língua portuguesa.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em – Chegaram da guerra Hagar e seus soldados.–, o sujeito é composto.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Em – Hagar prometeu-lhe novos vestido de seda inglesas. –, a concordância nominal está correta.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Em – Haverão vestidos de seda na Inglaterra? –, a concordância verbal está correta.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Em – A esposa pediu um trage de seda ao marido. –, a ortografia está correta.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 16,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Analise a charge “Os efeitos da crise globalizada”. (http://www.ouest-france.fr/actu/actuLocale_-a-Carquefou-le-dessin-explorela-mondialisation-_44162-avd-20130105-64320235_actuLocale.Htm) Segundo o autor da charge, no atual cenário econômico mundial,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a possibilidade de as crises se tornarem mundiais é cada vez mais remota.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "as crises se tornam mais graves entre os países e populações mais pobres.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o afastamento das crises torna o convívio entre as pessoas mais fácil.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a globalização tende a reduzir o tamanho das crises e os seus efeitos.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q16-p4-c1-0.png",
+     "pagina": 5
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 17,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Segundo relatório divulgado em setembro de 2013, o mundo tem 232 milhões de migrantes internacionais. (http://www.onu.org.br/mundo-tem-232-milhoesde-migrantes-internacionais-calcula-onu/) Sobre a migração internacional, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "desde o início do século XXI, o movimento é realizado em uma única direção: dos países do Sul para os países do Norte.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "as mulheres e os jovens pouco participam deste atual movimento migratório que é predominantemente masculino e adulto.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a antiga migração de cérebros que trazia prejuízos aos países de origem dos migrantes tem sido controlada e reduzida pelos países receptores.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "os fluxos atuais não têm um padrão dominante, pois há refugiados de guerra, mão de obra barata e trabalhadores qualificados, entre outros.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 18,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "A questão está relacionada ao mapa apresentado a seguir. Taxa de analfabetismo das pessoas com 15 anos ou mais de idade RR AP PA AM MA CE RN PB PI PE AC AL TO RO SE BA MT DF GO PROPORÇÃO DE PESSOAS (%) MG MS ES 3,1 a 4,3 SP RJ PR 4,4 a 10,6 SC 10,7 a 17,2 RS 17,3 a 21,8 .com.br Fonte: IBGE (http://g1.globo.com/educacao/noticia/2012/09/html) A partir da interpretação do mapa, é correto concluir que",
+   "texto_na_figura": "RR AP PA AM MA CE RN PB PI PE AC AL TO RO SE BA MT DF GO PROPORÇÃO DE PESSOAS (%) MG MS ES 3,1 a 4,3 SP RJ PR 4,4 a 10,6 SC 10,7 a 17,2 RS 17,3 a 21,8 .com.br Fonte: IBGE",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "as maiores taxas de analfabetismo encontram-se em áreas onde os problemas naturais reduzem as oportunidades de criação de escola.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "as taxas de analfabetismo entre a população com idade inferior a 16 anos diminuíram nestas duas primeiras décadas do século XX.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "as diferenças encontradas entre as taxas de analfabetismo revelam que as desigualdades socioeconômicas permanecem grandes no Brasil.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "os estados do centro-sul do Brasil são os mais populosos, mas apresentam cerca de metade dos analfabetos de todo o país.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q18-p5-c0-0.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 19,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "O acordo de paz imposto pelas grandes potências vitoriosas sobreviventes (EUA, Inglaterra, França, Itália) era dominado por cinco considerações. Uma delas era a necessidade de controlar a Alemanha, que afinal quase tinha derrotado sozinha todos os países aliados. Com isso, impôs-se à Alemanha uma paz puni tiva, justificada pelo argumento de que o país era o responsável pela guerra. O objetivo era manter a Alemanha permanente mente enfraquecida. Isso foi conseguido impedindo o país de ter uma marinha e uma força aérea; limitando seu exército a poucos homens; impondo enormes pagamentos dos custos da guerra pela Alemanha para os países vitoriosos. (Eric Hobsbawm, Era dos Extremos, p. 38-41. Adaptado) Acerca do acordo de paz discutido no trecho, conhecido pelo nome de “Tratado de Versalhes”, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "foi proposto pelos EUA e pela Rússia no final da Guerra Fria e acabou provocando a divisão da Alemanha em dois países: Alemanha Oriental e Alemanha Ocidental.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "foi firmado ao final da Primeira Guerra e foi utilizado por Hitler como justificativa para a sua política nacionalista, que questionava a submissão da Alemanha.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "foi consequência do expansionismo alemão no final da Idade Média, fruto de uma aliança entre os camponeses pobres e a nobreza feudal.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "foi uma das causas da Reforma Protestante na Alemanha, pois a Igreja Católica participou da assinatura do tratado contra a Alemanha.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 20,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Mas se a introdução do trabalho escravo se explica resumidamente dessa forma, por que se optou preferencialmente pelo negro e não pelo índio? As razões da opção pelo escravo africano foram muitas. É melhor não falar em causas, mas em um conjunto de fatores. (Boris Fausto, História do Brail, p. 48-49. Adaptado) Entre os fatores que contribuíram para a escolha pelo escravo africano, é correto indicar",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a fácil conversão dos povos indígenas ao cristianismo, acabando com a justificativa para sua escravização.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a passividade dos negros escravizados, pois não desenvolveram formas de resistência à escravidão.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a preguiça e a falta de comprometimento dos índios com o trabalho intenso da lavoura.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a morte de milhares de índios devido às epidemias surgidas a partir do contato com os brancos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Considere x e y dois números inteiros e positivos, tais que 2 x. Se a quinta parte de um terço de x é igual a 3, então o y = 5 produto xy é igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "920.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "810.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "450.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "270.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Na figura, os pontos M, B e N representam postos de serviço localizados em uma estrada que liga as cidades A e C. Sabe-se que M e N são pontos médios de AB e BC, respectivamente. A M B N C Se a distância entre a cidade A e o posto N é de 69,5 km, e a distância entre as cidades A e C é igual a 91 km, então a distância entre os postos M e N é igual, em quilômetros, a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "52.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "48,5.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "45,5.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "38.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O quadrado ABCD foi dividido em duas regiões quadradas (Q1 e Q2), e duas regiões retangulares congruentes (R1 e R2), conforme mostra a figura. B A x R1 Q1 Q2 R2 D C Sabendo que a área de Q2 é igual a 36 cm2, e que a soma das áreas de R1 e R2 é igual a 108 cm2, pode-se afirmar que a medida, em centímetros, do lado de Q1, indicada por x na figura, é igual a",
+   "texto_na_figura": "x R1 Q1 Q2 R2",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "8.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "9.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "12.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "15.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q23-p6-c0-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Entre as peças de um jogo para montar figuras, há 48 palitos iguais, com 3 cm de comprimento. Lívia usou todos esses palitos, inteiros, para fazer triângulos, com 3 palitos cada um, e quadrados, usando 4 palitos para cada um, num total de 13 polígonos. A soma dos perímetros de todos os triângulos que Lívia fez com esses palitos é igual, em centímetros, a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "36.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "48.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "96.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "108.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Aproveitando o bom tempo do último final de semana, Carolina fez uma caminhada no sábado e outra no domingo, cujas durações, somadas, totalizaram 140 minutos. Sabe-se que ambas não tiveram interrupções, e que a duração da caminhada de sábado 3 da duração da caminhada de domingo. Se a correspondeu a 2 caminhada de sábado teve início às 9 h 12 min, então o seu término ocorreu às",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10 h 20 min.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "10 h 24 min.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "10 h 36 min.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "10 h 40 min.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A distância entre as cidades M e N é de 490 km, e a distância entre suas representações, em um certo mapa, é de 14 cm. Se a distância real entre as cidades P e Q é de 140 km, então a distância entre suas representações, nesse mesmo mapa, será igual, em centímetros, a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "5,5.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "4,8.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um comerciante comprou 100 unidades de certo produto, pagando x reais por unidade. Vendeu 40 unidades por um preço igual a uma vez e meia o preço unitário de custo, e 60 unidades pelo dobro do preço unitário de custo. O valor total arrecadado com a venda de todo o lote teve, em relação ao valor total pago na compra, um acréscimo de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "65%.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "70%.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "75%.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "80%.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Na reta numérica dada, dividida em segmentos de mesma medida, seis números estão representados pelas letras a, b, n, m, p, q. p a b n m q 0 1 2 Nesse caso, os números racionais (a + b), (b – a) e (b + 1) são corretamente representados nessa reta por, respectivamente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "m, p, q.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "m, q, p.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "p, q, m.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "q, m, p.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "São dadas três informações: I. x e y são números inteiros positivos; II. (x + y)2 = 144; III. x . y = 20. De acordo com esses dados, é correto afirmar que x2 + y2 vale",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "96.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "98.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "100.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "104.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O gráfico mostra o saldo mensal (total das receitas menos total das despesas) de um pequeno comerciante no primeiro trimestre de 2013. Saldo 30000 20000 10000 Mês jan. fev. mar. abr. mai. jun. –10000 –20000 –30000 Sabendo-se que as despesas referentes aos meses de janeiro, fevereiro e março foram iguais a R$ 70.000,00, R$ 45.000,00 e R$ 62.000,00, respectivamente, pode-se afirmar que o total das receitas desses três meses foi igual a",
+   "texto_na_figura": "20000 10000 Mês jan. fev. mar. abr. mai. jun. –10000 –20000 –30000",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 227.000,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 207.000,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 202.000,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 177.000,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q30-p8-c0-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um capital de R$ 15.000,00, aplicado durante 8 meses no sistema de juros simples, produziu um montante de R$ 16.440,00. A taxa anual de juros dessa aplicação foi de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "12,2%.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "12,8%.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "14,4%.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "14,8%.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A figura mostra um quadrado de lado x no interior de um retângulo de dimensões iguais a 4 x e x + y. x + y x x 4 x A expressão algébrica, na sua forma fatorada, que representa corretamente a área da região pintada na figura é",
+   "texto_na_figura": "x + y x x",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "x(3x + 4y).",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "x(4x + 3y).",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3x(x + 4y).",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "3x(x + y).",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q32-p9-c0-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um cartaz quadrado, de lado y, recebeu uma faixa adicional com 20 cm de largura, conforme mostra a figura. y 20 cm Se a área total desse cartaz, após o acréscimo, passou a ser de 0,8 m², então a medida indicada por y na figura é igual, em centímetros, a",
+   "texto_na_figura": "y 20 cm",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "50.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "60.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "70.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "80.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q33-p9-c0-1.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "As medidas dos lados de um retângulo são expressas por a e b, e esse retângulo tem 24 unidades de perímetro. Outro retângulo tem 36 unidades de perímetro e as medidas dos seus lados são expressas por x e y. Nessas condições, o valor numérico da expressão ax + bx + ya + yb é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "540.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "360.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "216.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "200.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "“Na Fuvest 2013, a relação geral de candidatos por vaga era de 14,5 e, para 2014, a proporção avança para 15,5 vestibulandos por vaga.” (O Estado de S. Paulo. 26.09.2013) Admitindo-se que o número de vagas oferecidas não foi alterado, pode-se afirmar que, em relação ao número de candidatos inscritos na Fuvest/2013, o número de candidatos inscritos para a Fuvest/2014 aumentou, aproximadamente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5%.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "7%.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "8%.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "9%. R A S C U N H O",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 36,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A implantação de um cemitério em determinado local pode causar alterações no meio físico e, por esse motivo, deve ser considerada uma fonte de impacto ambiental. Isso é possível porque as substâncias liberadas durante a decomposição dos corpos humanos podem atingir o solo, caso não haja isolamento das covas com material impermeável. Dentre as substâncias liberadas, a principal delas é o necrochorume, que contém em sua composição aproximadamente 60% de água, substâncias orgânicas degradáveis e diversos tipos de sais minerais. O principal risco ambiental que algumas dessas substâncias podem causar é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a emissão de gases causadores do efeito estufa.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a contaminação da água subterrânea.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a destruição da vegetação ao absorver o necrochorume.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o aparecimento de insetos decompositores.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 37,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Já calculou a sua pegada de carbono? O termo “pegada de carbono” é utilizado atualmente para medir a quantidade de dióxido de carbono que um indivíduo produz, mediante sua atividade diária. Dependendo da ação realizada, é possível determinar a quantidade de carbono produzida e a respectiva compensação ambiental decorrente dessa ação. Vejamos um exemplo: Considere que você realize uma viagem semanal de São Paulo para Brasília durante um ano. Para compensar a emissão de CO2 (0,25 ton/ano) produzida por você nessa ação, você deverá plantar 2 árvores nesse período. (http//iniciativaverderde.org.br/pt/calculadora) Essa iniciativa está relacionada ao fato de o plantio de árvores",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aumentar a absorção de CO2 utilizado para a realização de fotossíntese.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "purificar o ar devido à liberação de oxigênio durante o dia e a noite.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "provocar o aumento de áreas de sombra, evitando o efeito estufa.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "diminuir a emissão de CO2 durante o período diurno.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q37-p10-c1-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 38,
+   "materia": "Ciências Naturais",
+   "contexto_id": "ctx-2014-38",
+   "enunciado": "A necessidade de geração de energia para sustentar o crescimento econômico do País tem sido o principal argumento do governo para a construção das grandes hidrelétricas, responsáveis pela geração de quase 72% da energia elétrica produzida. Esse argumento é reforçado pela ideia de que essas megausinas representam uma fonte de energia renovável. No entanto, a discussão atual é a de que, na realidade, elas não são tão sustentáveis assim, embora tenham como grande vantagem",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "reduzir a biodiversidade local.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "provocar alterações climáticas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "aumentar a migração das comunidades do entorno.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "evitar a queima de combustíveis fósseis.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 39,
+   "materia": "Ciências Naturais",
+   "contexto_id": "ctx-2014-38",
+   "enunciado": "As novas tecnologias usadas para a produção de energia buscam as fontes renováveis, abundantes, de grande potencial e que causam pouquíssimos impactos ambientais. De acordo com o gráfico, essas fontes, no Brasil, seriam provenientes",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "da captação da luz solar e do vento, que representam menos de 1,0% da energia gerada.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "do gás natural, que representa quase 12% do total da energia gerada.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "dos biocombustíveis, que representam quase 20% da energia gerada.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "da queima do carvão, que representa 1,42% do total de energia produzida.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 40,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Considere o depoimento de Marizilda (nome fictício) após uma experiência com droga. Semana passada fui a um barzinho prestigiar o show de um amigo e encontrei por lá alguns colegas não muito próximos. Como estava com um pouco de dor de cabeça, um desses colegas me deu um comprimido, explicando que era para passar a dor. No entanto, após algum tempo, eu fiquei estranha e confusa. Fiquei dançando com um amigo e ele me achou estranha; contou que, embora não tenha tomado bebida alcoólica na balada, fiquei eufórica, dancei a noite inteira sem parar e sequer percebi que ele estava comigo. No dia seguinte, ocorreram alguns efeitos indesejados comigo: aumento da tensão muscular e da atividade motora, aumento da temperatura corporal – como se eu tivesse febre, dores na musculatura dos membros inferiores e coluna lombar, dores de cabeça, náuseas, perda do apetite, visão borrada, boca seca, insônia, alucinações, agitação, ansiedade, crise de pânico e episódios breves de psicose. Nos dias seguintes ao uso da droga, fiquei deprimida, com dificuldade de concentração, ansiosa e fatigada. De acordo com o relato, a droga que Marizilda, provavelmente, ingeriu foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a cocaína.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "uma anfetamina.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o extasy.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o “boa noite cinderela”.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 41,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A gonorreia é a primeira das doenças sexualmente transmis síveis (DST) a se aproximar da incurabilidade. Notícias vindas do Japão e dos Estados Unidos estão transformando a doença em prioridade para a saúde pública. Uma vez que os medicamentos utilizados para combatê-la se tornaram acessíveis, os desafios pareciam resolvidos, mas a gonorreia não foi derrotada. Os micro-organismos causadores da doença sobrevivem ao pegar o DNA de outro organismo para construir suas defesas, ganhando, assim, a batalha contra esses medicamentos. (Scientific American, n.54, Agosto, 2013. Modificado) O texto faz referência a um fenômeno constatado há alguns anos pelos cientistas. Trata-se",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "do avanço das doenças causadas por vírus que usam o DNA para se defender.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "do aumento da resistência das bactérias aos medicamentos utilizados para combatê-las.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "da grande capacidade de as bactérias serem transmitidas por meio de relações sexuais.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "da deficiência dos antibióticos em destruir o DNA transmitido pela bactéria ao homem. Considere o texto a seguir para responder às questões de números 42 e 43. No Brasil, existem algumas áreas bem documentadas, denominadas zonas mortas, onde a biodiversidade praticamente desaparece. A causa primária desse fenômeno está relacionada com o aumento da quantidade de nutrientes nas regiões oceânicas costeiras. Essa abundância provoca um aumento rápido dos micro-organismos que utilizam luz e CO2. Num primeiro momento, esse crescimento atrai outros organismos, mas logo a água se turva e, sem luz, os micro-organismos morrem, juntamente com outros animais. Os cadáveres desses seres vivos acumulam-se no fundo do mar e permitem a multiplicação de organismos que utilizam o oxigênio disponível para degradar a matéria orgânica acumulada. Após algum tempo, sobrevivem somente os organismos anaeróbicos, os quais produzem quantidades crescentes de compostos de enxofre, o que acaba por tornar o ambiente inóspito para a maioria dos animais. (Zonas mortas nos oceanos. In: A Longa Marcha dos Grilos Canibais, Fernando Reinach, p.26-27)",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12,
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 42,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O aumento da quantidade de nutrientes responsáveis pelos eventos descritos no texto deve-se, principalmente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ao lançamento de resíduos industriais contendo metais pesados.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "à poluição causada pelos gases CO2 e metano que reagem com a água do mar.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "ao uso excessivo de adubos químicos levados pelos rios até os mares.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à destruição dos mangues, berçários de muitas espécies marinhas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 43,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Os micro-organismos que, inicialmente, beneficiam-se desse processo são",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os protozoários.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "os decompositores.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "as algas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "as larvas de peixes.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 44,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Desde o início da epidemia, em 1980, até junho de 2012, o Brasil teve 656 701 casos registrados de Aids, de acordo com o último Boletim Epidemiológico do Ministério da Saúde. Em um período de 10 anos, 2001 a 2011, a taxa de incidência caiu no Sudeste de 22,9 para 21,0 casos, por 100 mil habitantes. Em relação aos números absolutos de casos de Aids em menores de cinco anos, observou-se redução de 846 casos, em 2001, para 745, em 2011. Esse resultado confirma a eficácia da política de redução da transmissão vertical do HIV (da mãe para o bebê). Quando todas as medidas preventivas são adotadas, a chance de transmissão vertical cai para menos de 1%. (http://www.aids.gov.br/pagina/aids-no-brasil) A redução do número de casos na região Sudeste e a redução da transmissão vertical de Aids são devidas, dentre várias outras, às respectivas ações de prevenção:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uso de preservativos e substituição do aleitamento materno por leite em pó.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "uso de medicamentos antirretrovirais e transfusão sanguínea do bebê.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "diminuição das relações homossexuais e uso de camisinha durante a gravidez.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "diminuição do consumo de drogas e estímulo à realização de parto normal.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 45,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Observe os gráficos que representam a velocidade e o tempo que um carro comum e um carro de Fórmula 1 (F1) demoram para atingir a velocidade de 30 m/s. (http://fisicamoderna.blog.uol.com.br/arch2010-05-09_2010-05-15.html) Com relação a esses gráficos, pode-se afirmar que a velocidade",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é maior no carro de passeio após 2 s.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "é igual em ambos os carros após 15 s.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "se mantém constante em ambos os carros após 2 s.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "do carro F1 é maior que a do carro de passeio até 20 s.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q45-p12-c1-0.png",
+     "pagina": 13
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 46,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Um piloto de Fórmula 1 sofre no momento que faz uma curva em alta velocidade, no momento em que acelera o carro e quando freia. A tontura e perda de sentido muitas vezes podem ocorrer se o piloto não tem preparo físico. Esse sofrimento é tão alto, que na freada ao final de uma reta, ele é jogado para a frente com tanta força que, para suportar tanta aceleração sem se movimentar, o piloto é preso por um cinto de seis pontos apertados ao máximo suportável por ele. (http://fisicamoderna.blog.uol.com.br. Adaptado) (dreamstime.com) O fato descrito está relacionado diretamente com a seguinte Lei de Newton:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a velocidade produzida em um corpo por uma força é diretamente proporcional à intensidade da velocidade e inversamente proporcional à força do corpo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a toda força de ação corresponde uma força de reação igual e oposta, ou seja, em sentido contrário.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a alteração do movimento é, então, proporcional à força externa aplicada em corpos diferentes, e nunca no mesmo corpo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "todo corpo tende a permanecer em seu estado de movimento (repouso ou movimento retilíneo uniforme), a menos que sobre ele seja aplicada uma força externa.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q46-p13-c0-0.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 47,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Considere a ilustração a seguir em que estão indicadas três formas de energia obtidas por meio de processos naturais. A produção de energia elétrica, a partir de energia mecânica, está indicada pelos números",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 e 2, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2 e 3, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1 e 3, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1, 2 e 3.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q47-p13-c1-0.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 48,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Em frascos numerados de 1 a 5, foram colocadas várias substâncias, conforme indicado na tabela a seguir. Frasco Mistura 01 Água + sal 02 Água + areia 03 Água + açúcar 04 Água + sal + açúcar 05 Água + óleo Por meio da diferença entre as densidades dos compostos utilizados, os frascos que apresentam misturas heterogêneas são apenas os de números",
+   "texto_na_figura": "Frasco Mistura 01 Água + sal 02 Água + areia 03 Água + açúcar 04 Água + sal + açúcar 05 Água + óleo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 e 3.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2 e 5.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3 e 4.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4 e 5.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q48-p13-c1-1.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 49,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Os rejeitos radioativos provenientes de hospitais, usinas nucleares, centros de pesquisas recebem o nome de lixo nuclear. Esse material é resultado da atividade com elementos radioativos que emitem energia nuclear, como Urânio, Césio, Estrôncio, Iodo, Criptônio e Plutônio. Após sua utilização, esses rejeitos devem ser",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "descartados em recipientes destinados aos resíduos recicláveis.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "reduzidos a sacolas especiais e descartados em aterro sanitário comum.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "colocados em recipientes especiais e depositados em locais revestidos por concreto.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "encaminhados a ferro-velho capacitado para reutilização desses resíduos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 50,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A destilação fracionada é usada na separação de misturas homogêneas quando os componentes da mistura são líquidos. Ela é baseada nos diferentes pontos de ebulição dos componentes da mistura. A técnica e a aparelhagem utilizada na destilação fracionada é a mesma utilizada na destilação simples, apenas deve ser colocado um termômetro no balão de destilação, para que se possa saber o término da destilação do líquido de menor ponto de ebulição que ocorrerá quando a temperatura voltar a se elevar rapidamente. Considere o gráfico apresentado e a tabela que representa o ponto de ebulição de alguns componentes do petróleo. Ponto de Ebulição em ºC Produto 20 Gás 120 Gasolina 170 Querosene 270 Diesel 340 Lubrificante 500 Óleo 600 Asfalto Se a temperatura do ponto de ebulição representado por 2 é de 20 ºC, o ponto de ebulição do querosene é representado pelo número",
+   "texto_na_figura": "Ponto de Ebulição em ºC Produto 20 Gás 120 Gasolina 170 Querosene 270 Diesel 340 Lubrificante 500 Óleo 600 Asfalto",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "3.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "4.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "5.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "6.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2014/2014-q50-p14-c0-0.png",
+     "pagina": 15
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  }
+ ]
+}

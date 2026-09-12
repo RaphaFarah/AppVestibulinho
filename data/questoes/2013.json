@@ -1,0 +1,2033 @@
+{
+ "ano": 2013,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "2013.pdf",
+ "fonte_gabarito": "gabarito 2013.pdf",
+ "n_alternativas": 4,
+ "contextos": [
+  {
+   "id": "ctx-2013-01",
+   "questoes": [
+    1,
+    2
+   ],
+   "instrucao": "Observe a tirinha para responder às questões de números 01 e 02.",
+   "texto": "(Disponível em: http://omeninomaluquinho.educacional.com.br/PaginaTirinha/ PaginaAnterior.asp?da=02092012 Acesso em: 26.09.2012)",
+   "texto_na_figura": "Ri!Ri!Ri! Ué? Cadê o ... senão, ele vai ficar pedindo Xi! Lá vem o chato do Junim! O esconderijo Maluquinho? pra eu tirar coisas de dentro Preciso me esconder... perfeito! da minha panelinha!",
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/ctx-2013-01-p2-c0-0.png",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "id": "ctx-2013-03",
+   "questoes": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 03 a 06.",
+   "texto": "Alunos se empolgam com o uso do tablet na escola Há mais de dois mil anos, pessoas usavam lápis feito de bambu para aprender a escrever sobre uma placa de argila mole. Hoje, a novidade que chega às escolas tem o mesmo formato de placa, ou melhor, de tablete. Mas agora pode-se escrever com o dedo, já que possui tela sensível ao toque. É preciso dizer o que é?! Desde 2010, os tablets ganham espaço nas salas de aula, ao lado de livros e cadernos. Em algumas escolas, começaram a fazer parte da lista de materiais obrigatórios. Luca Amaral, 12 anos, conta que, no colégio onde estuda, em São Paulo, os professores de geografia bolaram uma espécie de caça ao tesouro. Em dupla, os alunos usaram um tablet fornecido pela escola para acessar o Google Maps. Digitaram ali coordenadas geográficas (dados para achar lugares no mapa), que os levaram a locais do colégio onde havia peças de quebra-cabeça escondidas. Juntas, formaram um QR Code (tipo de código), lido com o tablet. Finalmente, apareceu uma foto da Estação da Luz, porque os alunos estavam estudando ferrovias. Atividade parecida foi desenvolvida em um outro colégio em São Paulo. Em equipe, estudantes escanearam com o tablet QR Codes espalhados pela escola. Cada um mostrava um problema matemático, que eles tinham de resolver para passar de 3 etapa. No final, deviam apresentar os cálculos que os haviam levado às respostas. “Esse tipo de projeto é mais divertido. De tanto que é legal, a gente tem vontade de aprender”, disse o aluno Omar Hassan, 12 anos. (Disponível em: www1.folha.uol.com.br/folhinha/1160217-alunos-se-empolgam-com-o-uso-do-tablet-na-escola.shtml Acesso em: 05.10.2012. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2013-09",
+   "questoes": [
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 09 a 13.",
+   "texto": "Professores têm medo de aluno só se ligar nos tablets Para Myriam Tricate, diretora do colégio Magno, não dá para ignorar o que acontece fora dos muros da escola. “A partir do momento em que a tecnologia se torna próxima da nossa vida, temos que abraçá-la.” Mas ninguém sabe direito como fazê-lo. No Bandeirantes, que tem 50 iPads para uso em classe, professores se reúnem quinzenalmente para trocar ideias de atividades e pensar em como lidar com as novidades. Sílvia Vampré, coordenadora de tecnologia educacional do colégio, conta que uma das principais preocupações dos educadores é perder o controle sobre os alunos. Eles perguntam-se o que terão de fazer para continuar sendo foco das atenções quando cada aluno tiver um tablet nas mãos. Para Sílvia, é necessário que as atividades sejam envolventes e enriqueçam o ensino. O professor Claudemir Belintane, da Faculdade de Educação da USP, tem opinião parecida e alerta: “Não podemos achar que as crianças vão aprender mais só porque estão mais envolvidas com os efeitos tecnológicos”. Segundo ele, para construir conhecimento, o aluno deve deixar de prestar atenção só a formas e movimentos dos tablets e se ligar no conteúdo. (Disponível em: www1.folha.uol.com.br/folhinha/1160235-professores- -tem-medo-de-aluno-so-se-ligar-nos-tablets.shtml Acesso em: 05.10.2012. Adaptado) 4 CTIN1201/001-ProvaConhecimentosGerais",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2013-45",
+   "questoes": [
+    45,
+    46
+   ],
+   "instrucao": "Leia o texto a seguir para responder às questões de números 45 e 46.",
+   "texto": "As termelétricas produzem energia a partir da queima de carvão, óleo combustível ou gás natural e são fontes de gás carbônico e óxidos de nitrogênio e de enxofre. Em geral, são instaladas próximas a leitos de rios ou mar, pois a água é utilizada no processo de condensação do vapor. Isso acarreta a elevação da temperatura da água onde termelétricas são instaladas, pois esta é devolvida mais quente. As hidrelétricas envolvem a construção das represas, que provocam inundações em imensas áreas de matas, interferem no fluxo de rios e na ocupação humana. As inundações das florestas fazem com que a vegetação encoberta entre em decomposição, provocando a liberação de metano. O uso da energia eólica não polui durante sua operação, mas contribui para o aumento de ruídos, o impacto visual e o impacto sobre a fauna, se as turbinas eólicas forem instaladas em rotas de migração de pássaros. O uso do sistema fotovoltaico para obtenção de energia elétrica a partir de energia solar não emite poluentes durante sua operação, mas sim durante a fabricação de seus materiais e a sua construção; além disso, pode haver impacto relacionado a questões de área de implantação. (www.espacosustentavel.com. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2013-01",
+   "enunciado": "Analisando-se as imagens e o texto escrito da tirinha, é correto afirmar que o",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Menino Maluquinho considera Junim um amigo agradável, legal.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Junim encontra facilmente o Menino Maluquinho dentro da panelinha.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Menino Maluquinho, no último quadrinho, diz em voz alta: “O esconderijo perfeito!”.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Junim costuma pedir ao Menino Maluquinho que tire coisas de dentro de sua panelinha.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 2,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2013-01",
+   "enunciado": "Em – ... senão, ele vai ficar pedindo pra eu tirar coisas de dentro da minha panelinha! –, sem alterar o sentido do texto, a palavra em destaque pode ser substituída por:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "porém",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "do contrário",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "assim",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "então",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 3,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2013-03",
+   "enunciado": "De acordo com o texto, é correto afirmar que os",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "alunos, para escreverem no tablet, utilizam um lápis feito de bambu.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "tablets já fazem parte da rotina dos alunos em alguns colégios em São Paulo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "alunos, como Omar Hassan, perderam a vontade de aprender por causa do tablet.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "tablets são úteis unicamente nas aulas de geografia e matemática.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 4,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2013-03",
+   "enunciado": "No trecho – Cada um mostrava um problema matemático, que eles tinham de resolver para passar de etapa. –, a palavra em destaque indica uma relação de finalidade. Assinale a alternativa em que o termo destacado na oração também expressa relação de finalidade.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Utilizamos o tablet para tornarmos as aulas mais dinâmicas e interessantes.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Para mim, os tablets acabam distraindo as crianças em sala de aula.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Os tablets irão para manutenção, mas em uma semana serão devolvidos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "A escola adquiriu um tablet para cada aluno do ensino fundamental.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 5,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2013-03",
+   "enunciado": "Sem alterar o sentido do texto e de acordo com a norma- -padrão da língua portuguesa, na frase – Há mais de dois mil anos... –, o termo em destaque pode ser substituído por:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fazem",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Existem",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Faz",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Faziam",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 6,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2013-03",
+   "enunciado": "Em – ... pode-se escrever com o dedo, já que possui tela sensível ao toque. –, sem alterar o sentido do texto, o termo em destaque pode ser substituído por:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pois",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "desde que",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "quando",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ainda que",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 7,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Considerando a norma-padrão da língua portuguesa, assinale a alternativa em que a frase foi escrita corretamente.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Desenvolvida em sala de aula, atividades são mais divertidas com o uso de tablets.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Os alunos, trabalhando em dupla, sentem-se mais entusiasmado utilizando tablets.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Para ser bem compreendido, os conteúdos são ensinados por meio de tablets.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Preocupados, não sabem os professores o que fazer com essa “invasão” dos tablets.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 8,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa que preenche corretamente a lacuna do texto a seguir, de acordo com a norma-padrão da língua portuguesa. Ontem, por causa de problemas técnicos, nós não utilizar tablets em sala de aula.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "puderam",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "podemos",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "podem",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "pudemos",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 9,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2013-09",
+   "enunciado": "De acordo com o texto, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o aluno, segundo o professor Claudemir, precisa considerar o conteúdo e não prestar atenção apenas a formas e movimentos dos tablets.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o que acontece fora dos muros da escola não tem importância, pois não traz influência para o processo de ensino e aprendizagem.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "os educadores do Bandeirantes não estão preocupados com a possibilidade de perder o controle sobre os alunos que utilizarem tablets.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o uso de tablets, para a coordenadora Sílvia Vampré, impede que as atividades sejam envolventes e enriqueçam o ensino.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 10,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2013-09",
+   "enunciado": "Em – Segundo ele, para construir conhecimento, o aluno deve deixar de prestar atenção... –, sem alterar o sentido do texto, a palavra em destaque pode ser substituída por:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Com",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Exceto",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Conforme",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Sendo",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 11,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2013-09",
+   "enunciado": "No trecho – “Não podemos achar que as crianças vão aprender mais só porque estão mais envolvidas com os efeitos tecnológicos”. –, a palavra em destaque expressa",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "intensidade.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "lugar.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "modo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "dúvida. Leia o seguinte trecho do texto para responder às questões de números 12 e 13. Para Myriam Tricate, diretora do colégio Magno, não dá para ignorar o que acontece fora dos muros da escola. “A partir do momento em que a tecnologia se torna próxima da nossa vida, temos que abraçá-la.”",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 12,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2013-09",
+   "enunciado": "O termo “la”, em destaque no texto, refere-se à",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "“diretora do colégio Magno”.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "“nossa vida”.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "“escola”.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "“tecnologia”.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 13,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2013-09",
+   "enunciado": "A alternativa que contém uma palavra com sentido contrário da forma verbal “ignorar” é:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "desprezar.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "considerar.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "transformar.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "desrespeitar.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 14,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do texto a seguir, de acordo com a norma- -padrão da língua portuguesa. Tudo nos leva crer que, tendo acesso aparelhos eletrônicos como o tablet para desenvolver as atividades, os alunos comparecerão aulas com maior interesse em aprender.",
+   "texto_na_figura": "eletrônicos como o tablet para desenvolver as atividades, os",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "à ... a ... às",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a ... à ... às",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a ... a ... às",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a ... a ... as",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q14-p4-c0-0.png",
+     "pagina": 5
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 15,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa em que a frase foi escrita corretamente, de acordo com a norma-padrão da língua portuguesa.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A preocupação dos professores são o uso inadequado dos tablets em sala de aula.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Luca e Omar, com a utilização de tablets, agora tem mais vontade de aprender.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Os recursos do tablet pode ajudar a escola a alcançar seus objetivos educacionais.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Em algumas escolas, foram autorizadas a compra e a distribuição de tablets aos alunos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 16,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Criados com o objetivo de fortalecer as economias regionais frente ao processo de globalização, os blocos econômicos acabam por facilitar o comércio entre os países membros. Um desses blocos econômicos desenvolveu um sistema financeiro comum e criou uma moeda única. Trata-se",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "do Mercosul.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "da União Europeia.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "do Nafta.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "dos Tigres Asiáticos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 17,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Observe o mapa. Fuso Horário Mundial –7 –5 +5 +7 12 –11 –10 –9 –8 –6 –4 –3 –2 –1 0 +1 +2 +3 +4 +6 +8 +9 +10 +11 12 Greenwich –7 –5 +5 +7 12 –11 –10 –9 –8 –6 –4 –3 –2 –1 0 +1 +2 +3 +4 +6 +8 +9 +10 +11 12 (http://mozambique.smetoolkit.org/mozambique/pt/content/pt/7477/Argentina- -Viajar. Acesso em 03.11.2012) Brasília está no meridiano de 45º O e são 10h da manhã do dia 16 de outubro. Q ual será o dia e horário em Pequim, considerando que essa cidade está no meridiano de 120º L?",
+   "texto_na_figura": "–7 –5 +5 +7 12 –11 –10 –9 –8 –6 –4 –3 –2 –1 0 +1 +2 +3 +4 +6 +8 +9 +10 +11 12 Greenwich –7 –5 +5 +7 12 –11 –10 –9 –8 –6 –4 –3 –2 –1 0 +1 +2 +3 +4 +6 +8 +9 +10 +11 12",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15h do dia 16 de outubro.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "16h do dia 17 de outubro.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "22h do dia 17 de outubro.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "21h do dia 16 de outubro.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q17-p4-c1-0.png",
+     "pagina": 5
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 18,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Observe o gráfico. B RASIL – POPULAÇÃO RESIDENTE URBANA E (1991-2010) RURAL 200 000 000 150 000 000 Urbana 100 000 000 Rural 50 000 000 0 1991 2000 2010 (www.censo2010.ibge.gov.br/sinopse/index.php?dados=8&uf=00. Acesso em 16.10.2012) A partir da leitura do gráfico, pode-se concluir que a população",
+   "texto_na_figura": "B RASIL – POPULAÇÃO RESIDENTE URBANA E (1991-2010) RURAL 200 000 000 150 000 000 Urbana 100 000 000 Rural 50 000 000 0 1991 2000 2010",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "rural manteve-se a mesma desde 1991.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "urbana e rural aumentaram na mesma proporção.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "urbana cresce continuamente desde 1991.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "urbana e rural sofreram mudanças pouco significativas.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q18-p4-c1-1.png",
+     "pagina": 5
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 19,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Getúlio Vargas governou o Brasil durante 15 anos consecutivos (de 1930 a 1945) e, mais tarde, por mais três anos (de 1951 a 1954). Durante o primeiro período de seu governo, foi considerado por muitos como o “Pai dos pobres” e uma das razões para essa designação se deve ao fato de ele ter",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "criado o Ministério do Trabalho, Indústria e Comércio e, com ele, leis de proteção ao trabalhador.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "promovido o desenvolvimento industrial do país, instalando a Companhia Siderúrgica Nacional.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "descentralizado o poder executivo, permitindo aos estados maior autonomia econômica.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "incentivado a produção cafeeira no Brasil, por ser o principal produto do mercado interno.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 20,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Os Atos Institucionais (AI) eram mecanismos de legitimação do poder utilizados durante o período militar brasileiro para estabelecer poderes extra-constitucionais ao regime militar. Dos cinco atos institucionais promulgados, o AI5 (1968) foi o que mais marcou esse período, porque determinou",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o desmanche dos sindicatos que surgiram no período Vargas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o fechamento do Congresso Nacional.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a criação do Serviço Nacional de Informações.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a eleição de presidente e vice-presidente pelo Congresso Nacional.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 21,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Entre o final da década de 1960 e o início da década de 1970, o Brasil viveu o chamado “milagre econômico”. Assinale a alternativa que contém as características da época.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Crescimento econômico moderado, aumento do poder de compra do salário mínimo e plena liberdade de expressão.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Queda brusca do poder de compra do salário mínimo, grave crise econômica e intensa desindustrialização.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Estabilidade econômica, política de distribuição de renda e formação do Estado do Bem-Estar Social no Brasil.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Forte crescimento econômico, aumento significativo da concentração de renda e intensa repressão política.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 22,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Em sua música, Luiz Gonzaga trata bastante dos efeitos da seca. Historicamente, no entanto, sabe-se que o deslocamento representado na música também teve relação com",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a ausência de manifestações culturais próprias do sertão.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a concentração de renda e de terra.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a expulsão dos sertanejos pelos povos indígenas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a construção de hidrelétricas, que transformaram o sertão em um grande “mar”. Leia os versos da música Funeral de um lavrador, de Chico Buarque: Esta cova em que estás com palmos medida É a conta menor que tiraste em vida (...) É de bom tamanho nem largo nem fundo É a parte que te cabe deste latifúndio (...) Não é cova grande, é cova medida É a terra que querias ver dividida (...)",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 23,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "A letra dessa música faz uma crítica",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "às relações de trabalho no campo e na cidade, em que o trabalhador assalariado não tem direito ao título de propriedade, ao contrário do que prevê a legislação trabalhista.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "aos projetos de reforma agrária e de mudança da estrutura fundiária, pois a realização de um trabalhador rural está no final de sua vida, quando os trabalhadores efetivamente têm acesso à terra.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "à estrutura fundiária no Brasil, ressaltando o fato de que muitas vezes aqueles que lutam pela redistribuição das propriedades acabam morrendo sem conquistar o seu pedaço de terra.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à luta pela terra no Brasil, pois todos os movimentos que reivindicaram a reforma agrária levaram inevitavelmente os trabalhadores à morte em conflitos no campo e atrasaram o desenvolvimento do país. Observe o que segue. VOCÊ PODE ME DAR MAIS DETALHES DA CLARO, VOCÊ TORTURA PREFERE O QuÊ? NO BRASIL? UMA UNHA, UM DENTE, UM DEDO... (historianovest.blogst.com/.../regime-militar-no-brasil-em-charges)",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q23-p6-c0-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6,
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 24,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Acerca da charge em que aparece o ex-presidente dos EUA Richard Nixon (1969-1974), é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "no início dos anos 1970, período mais violento da ditadura, a prática da tortura contou com a cumplicidade dos EUA e foi um dos mecanismos utilizados pelos militares para se imporem no poder e combaterem a oposição.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "os EUA tentaram de várias formas garantir o respeito aos direitos humanos e à democracia no Brasil, constrangendo o governo da ditadura militar de forma a pressioná-lo pelo fim das práticas de tortura.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "na ditadura militar, evidenciou-se um distanciamento diplomático entre os EUA e o Brasil, pois a principal potência capitalista não aceitava sentar-se à mesa para negociar com países autoritários que romperam com a democracia.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a prática da tortura foi uma exceção, tendo sido realizada apenas por alguns militares que se excederam em suas funções e, atendendo aos pedidos dos EUA, o próprio governo brasileiro denunciou e combateu essa prática ilegal.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 25,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "A Carteira de Trabalho e Previdência Social (CTPS) foi criada nos anos 1930, por Getúlio Vargas, com o objetivo de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "impedir os trabalhadores de terem mais de um emprego formal, de forma a garantir vagas de trabalho para um número maior de pessoas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "desestimular os trabalhadores a procurarem empregos formais, pois o documento dificultou e burocratizou a contratação de novos empregados pelas empresas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "garantir o acesso dos trabalhadores aos principais direitos trabalhistas, como o salário mínimo e as férias remuneradas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "evidenciar para os trabalhadores a relação de exploração que existe nos empregos formais, pois a exploração é ressaltada no registro em carteira.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Adriano, Beto e Felipe são fãs de jogos eletrônicos. Adriano tem três jogos a mais que Beto. Beto, por sua vez, tem o triplo do número de jogos que Felipe possui, sendo que os três, juntos, têm 31 jogos. Desse modo, é correto afirmar que Adriano e Felipe, juntos, têm uma quantidade de jogos igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "12.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "15.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "16.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "19.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Mariana leu as primeiras 28 páginas de um livro em 30 minutos e 20 segundos. Mantendo o mesmo ritmo, sem interrupções, ela demorou mais 43 minutos e 20 segundos para ler as páginas restantes, concluindo a leitura do livro. Pode-se afirmar, assim, que o número total de páginas desse livro era",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "68.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "60.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "54.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "40.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Pesquisa feita pela Agência Nacional de Vigilância Sanitária (Anvisa) identificou alto teor de sódio em alimentos vendidos no País. Observe as informações do quadro, que mostra como obter a quantidade de sal, em gramas, a partir do teor de sódio indicado no alimento: CARDÁPIO • Uma dieta com pouco sal pode reduzir doenças cardiovasculares e controlar o colesterol. Ultrapassar o limite diário de sal, porém, é fácil Sódio Sódio x sal Está presente em alimentos Para obter a quantidade de salgados, conservantes, sal de um alimento, multiadoçantes, fermentos e plique o teor de sódio por realçadores de sabor 2,5 e depois divida por mil (O Estado de S.Paulo. 16.10.2012) Sabe-se que a embalagem de certo pacote de pão de forma traz a seguinte informação nutricional: cada porção de 50 g (2,5 fatias) contém 250 mg de sódio. Nesse caso, pode-se concluir, de acordo com os dados do quadro, que a quantidade de sal contida em 10 fatias desse pão é, em gramas, igual a",
+   "texto_na_figura": "CARDÁPIO • Uma dieta com pouco sal pode reduzir doenças cardiovasculares e controlar o colesterol. Ultrapassar o limite diário de sal, porém, é fácil Sódio Sódio x sal Está presente em alimentos Para obter a quantidade de salgados, conservantes, sal de um alimento, multiadoçantes, fermentos e plique o teor de sódio por realçadores de sabor 2,5 e depois divida por mil",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "3,75.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2,50.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "2,25.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1,50.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q28-p6-c1-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em um determinado momento, todas as 36 mesas de um restaurante estavam ocupadas, algumas por 4 pessoas, e as restantes, por apenas 2 pessoas, num total de 96 clientes. Sabe-se que havia uma vela acesa em cada mesa com duas pessoas, e duas velas acesas em cada mesa com quatro pessoas. Pode-se concluir, assim, que, nesse momento, o número total de velas acesas era",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "46.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "48.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "54.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "58.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A proliferação dos arquivos digitais, a grande oferta de DVDs, a TV por assinatura e a pirataria contribuíram para a queda considerável no número de videolocadoras em São Paulo, conforme demonstrado no gráfico: NÚMERO DE VIDEOLOCADORAS EM SÃO PAULO 2500 1800 600 1988 2005 2012 (Revista Veja São Paulo. 17.10.2012) O gráfico mostra que o número de videolocadoras existentes em 2012 representa, em relação ao de 1988, uma redução de",
+   "texto_na_figura": "1800 600",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "24%.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "33%.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "67%.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "76%.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q30-p7-c0-0.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Duas telas quadradas, colocadas em uma parede, são tais que a medida do lado da menor é igual à metade da medida do lado da maior, conforme mostram as figuras: x 0,5 x Se a soma das áreas dessas duas telas é igual a 8 000 cm2, então a soma de seus perímetros é, em centímetros, igual a",
+   "texto_na_figura": "0,5 x",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "480.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "500.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "520.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "580.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q31-p7-c0-1.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Para ministrar um treinamento com duração de 5 dias aos 120 estoquistas de uma rede de supermercados, os consultores A e B apresentaram propostas cujos valores totais eram iguais. Sabe-se que a proposta apresentada por A previa apenas a cobrança de um valor fixo diário igual a x reais, enquanto a apresentada por B estipulava um valor fixo diário 2 igual, em reais, a , mais R$ 40,00 para cada estoquista x 5 treinado. Desse modo, é correto afirmar que o valor total de cada proposta era",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 9.000,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 8.000,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 7.520,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 3.680,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O triângulo ABC foi desenhado em uma malha quadriculada, conforme mostra a figura: B A C Se cada quadradinho da malha tem 1 cm de lado, então a área exata do triângulo ABC é, em centímetros quadrados, igual a",
+   "texto_na_figura": "A",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "14.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "16.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "20.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "26.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q33-p8-c0-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A figura representa apenas uma das peças que compõem uma faixa decorativa em uma parede azulejada. Sabendo que a área da região quadrada que aparece escurecida na figura é igual a 100 cm2, e que a medida indicada por x, dada em centímetros, é determinada pela equação x2 + 10x – 75 = 0, pode-se afirmar que a medida do lado do quadrado ABCD é, em centímetros, igual a A B x x x x D C",
+   "texto_na_figura": "x x x x",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "18.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "20.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "25.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q34-p9-c0-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Pedro preparou um painel retangular para uma exposição. Esse painel foi dividido em 12 retângulos congruentes, todos de largura y e comprimento x, sendo a medida do comprimento x 30 cm maior que a medida da largura y. Para destacar certo conteúdo, ele usou exatamente 1,6 m de fita vermelha para ligar os pontos A e B pelo caminho indicado na figura. x y B A Desse modo, pode-se concluir que a medida do comprimento desse painel é, em metros, igual a",
+   "texto_na_figura": "y B A",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0,80.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1,25.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1,50.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1,80.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q35-p9-c0-1.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Leonardo tomou R$ 4.000,00 emprestado de um amigo e comprometeu-se a devolver essa quantia acrescida de juros simples no prazo de n meses. Na data combinada, Leonardo fez um pagamento de R$ 4.400,00 ao amigo, e quitou a dívida. Se a taxa de juros combinada foi de 1,25% ao mês, então n é igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "7.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "8.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "9.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "10.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em uma reta numérica horizontal, um ponto A, localizado à 3 esquerda do ponto 0, é representado pelo número , en- 1 – 5 quanto o ponto B, localizado à direita do ponto 0, é represen- 1 tado pelo número . A distância entre esses dois pontos 1 5 pode ser corretamente representada pelo número",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2 1 5",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "3 1 5",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "4 2 5",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1 3 5 R A S C U N H O",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em um teste de mercado, todos os consumidores convidados avaliaram certo produto, optando por um dos conceitos previamente estabelecidos: péssimo, ruim, regular, bom, muito bom ou ótimo, cujas notas eram, respectivamente, 0, 1, 2, 3, 4 e 5. O gráfico representa o resultado dessa avaliação, mostrando quantas pessoas emitiram a mesma nota: Número de notas 70 60 50 40 30 20 10 0 0 1 2 3 4 5 Notas De acordo com os dados apresentados, é correto afirmar que",
+   "texto_na_figura": "60 50 40 30 20 10",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "60% dos consumidores optaram pela nota 2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "50% dos consumidores consideraram o produto péssimo ou ruim.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "30% dos consumidores optaram pela nota 3.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "20% dos consumidores consideraram o produto muito bom ou ótimo.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q38-p10-c1-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 39,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em 30.10.2012, Laura preencheu uma ficha com os seus dados cadastrais e entregou-a à pessoa responsável. Pela data de nascimento informada, Laura teria 44 anos, ou seja, muito mais idade do que aparentava ter. Questionada pela atendente, Laura examinou a ficha e constatou que havia, distraidamente, invertido os dois últimos algarismos do ano em que nasceu, e fez a correção. Em 30.10.2012, a idade correta de Laura, em anos, era",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "18.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "20.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "26.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "28.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 40,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um eletroposto para recarga de carros elétricos foi inaugurado no dia 28 de setembro no Instituto de Eletrotécnica e Energia (IEE) da USP. (....) A tecnologia permite a recarga de 80% de uma bateria em até 30 minutos, o que equivale a uma autonomia de 180 quilômetros. (Jornal da USP. 21.10.2012) Admitindo que haja proporcionalidade entre o percentual de carga da bateria e o número de quilômetros rodados, é correto afirmar que a mesma bateria totalmente carregada terá uma autonomia de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "200 km.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "210 km.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "216 km.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "225 km.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 41,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Na lista das 25 espécies de primatas mais ameaçados de extinção do planeta, estão duas espécies do Brasil: o bugio- -marrom, primata da Mata Atlântica, e o macaco-caiarara, encontrado no Nordeste do Brasil, na margem direita do rio Negro e na margem esquerda do rio Tapajós. Bugio-marrom Macaco-caiarara (http://farmavett.blogspot.com.br) (http://cenp.org.br) A ameaça de extinção desses primatas brasileiros deve-se, principalmente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ao reflorestamento com plantas da região.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "à manutenção da mata ciliar à beira dos rios.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "à introdução de macacos de outras regiões.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à destruição de florestas e matas nativas.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q41-p11-c0-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 42,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Cientistas americanos anunciaram que o degelo no Oceano Ártico é o maior já registrado desde que o monitoramento da região por satélite começou, há mais de 30 anos. Imagens produzidas por satélites mostram que a cobertura de gelo no verão tem ficado 13% menor que o normal a cada década. (Veja, 28.08 2012. Adaptado) É possível responsabilizar a ação humana como uma das causas para o degelo apresentado na notícia, como, por exemplo,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o excesso das queimadas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o uso de detergentes biodegradáveis.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o uso de veículos elétricos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a redução da queima de combustíveis fósseis.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 43,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Desenvolvimento sustentável pode ser definido como aquele",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "que permite suprir todas as necessidades da sociedade atual, como saneamento, educação, trabalho e renda.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "capaz de suprir as necessidades da geração atual, sem comprometer o atendimento da geração futura.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "que possibilita a plena exploração das potencialidades dos recursos naturais e minerais da Terra.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "que contribui para a expansão da população humana, permitindo a ocupação integral do planeta.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 44,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Técnicos da CETESB, a agência ambiental paulista, confirmaram que os índices de poluição do ar registrados na Grande São Paulo em 2011 são os piores dos últimos oito anos, e o ozônio é o poluente que mais tem contribuído para a piora dos índices. O interessante é que ozônio não é emitido diretamente por nenhum tipo de fonte. Forma-se a partir de substâncias chamadas precursoras, como monóxido de carbono e hidrocarbonetos. (Folha de S.Paulo, 30.01.2012. Adaptado) Uma das medidas para diminuir a poluição do ar por ozônio seria",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ampliar a frota de veículos movidos à diesel.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "estimular a utilização de metrô.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "proibir a utilização de aerossóis.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "reduzir os veículos movidos à eletricidade.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 45,
+   "materia": "Ciências Naturais",
+   "contexto_id": "ctx-2013-45",
+   "enunciado": "Segundo o texto, a obtenção de energia por meio de termelétricas",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "possibilita o aproveitamento de combustíveis renováveis.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "contribui para a adequada ocupação urbana.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "interfere na migração de pássaros.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "contribui para a poluição do ar.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 46,
+   "materia": "Ciências Naturais",
+   "contexto_id": "ctx-2013-45",
+   "enunciado": "Considerando os sistemas para obtenção de energia descritos no texto, é correto afirmar que a energia luminosa é transformada em energia elétrica",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "na usina termelétrica.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "na usina hidrelétrica.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "no sistema fotovoltaico.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "na usina de energia eólica. Leia o texto seguinte para responder às questões de números 47 e 48. A agricultura convencional visa à produção. As plantas escolhidas para esse cultivo geralmente são as que melhor respondem à adubação mineral, tornando necessária a aplicação frequente de fertilizantes solúveis. O sistema de plantio, a monocultura, favorece o aparecimento de pragas, doenças e ervas invasoras, sendo necessário o uso de agrotóxicos. A monocultura também provoca rápida perda de fertilidade do solo, pois facilita a erosão, reduz a atividade biológica e esgota a reserva de alguns nutrientes. Os insumos agrícolas utilizados são, na sua maioria, derivados direta ou indiretamente do petróleo, ocasionando um balanço energético negativo, ou seja, a energia produzida pela cultura é menor que a energia gasta para sua produção. (www.amaranthus.esalq.usp.br. Adaptado)",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12,
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 47,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Segundo o texto, um dos problemas da agricultura convencional é o fato de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "utilizar a rotação de cultura.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "apresentar alto custo energético.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "evitar o uso de agrotóxicos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "estimular o controle biológico de pragas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 48,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A partir do texto e de seus conhecimentos, é correto dizer que, se a agricultura convencional for substituída pela agricultura sustentável, pode-se esperar",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aumento na emissão de gases estufa.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "aumento na população de insetos praga.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "preservação das características do solo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "redução do uso de adubo verde.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 49,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A ilustração apresenta uma situação que, infelizmente, é comum em nossas cidades. Novo esporte olímpico: “Lançamento de lixo em lugar remoto”. (saudeambiental.net. Adaptado) Para estimular a redução da produção de lixo – o primeiro dos três R (reduzir, reutilizar e reciclar) do desenvolvimento sustentável –, uma das medidas seria",
+   "texto_na_figura": "Novo esporte olímpico: “Lançamento de lixo em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "filtrar, para beber, a água da rede em vez de comprar água mineral.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "separar o lixo seco do lixo orgânico em diferentes recipientes.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "usar produtos em embalagens descartáveis.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "imprimir somente a frente das folhas de papel sulfite.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2013/2013-q49-p12-c0-0.png",
+     "pagina": 13
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 50,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Pedro e João estão em uma competição, promovida pela escola, para saber quem é mais rápido no skate em uma pista plana. Há dois percursos a serem completados. Um deles mede 2 km; o outro mede 5 km. Em 5 minutos, Pedro fez todo o percurso de 2 km. João gastou 10 minutos para o percurso de 5 km. Comparando a velocidade dos dois meninos nos dois percursos, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pedro foi mais rápido, com velocidade média de 400 m/min.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Pedro foi mais rápido, com velocidade média de 100 m/min.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "João foi mais rápido, com velocidade média de 500 m/min.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "João foi mais rápido, com velocidade média de 100 m/min.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  }
+ ]
+}

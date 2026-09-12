@@ -1,0 +1,2061 @@
+{
+ "ano": 2011,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "VESTIBULINHO prova2011.pdf",
+ "fonte_gabarito": "VEST gabarito2011.pdf",
+ "n_alternativas": 4,
+ "contextos": [
+  {
+   "id": "ctx-2011-01",
+   "questoes": [
+    1,
+    2
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 01 e 02.",
+   "texto": "Doido por tecnologia, garoto inventou uma nova maneira de usar o Twitter pelo iPhone Um dia, Rafael Costa, 12, pensou na seguinte cena: seu irmão derrama todo o catchup do restaurante na camiseta. Você precisa divulgar a lambança pelo Twitter, mas como fazer isso sem deixar a batatinha esfriar? Para azar dos irmãos estabanados, Rafael solucionou o problema. Ele inventou um programa que possibilita usar o Twitter pelo iPhone. É bem fácil. Primeiro, você faz o login no Twitter. Depois, escreve o que quiser e envia a mensagem. Em poucos segundos, todos seus amigos estarão lendo. Parece simples, mas foi bem difícil de fazer o programa. “Tive que ler três livros de programação. Dois deles em inglês”, conta o garoto. Depois de quebrar a cabeça por meses, o aplicativo “Sweet Tweet” ficou pronto e já pode ser baixado gratuitamente pelo iPhone. (Bruno Molinero, Folhinha, 16.10.2010)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2011-11",
+   "questoes": [
+    11,
+    12,
+    13
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 11 a 13.",
+   "texto": "A animação A lenda dos guardiões grupo de corujas que são consideradas lendas, usadas em histórias para crianças, em que o bem sempre vence o mal. Kludd é o invejoso irmão de Soren. Enquanto os pequenos irmãos treinam seu vôo, ambos são capturados pelos Puros, um grupo de corujas que pretende dominar toda a espécie, fazendo um tipo de lavagem cerebral nos filhotes raptados. Kludd é logo seduzido pelo poder dos Puros. Mas Soren encontra alguns aliados, partindo juntos em busca da ajuda dos Guardiões. Visualmente impecável, o filme também usa muito bem o 3D. Os detalhes de cada coruja e demais animais chega a ser impressionante. A movimentação, principalmente nas lutas, é de cair o queixo. É o típico filme que, se visto no conforto de casa, consegue agradar até certo ponto, mas que não justifica o “trabalho” de se ir aos cinemas. (Leonardo Vicente Di Sessa, http://hqmaniacs.uol.com.br. Acesso em 25.10.2010. Adaptado)",
+   "texto_na_figura": "é uma adaptação dos livros infantis de Kathryn Lasky e é dirigida por Zack Snyder. Snyder é criticado por alguns por criar espetáculos de efeitos especiais com pouco conteúdo. Outros enxergam os méritos do diretor. O personagem principal é Soren, uma coruja que passou toda a sua vida idolatrando os Guardiões de Ga´Hoole,",
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/ctx-2011-11-p3-c1-0.png",
+     "pagina": 4
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2011-01",
+   "enunciado": "De acordo com o texto, Rafael Costa desenvolveu um programa para",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "enviar mensagens a diversos e-mails ao mesmo tempo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "tornar mais rápida a divulgação de conteúdo no Twitter.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "poder conectar-se à internet de qualquer computador.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "pesquisar imagens e textos da internet pelo celular.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 2,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2011-01",
+   "enunciado": "Rafael Costa desenvolveu o aplicativo “Sweet Tweet”",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "com facilidade, por tratar-se de um programa muito simples.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "rapidamente, pois já dominava as regras de programação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "com dificuldade, porque não havia material para pesquisar.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ao longo de meses de muito estudo e dedicação.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 3,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Leia o trecho da crônica “Sobre o amor, desamor”. “Eles se separaram” pode ser uma frase triste, e às vezes nem isso. “Estão se separando” é que é triste mesmo. (Rubem Braga, Ai de ti, Copacabana) Segundo o autor do texto, a separação de um casal é um processo doloroso, que é mais triste",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "quando vira uma recordação.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "depois que já terminou.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "enquanto está acontecendo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "para quem nunca se separou antes.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 4,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Leia o texto. (www.custodio.net. Acesso em 25.10.2010) A frase que tem o mesmo sentido do texto é: Depois de tanta chuva,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é exatamente do sol que eu preciso.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "minha pele já se desacostumou do calor do sol.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "já posso guardar as luvas que estavam me aquecendo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o calor do sol é tão suave quanto o das luvas que vesti. Leia o texto e responda às questões de números 05 a 07. A infância de Pelé explica muita coisa Explica o que foi Pelé dentro do campo e o que é o cidadão Edson Arantes do Nascimento, divisão que ele mesmo gosta de fazer. Sim, ele se refere a Pelé sempre na terceira pessoa e distingue o jogador do homem, Pelé de Edson. “O Pelé é perfeito, o Edson é uma pessoa como qualquer outra”, costuma dizer. E a infância “de ambos” foi difícil, verdadeiramente dura. Até fome ele chegou a passar. Tamanha provação serviu para moldá-lo como um atleta que não desistia nunca, que queria sempre mais, e para fazer dele um homem que, por mais fortuna que tenha acumulado, com toda a justiça e por méritos próprios, tem se mantido permanentemente inseguro diante do futuro. (Juca Kfouri, www.gazetadopovo.com.br. Acesso em 23.10.2010. Adaptado)",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q04-p2-c1-0.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 5,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Segundo o texto, a infância de Pelé contribuiu para que ele se tornasse um atleta",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "perfeccionista e um homem prepotente, que se considerava acima dos outros.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "dedicado a seu time e um homem tranquilo e confiante diante dos problemas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "inseguro quanto ao seu desempenho e um homem mesquinho e ambicioso.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "preocupado em melhorar cada vez mais e um homem com medo do futuro.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 6,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa em que há uma palavra que substitui a expressão destacada na frase seguinte, sem alterar seu sentido. E a infância “de ambos” foi difícil, verdadeiramente dura.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "duradoura",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "duríssima",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "durável",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "duramente",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 7,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Observe o trecho: … por mais fortuna que tenha acumulado, com toda a justiça e por méritos próprios… Com a expressão em destaque, o autor quer dizer que Pelé",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "fez por merecer a fortuna que tem.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "não é merecedor da fortuna que acumulou.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "juntou mais dinheiro do que era justo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "recorreu ao Judiciário para obter sua fortuna.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 8,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa em que o acento indicador de crase está empregado corretamente.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ao comemorar 70 anos de idade, Pelé volta à ser o centro das atenções.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Pelé refere-se com orgulho à carreira que construiu como jogador.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Bem humorado, o rei do futebol atendeu à vários jornalistas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Ao falar do passado, ele volta à uma infância muito difícil. Após a leitura do trecho da letra da canção “O futuro é um labirinto pra quem não sabe o que quer”, responda às questões de números 09 e 10. Quem tem coragem se aceita como é O futuro é um labirinto pra quem não sabe o que quer Então tente se levar pra uma outra dimensão Mas não se esconda atrás de uma razão Então vai Fazer o que te faz feliz Não troque a liberdade por pura ilusão Use sua cabeça e também seu coração (Charlie Brown Jr., http://letras.terra.com.br. Acesso em 26.10.2010)",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 9,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "A mensagem da canção, de acordo com o trecho transcrito, está resumida em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A felicidade está em perder-se no labirinto do futuro.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Siga seus impulsos e nunca pense antes de agir.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Não tenha medo de fazer suas próprias escolhas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Copie os passos de pessoas que venceram na vida.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 10,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa em que o trecho – Então vai / Fazer o que te faz feliz – está reescrito corretamente, tendo como sujeito de toda a frase o pronome vocês. Então…",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vai fazerem o que faz vocês feliz.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "vão fazerem o que fazem vocês feliz.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "vai fazer o que fazem vocês felizes.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "vão fazer o que faz vocês felizes.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 11,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2011-11",
+   "enunciado": "Ao dar sua opinião a respeito de A lenda dos guardiões, o autor do texto demonstra",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "concordar com o grupo que não gosta muito do estilo de Snyder, considerando o filme belo visualmente, mas com pouco conteúdo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "ficar surpreso com a perfeição das imagens, já que o diretor não sabe criar efeitos especiais de qualidade.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "estar impressionado com a originalidade e a profundidade do conteúdo apresentado no filme.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "desaprovar o filme como um todo, apontando defeitos tanto do ponto de vista visual quanto do ponto de vista do conteúdo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 12,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2011-11",
+   "enunciado": "De acordo com o texto, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os irmãos Soren e Kludd partem juntos em busca dos Guardiões de Ga’Hoole.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "os Puros são velhos sábios, responsáveis por ensinar os pequenos a voar.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Soren parte à procura de um grupo de corujas que são consideradas lendárias.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Soren passou a admirar os Guardiões de Ga´Hoole após seu rapto pelos Puros.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 13,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2011-11",
+   "enunciado": "Assinale a alternativa que preenche a lacuna da frase seguinte sem modificar o sentido que tem no texto. Os detalhes de cada coruja e demais animais chega a ser impressionante. , a movimentação, principalmente nas lutas, é de cair o queixo.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Porém",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Além disso",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Embora",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Apesar disso",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 14,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Observe a tira. (Laerte, Folha de S.Paulo, 13.10.2010) A afirmação – Já estive aí! – possibilita duas leituras diferentes: estar em Paris e estar pendurado num prego na parede. Assinale a alternativa em que essa frase está substituída por outra com apenas uma possibilidade de interpretação.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Já estive ali!",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Já estive nesse lugar!",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Já estive nesse local!",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Já estive nessa cidade!",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q14-p4-c0-0.png",
+     "pagina": 5
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 15,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Leia o texto. Rodrigo: Espero você na minha casa amanhã depois do almoço. Se a sua mãe você de carro, fale pra ela vir pela Av. do Engenho. O caminho é um pouco , como você sabe. a Av. Nova, que é o caminho menos longo, está em reforma e o lá está uma loucura. Até amanhã. Bruna Assinale a alternativa em que as palavras completam correta e respectivamente as lacunas, dando sentido ao texto.",
+   "texto_na_figura": "Av. do Engenho. O caminho é um pouco , como você sabe. a Av. Nova, que é o caminho menos",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "trouxer … comprido … Mas … trânsito",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "trouxer … cumprido … Mais … transito",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "trazer … comprido … Mais … trânsito",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "trazer … cumprido … Mas … transito",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q15-p4-c0-1.png",
+     "pagina": 5
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 16,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Considere os mapas para responder à questão. ta a D de a nç da u M de •Roma • ha Lin Tóquio ch • Greenwi Oceano Mumbai Atlântico Oceano Pacífico e Origem Oceano Índico São Paulo • ano d ta Da Meridi e d nça da Mu de ha Lin Sentido da rotação da Terra 0 2 500 km Movimento aparente do Sol (http://www.professormarcelo.com/imagens/fuso.png)) (Maria Elena Simielli, Geoatlas. 2006) Desconsiderando o horário de verão, um evento esportivo que ocorra às 15 horas em Londres (hora GMT) será acompanhado em São Paulo e em Rondônia",
+   "texto_na_figura": "ta a D de a nç da u M de •Roma • ha Lin Tóquio ch • Greenwi Oceano Mumbai Atlântico Oceano Pacífico e Origem Oceano Índico São Paulo • ano d ta Da Meridi e d nça da Mu de ha Lin Sentido da rotação da Terra 0 2 500 km Movimento aparente do Sol",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "no mesmo horário, isto é, às 13 horas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "no mesmo horário, isto é, às 18 horas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "respectivamente, às 12 e às 11 horas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "respectivamente, às 18 e às 19 horas.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q16-p4-c1-0.png",
+     "pagina": 5
+    },
+    {
+     "arquivo": "data/imagens/2011/2011-q16-p4-c1-1.png",
+     "pagina": 5
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 17,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Leia o texto. Suponha que você vá com seus amigos comer Big Mac e tomar Coca-Cola no Mc Donald’s. Em seguida, liga para uma garota pelo smartphone Nokia, assiste a um filme em 3D produzido pela Sony em Hollywood e volta para casa num ônibus de marca Mercedes Benz. Ao chegar em casa, liga seu aparelho de TV LCD da Samsung para ver a banda do momento; minutos depois liga seu laptop da IBM para acessar seu twitter. Veja quantas empresas transnacionais estiveram presentes nesse seu curto programa de algumas horas. (Praxedes et alli, 1997. O Mercosul. SP, Ed. Ática, 1997. Adaptado) Assinale a alternativa que está diretamente relacionada ao texto.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A globalização garante a todos os jovens do mundo a possibilidade de se divertirem.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "As empresas transnacionais citadas têm suas sedes em países desenvolvidos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "O fato de cada país apresentar hábitos alimentares e gostos musicais diferentes enfraquece a globalização.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Uma das vantagens da globalização é oferecer bem-estar a todos os habitantes do Planeta.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 18,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Analise a imagem a seguir. SE AS PESSOAS SE FIXASSEM NO CAMPO, AS CIDADES NÃO ESTARIAM INCHADAS. (www.diaadia.pr.gov.br/tvpendrive/arquivos/Image/conteudos/ imagens/4sociologia/5mst1913_03.jpg. Adaptado) Na charge, uma outra forma de a mulher se expressar seria:",
+   "texto_na_figura": "SE AS PESSOAS SE FIXASSEM NO CAMPO, AS CIDADES NÃO ESTARIAM INCHADAS.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Com a concentração de terras, as pessoas são obrigadas a se mudar para as cidades, que crescem rapidamente.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "As cidades oferecem mais oportunidades de lazer! Por isso desejo muito viver na cidade.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "O trabalho nas fazendas é muito pesado e cansativo! Prefiro viver e trabalhar na cidade.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "O dono da fazenda vendeu o gado e começou a plantar milho e eu fiquei sem meu emprego!",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q18-p5-c0-0.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 19,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Cerca de 50% da água tratada é desperdiçada no país. E o pior é que essa água retorna aos mananciais após o uso, sem tratamento, e, novamente, retorna a nós para consumo após vários tratamentos com custos elevadíssimos. Entre os maus hábitos estaria a lavagem de carro, calçadas, roupas e louças, banhos demorados, em que é desperdiçada mais água do que o necessário, além de vazamentos. (http://www.terrabrasil.org.br/noticias/materias/pnt_problemasamb.htm. Adaptado) Sobre o fato apresentado no texto, pode-se concluir que a água",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é um recurso renovável que a natureza se encarrega de repor e conservar.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "existe em quantidade no Sudeste e os moradores na região não têm problemas com a escassez.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "é fundamental para os habitantes de países tropicais que sofrem com as altas temperaturas parte do ano.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "utilizada de forma irracional pode tornar-se escassa e constituir-se em um problema ambiental.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 20,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Analise a charge. (http://www.metro.org.br/wp-content/uploads/2009/06/charge-nenhuma-ordem.jpg) Se fosse dada à humanidade o poder de prever o futuro e a localização das principais áreas de tensão geopolítica no globo, certamente estaria na lista",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o Sul da América Latina.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o oeste da Europa.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o Oriente Médio.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o norte da Ásia.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q20-p5-c1-0.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 21,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Leia os textos. I. Minha experiência nunca revelou um caso de crueldade praticado contra os escravos, e somente ouvi falar de alguns poucos casos de castigo severo. O negro brasileiro não precisa invejar a liberdade esfomeada dos pobres na maior parte do mundo civilizado. (Sir Richard Burton, 1867. Viajante inglês que esteve no Brasil. Citado por Flávio R. Versiani. Em: www.scielo.br) II. As fugas constantes de escravos constituíam outro sintoma das dificuldades. Existiram muitos quilombos, alguns com até milhares de moradores. As penalidades tornaram-se aos poucos mais cruéis; ordem da Coroa, de 1741, mandava marcar os fugitivos recapturados com uma letra F impressa a fogo no corpo. Na reincidência, o escravo deveria ter uma orelha cortada. (Antonio Mendes Jr. e outros. Brasil História - Texto e consulta. Vol. 1. Adaptado) Comparando os dois textos, é correto concluir que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tanto em I como em II considera-se que a escravidão no Brasil representou uma grande violência contra os negros.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "em II acredita-se que a escravidão, apesar das dificuldades, trouxe benefícios aos negros, enquanto que em I a ideia é contrária a essa visão.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "em I considera-se que os escravos viviam em melhores condições do que os trabalhadores europeus; em II destaca-se a crueldade da escravidão.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "em I e II desconsidera-se o sofrimento dos negros escravizados, comparando-os aos europeus ou a trabalhadores brancos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 22,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "A terra do sonho é distante E seu nome é Brasil Plantarei a minha vida Debaixo do céu anil. Minha Itália, Alemanha, Minha Espanha, Portugal Talvez eu nunca mais veja Minha terrinha natal. Aqui sou povo sofrido Lá eu serei fazendeiro Terei gado, terei sol O mar de lá é tão lindo […] (Milton Nascimento e Fernando Brant. Em: C. Alencar e outros, Brasil Vivo 1) O poema refere-se",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ao movimento popular pela abolição da escravatura no Brasil, no século XIX.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "aos imigrantes europeus que vieram ao Brasil para o trabalho agrícola, no século XIX.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "aos operários brasileiros que foram trabalhar na Europa, no início do século XX.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à formação da classe operária brasileira, nas últimas décadas do século XX.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 23,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "As primeiras greves no Brasil datam do final do século XIX. “Desde que existem operários elas também existem”, aponta o professor Leonardo Silva. Em 1943, durante o governo Vargas, a Consolidação das Leis do Trabalho unificou toda a legislação trabalhista existente desde 1930, visando regulamentar e proteger os direitos conquistados. “Todas as principais conquistas, como o descanso semanal remunerado e a jornada de trabalho de oito horas foram obtidas por meio de greves”, esclarece Silva. (revistaescola.abril.com.br. Adaptado) De acordo com o texto, está correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a concessão da CLT foi o primeiro momento de conquista dos direitos trabalhistas e de legalização do direito de greve no Brasil.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "os direitos trabalhistas só foram concedidos no governo de Getúlio Vargas, razão pela qual ele é conhecido historicamente como o “pai dos pobres”.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "antes mesmo de a CLT ter sido regulamentada, os operários, por meio de sua organização, já haviam conquistado vários direitos trabalhistas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o paternalismo característico do governo Vargas foi fundamental para que os trabalhadores pudessem organizar os primeiros sindicatos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 24,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "O governo de Juscelino Kubitscheck (1956 – 1961) prometia ao povo brasileiro fazer o país crescer “cinquenta anos em cinco”. Construiu hidrelétricas e promoveu a industrialização e a modernização da economia. Durante seu governo, o Brasil viveu um período de desenvolvimento econômico, porém, ao mesmo tempo, a parte popular e com menos renda sofria com a falta de investimentos na área social. (http://cinquentaanosemcinco.blogspot.com. Adaptado) Indique a charge que mais se aproxima das ideias apresentadas pelo texto.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "PRIMEIRO O PROJETO DOS AUTOMÓVEIS. DEPOIS VOCÊ, TÁ? PROJETO DOS AUTOMÓVEIS (http://ronniemombrini.blogspot.com)",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "(www.visaopanoramica.com/2009/06/20)",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "(www.cicero.art.br)",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "(http://centrodeestudosambientais.wordpress.com)",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q24-p7-c0-0.png",
+     "pagina": 8
+    },
+    {
+     "arquivo": "data/imagens/2011/2011-q24-p7-c0-1.png",
+     "pagina": 8
+    },
+    {
+     "arquivo": "data/imagens/2011/2011-q24-p7-c0-2.png",
+     "pagina": 8
+    },
+    {
+     "arquivo": "data/imagens/2011/2011-q24-p7-c0-3.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 25,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "No regime militar, a censura voltou com o Ato Institucional n.º 5, em dezembro de 1968. Agentes da polícia instalaram-se na redação para cortar textos, fotos e ilustrações. Os editores, recusando-se a substituir o material proibido, publicaram poe mas (jornal O Estado de S.Paulo) e receitas de bolo (Jornal da Tarde) para preencher o vazio. (www.estadao.com.br, 14.03.2010. Adaptado) A situação descrita no texto ocorreu pelo fato de os governos militares",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não terem dado a devida atenção às notícias veiculadas pelos jornais.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "incentivarem a criação de novos jornais e de outros meios de comunicação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "não terem promovido a escolarização da população para erradicar o analfabetismo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "não permitirem notícias sobre movimentos de oposição e de crítica ao regime.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Observe a seguinte sequência de números: a2 a3 a4 ................ a1 2 – 4 8 –16 ................ É correto afirmar que, nessa sequência,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a5 é igual a – 32.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "as posições pares são ocupadas por números positivos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a6 + a2 = 68.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "as posições ímpares são ocupadas por números positivos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Sabe-se que são necessários 2,75 milhões de litros de água para produzir mil quilos de borracha, e 250 mil litros de água para produzir mil quilos de aço. Assim, com 60% da água necessária para produzir mil quilos de borracha, será possível produzir uma quantidade de aço, em kg, igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6 600.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "3 300.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1 650.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "660.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Pedro permaneceu durante 1h 25min em uma sala de um colégio. Sabe-se que ele entrou nessa sala 10 minutos antes do início da prova. Se agora são 10h 5min, e faz 20 minutos que Pedro saiu da sala, então o horário de início da prova foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "8h 05min.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "8h 20min.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "8h 30min.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "8h 45min.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Dois amigos, A e B, caminham diariamente em uma pista circular. Eles iniciam a caminhada juntos, mas têm ritmos diferentes. Com o mesmo tempo que A leva para percorrer 3/5 de uma volta, B percorre apenas 2/5 de uma volta. Se ambos mantiverem os respectivos ritmos de caminhada, quando A completar 3/4 de uma volta, B terá percorrido apenas",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1/3.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1/2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3/5.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "5/8.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A diferença entre o número de moedas de Paulo e de André era igual a 15 moedas. Paulo, que tinha a maior quantidade, deu 3 moedas para André, e assim, a diferença entre o número de moedas de cada um foi reduzida em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "30%.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "40%.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "50%.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "60%.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Sabe-se que o terreno mostrado na figura tem área de 896 m², e que as dimensões indicadas estão em metros. Pode-se concluir, então, que o perímetro desse terreno é igual a 4x x x 2x",
+   "texto_na_figura": "x x 2x",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "128 m.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "118 m.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "108 m.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "96 m.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q31-p8-c0-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um micro-ônibus foi alugado por um valor fixo. Se o valor do aluguel for dividido igualmente entre 25 passageiros, que é a lotação máxima, cada um pagará x reais. Entretanto, se a divisão for feita entre 16 passageiros apenas, cada um pagará x + 18 reais. O valor do aluguel desse micro-ônibus é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 1.120,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 1.000,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 950,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 800,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O projeto original, que previa um salão retangular, com 50 m² de área, foi alterado. A medida do comprimento do salão foi diminuída em 3 m, e a medida da largura foi aumentada em 2 m, conforme esquematizado na figura. Com essa modificação, o salão passou a ser quadrado, de área igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "25 m². x 3",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "36 m². x",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "49 m². 2",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "64 m².",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q33-p8-c1-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um certo capital foi aplicado durante 8 meses a uma taxa de juro simples de 1,5% ao mês, e rendeu, de juros, R$ 2.400,00. Se o mesmo capital fosse aplicado durante 6 meses a uma taxa de juro simples de 2% ao mês, o valor recebido de juros seria igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 1.800,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 2.200,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 2.400,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 2.800,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Sabe-se que 27 ingressos para um evento, divididos entre os setores A e B, custaram um total de 414 reais. Sabendo-se que o preço de cada ingresso é de 18 reais para o setor A, e de 12 reais para o setor B, pode-se afirmar que somente os ingressos para o setor A custaram",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "144 reais.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "180 reais.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "216 reais.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "270 reais.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Da folha retangular ABCD foi recortada a região triangular AED, de área igual a 36 cm². A área restante da folha, após o recorte, ficou igual a 18 cm A B D C E 12 cm",
+   "texto_na_figura": "A B D C E",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "180 cm².",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "178 cm².",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "160 cm².",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "150 cm².",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q36-p8-c1-1.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Sabe-se que grande parte do corpo humano é constituído por água, e que cada pessoa, em condições normais, elimina, por dia, x litros de água de diferentes modos, conforme listado na tabela: Fração do Total Maneiras Diário Respiração 3/20 Urina 1/2 Transpiração ? Outros 1/10 Sabendo-se que são eliminados 375 mL pela respiração, pode-se concluir que, em condições normais, a quantidade de água, em mL, que cada pessoa elimina diariamente pela transpiração, é",
+   "texto_na_figura": "Fração do Total Maneiras Diário Respiração 3/20 Urina 1/2 Transpiração ? Outros 1/10",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "750.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "625.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "500.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "475.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q37-p9-c0-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A figura compara as alturas de um poste e de uma árvore. Sabendo-se que o produto das alturas da árvore e do poste é igual a 108 m, pode-se concluir que a altura do poste é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "14 m.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "12 m.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "10 m.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "9 m.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q38-p9-c0-1.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 39,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "João conseguiu um total de 160 pontos em 3 rodadas de um determinado jogo. Sabe-se que na 2.ª rodada ele fez 20 pontos a mais que na 1.ª, e na 3.ª rodada ele fez o dobro do número de pontos feitos na 1.ª. Para determinar o número de pontos obtidos por João na 1.ª rodada, é necessário resolver corretamente a equação",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "4x + 20 = 160",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "4x – 40 = 160.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "4x – 60 = 160.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4x + 60 = 160.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 40,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O gráfico mostra o consumo mensal, em kWh, de um determinado eletrodoméstico, em função do número de horas que ele permanece ligado por dia. kWh/mês 40 32 24 16 8 Minutos por dia 30 60 90 120 Assim, se esse eletrodoméstico permanecer ligado durante 1h 15min por dia, o consumo mensal será, em kWh, igual a",
+   "texto_na_figura": "40 32 24 16 8 Minutos por dia",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "24.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "22.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "20.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "18.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q40-p9-c1-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 41,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A foto a seguir mostra uma queimada na região amazônica, em área originalmente coberta pela floresta. (pauniblogglr.blogspot.com. Acesso em 25.10.2010) A realização das queimadas é uma prática muito utilizada no interior do Brasil e pode ter como consequência imediata",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o aumento da produtividade da região, devido ao uso intensivo do solo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a liberação de gases que colaboram com as mudanças climáticas globais.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o aumento da fertilidade do solo devido à produção de nutrientes pelas plantas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a seleção de plantas resistentes à pressão ambiental, devido ao aumento de temperatura.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q41-p9-c1-1.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 42,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "No gráfico a seguir está representado o desflorestamento bruto acumulado na região amazônica, em km2, entre os anos de 1991 e 2008. Desflorestamento bruto acumulado na Amazônia Legal, em 01.08 800 000 700 000 600 000 500 000 400 000 1991 1994 1998 2000 2002 2004 2006 2008 1996 (INPE/PRODES IBGE: Indicadores de Desenvolvimento Sustentável. Brasil 2010) Considerando que a área desmatada nos anos de 2009 e 2010, até o momento, permaneceu por volta de 15 000 km2, a tendência da curva do gráfico de desflorestamento bruto acumulado é a de",
+   "texto_na_figura": "800 000 700 000 600 000 500 000 400 000",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aumentar um pouco, mas não ultrapassar 800 000 km2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "permanecer no mesmo patamar do ano de 2008.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "aumentar a taxa de crescimento anual constante.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "acompanhar a queda de desmatamento anual registrada no gráfico.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q42-p10-c0-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 43,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A figura a seguir representa um iceberg, imenso bloco de gelo encontrado próximo ao continente antártico, de onde se desprendeu. (policiaambientalcaico.blogospot.com. Acesso em 25.10.2010) A flutuação mostrada na figura é possível, pois ao mudar de estado líquido para o estado sólido, no bloco de gelo ocorreu",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "diminuição de sua massa e diminuição de sua densidade.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "aumento de sua massa e de seu volume.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "aumento de seu volume e diminuição de sua densidade.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "diminuição de sua densidade e aumento de massa.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q43-p10-c0-1.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 44,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "As academias de ginástica apresentam diversos equipamentos que são utilizados para os mais diferentes fins. Um desses equipamentos é a esteira ergométrica, aparelho destinado à realização de corrida, cuja velocidade e tempo são programados pelo instrutor do treino a ser realizado. Suponha que um aluno permaneceu correndo nessa esteira durante os seguintes tempos e respectivas velocidades: Velocidade (km/h) Tempo de corrida na esteira (min) 5 6 12 10 20 12 12 10 5 6 A distância percorrida na esteira durante o tempo total do exercício foi, em km,",
+   "texto_na_figura": "Velocidade (km/h) Tempo de corrida na esteira (min) 5 6 12 10 20 12 12 10 5 6",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "9.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "13.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "18.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q44-p10-c1-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 45,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Na charge a seguir está representada uma das Leis de Newton. Observando o que acontece ao “skate”, a lei que explica corretamente o que ocorre na figura é:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "todo corpo continua em seu estado de repouso ou de movimento uniforme em uma linha reta, a menos que seja forçado a mudar aquele estado por forças aplicadas sobre ele.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a mudança de movimento é proporcional à força motora imprimida, e é produzida na direção de linha reta na qual aquela força é imprimida.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "para toda ação há sempre uma reação oposta e de igual intensidade, ou, as ações mútuas de dois corpos um sobre o outro são sempre iguais e dirigidas a partes opostas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a resultante das forças que agem num corpo é igual ao produto de sua massa pela aceleração adquirida durante o movimento.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q45-p10-c1-1.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 46,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Uma das definições mais usadas para desenvolvimento sustentável (DS) é: desenvolvimento capaz de suprir as necessidades atuais da população, sem comprometer a capacidade de atender as necessidades das futuras gerações. Na tentativa de chegar ao DS, a Educação Ambiental é uma parte vital e indispensável, pois é a maneira mais direta e funcional de se atingir pelo menos uma de suas metas:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o uso das riquezas do ambiente regional.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o esgotamento dos recursos minerais.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a industrialização e a ocupação dos ambientes.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a participação da população.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 47,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A energia eólica é atualmente a segunda mais comum forma de energia renovável, só perdendo para a hidrelétrica. No entanto, a produção dessa forma de energia depende da existência de ventos. No esquema está representada uma forma de produção de energia eólica. Eixo Gerador 1 2 4 Caixa de marcha 3 Sobre essa forma de produção de energia, pode-se afirmar corretamente que",
+   "texto_na_figura": "Eixo Gerador 1 2 4 Caixa de marcha 3",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em 1 ocorre produção de energia potencial.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "em 2 há transformação de energia.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "em 3 ocorre transmissão de energia luminosa.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "em 4 a energia gerada move o gerador.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q47-p11-c0-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 48,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "No Brasil, tem sido cada vez mais frequente o uso de anabolizantes, principalmente entre os frequentadores das academias, que, na ânsia de aumentar a massa corporal, utilizam produtos de origem duvidosa e de resultados catastróficos. A charge ilustra essa situação. Médico Veterinário Andou tomando as minhas vitaminas heim? (comunycarte.blogspot.com. Acesso em 25.10.2010) O uso desses produtos pode trazer como consequência:",
+   "texto_na_figura": "Médico Veterinário Andou tomando as minhas vitaminas heim?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sonolência, euforia excessiva, aumento do estado de alerta.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "diminuição da atividade cerebral e estímulos nervosos mais lentos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "doenças cardíacas, mau funcionamento do fígado e dos rins.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "náuseas, vômitos, tremores, suor abundante e alucinações.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q48-p11-c0-1.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 49,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A laqueação de trompas, representada a seguir, é um procedimento cirúrgico que consiste na oclusão bilateral das trompas de Falópio (tuba uterina). Os métodos cirúrgicos de esterilização feminina representados na figura visam",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "impedir a ovulação.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "impedir a transmissão de DST.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "evitar contato do óvulo com o espermatozoide.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "diminuir a produção de hormônios sexuais.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2011/2011-q49-p11-c1-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 50,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Segundo a Anvisa (Agência Nacional de Vigilância Sanitária), o Estado de São Paulo registrou a morte de 24 pacientes contaminados pela superbactéria KPC entre julho de 2009 e outubro de 2010. Nesse período, a Anvisa também registrou casos de superbactéria em outros seis Estados e no Distrito Federal: 183 no DF (18 mortes), 24 no Paraná, 18 na Paraíba, 12 em Minas Gerais, 4 em Goiás, 3 no Espírito Santo e 3 em Santa Catarina. (O Estado de S.Paulo – Estadão On Line – out.2010) A ocorrência dos casos de morte por bactérias, principalmente aquelas adquiridas em ambientes hospitalares, está relacionada ao fato de essas bactérias",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "atuarem diretamente no sistema imunológico.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "não serem tratadas por meio de vacinação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "causarem doenças desconhecidas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "serem resistentes aos antibióticos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  }
+ ]
+}

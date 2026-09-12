@@ -1,0 +1,7 @@
+# banco gerado por tools/build_db.py
+data/questoes.sqlite
+data/questoes.sqlite-journal
+
+__pycache__/
+*.pyc
+.venv/

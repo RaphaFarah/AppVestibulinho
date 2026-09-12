@@ -1,0 +1,2015 @@
+{
+ "ano": 2012,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "VESTIBULINHO+2012+ProvaConhecimentosGerais.pdf",
+ "fonte_gabarito": "VEST+2012+Gabarito.pdf",
+ "n_alternativas": 4,
+ "contextos": [
+  {
+   "id": "ctx-2012-01",
+   "questoes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 01 a 08.",
+   "texto": "O português de bengala O título pode levar o leitor a se enganar, se ele pensa que o remete a alguma anedota preconceituosa. Ele se refere à língua portuguesa. A língua falada no Brasil anda trôpega, porque se abusa de expressões que não são necessárias para a construção de sentido da frase. Servem apenas de bengala para quem fala, no intuito de ganhar um tempinho para encaminhar melhor sua ideia ou para manter o passo. Não me refiro aos cacoetes individuais que marcam o falante, como o do tio de um jornalista que, de tanto encaixar a palavra “porém”, ganhou o apelido carinhoso de “meu tio adversativo”. Refiro-me às muletas coletivas. Àquelas falas que andam de bengala por aí. Um exemplo é o “sabia?”. Na dramaturgia fácil das telenovelas, aparece vinte vezes a cada capítulo. Os mais novos vão copiando os mais velhos, sabia? Há bengalas que entram no início da frase, como o “então”. Sem quê nem pra quê, como se a pessoa retomasse uma fala que não houve, alonga-se um “então”, depois de um silêncio: “Então... não sei ainda se vou fazer pedagogia”. Ou a bengala explicativa – “O que acontece?” – que precede uma explicação, uma justificativa, mas não é necessária. Bastante comuns são o emprego do pronome (ele, ela), sem a menor função na frase. “A prefeitura ela demora muitos dias para expedir uma guia.” E o da preposição “em”, também inútil: “Somos em quatro”. Esse fato linguístico não é uma característica da atualidade. Há registros, datados de 1900, contra quem pontuava as frases com um “entende?”. Com essa expressão, o falante pretende induzir o interlocutor a compreender o que é claro. Usam-se muitas outras expressões como penduricalhos nas frases: “tipo assim”, “não é verdade?”. Uma fala simples pode se transformar, facilmente, em: – Então...Não sei ainda se vou fazer pedagogia. O que acontece? É complicado lidar com criança, sabia? A criança ela exige muito, tipo assim, não sabe fazer as coisas sozinha, entende? Fico na dúvida, não é verdade? Prefiro a língua mais enxuta e exata. Entende? (Ivan Ângelo. Veja São Paulo, 05.10.2011. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2012-12",
+   "questoes": [
+    12,
+    13,
+    14
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 12 a 14.",
+   "texto": "Os cursos técnicos ou profissionalizantes têm ganhado cada vez mais popularidade entre os brasileiros. Elaborados para capacitar as pessoas com base prática e teórica em diferentes ramos, os cursos têm público composto por quem busca acelerar o aprendizado de uma profissão e a entrada no mercado de trabalho. Novas vagas são abertas diariamente pelas empresas brasileiras, mas elas ainda estão carentes de mão de obra qualificada. Por isso, muitas companhias firmam parcerias com escolas para capacitar seus profissionais. Uma das vantagens é terminar os estudos já com uma profissão, antes mesmo de cursar uma faculdade. Os cursos técnicos foram criados por Getúlio Vargas, na década de 1930, e vêm demonstrando grande crescimento. Segundo o Censo escolar de 2010, perto de um milhão e meio de alunos estão matriculados no ensino profissional, distribuídos por vários setores, chamados de eixos tecnológicos. (Veja São Paulo, 05.10.2011. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2012-01",
+   "enunciado": "Segundo o texto, a língua falada no Brasil",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é marcada, principalmente, por expressões características da busca pelo estabelecimento de comunicação entre os falantes.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "apresenta expressões imprescindíveis à compreensão da frase e que são utilizadas ordinariamente pelos falantes.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "inovou-se, na atualidade, pela presença de expressões significativas que medeiam a comunicação de forma objetiva e sucinta.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "sofre, apenas, as interferências de cacoetes de caráter individual.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 2,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2012-01",
+   "enunciado": "De acordo com o texto, o autor",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "adota os modismos de linguagem, porque o auxiliam na comunicação diária.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "faz restrições ao uso de expressões pouco significativas para a clareza da comunicação, dando preferência a uma língua mais concisa.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "mostra-se implicante quanto ao uso da expressão “entende?”, que se popularizou recentemente entre os falantes brasileiros.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "adere, ao final do texto, ao uso de um dos modismos coloquiais, por convicção.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 3,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2012-01",
+   "enunciado": "A expressão meu tio adversativo, presente no 3.º parágrafo, refere-se",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ao fato de um jornalista mostrar-se muito nervoso.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "à frequente atitude do tio que se coloca como adversário do sobrinho.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "ao constante emprego, nas falas do tio, de uma conjunção adversativa.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à alusão a um apelido com significado agressivo, dado pelo sobrinho ao tio.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 4,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2012-01",
+   "enunciado": "O título da crônica",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "invoca uma dubiedade a respeito do tema que o desenvolvimento do texto mantém.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "deixa em suspenso o ponto de vista do autor, esclarecido, somente, no último parágrafo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "antecipa uma postura de não preconceito aos fatos linguísticos, amplamente defendida pelo autor no texto.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "vale-se do duplo sentido, que o autor desfaz, já no 1.º parágrafo, na defesa de um claro ponto de vista.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 5,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2012-01",
+   "enunciado": "Na frase do 2.º parágrafo – A língua falada no Brasil anda trôpega… – a palavra trôpega pode ser substituída, sem alteração de sentido, por",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "difícil.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "inalterada.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "estável.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "cambaleante.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 6,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2012-01",
+   "enunciado": "Assinale a alternativa em que o adjetivo, em destaque, apresenta a mesma forma de gênero que o da frase do 3.º parágrafo: Não me refiro aos cacoetes individuais que marcam o falante …",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "…porque se abusa de expressões que não são necessárias…",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Esse fato linguístico não é uma característica da atualidade.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Na dramaturgia fácil das telenovelas, aparece vinte vezes a cada capítulo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Há registro, datados de 1900, contra quem pontuava as frases…",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 7,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2012-01",
+   "enunciado": "Em – Usam-se muitas outras expressões… – (8.º parágrafo), o sujeito da frase é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o se e, por isso, classificado como indeterminado.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "oculto, mas se identifica por “eles”.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "muitas outras expressões, classificado como simples.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "expressões, por isso, sujeito composto.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 8,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2012-01",
+   "enunciado": "Considere a seguinte frase do 5.º parágrafo. Ou a bengala explicativa – “O que acontece?” – que precede uma explicação, uma justificativa, mas não é necessária. A palavra mas exprime a ideia de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "condição.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "oposição.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "explicação.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "alternância. A tirinha de Mafalda, do cartunista argentino Quino, serve de base para as questões de números 09 a 11. AFINAL, NÃO SEI POR É QUE AS FESTAS DE SE TODO MUNDO DIZ QUE QUE A GENTE QUE FORMATURA SEMPRE SÃO A VIDA É A MELHOR ESCOLA!… ENTÃO PARA QUE OUTRA?… A IR PARA ESCOLA… VELÓRIOS! GENTE NÃO APRENDE TUDO NA VIDA? O QUE É QUE TEM DE RUIM A ESCOLA DA VIDA?",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q08-p3-c0-0.png",
+     "pagina": 4
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 9,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa cujas palavras completam, correta e respectivamente, a fala da personagem no 1.º quadrinho.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tem ... a",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "tem ... à",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "têm ... à",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "têm ... a",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 10,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "A intenção do autor é que o humor seja resultado da",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "crítica das meninas a tudo o que elas aprenderam na escola da vida.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "propaganda quanto à necessidade da escolaridade, na vida.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "equivalência de valor entre a escola formal e a escola da vida.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "comparação entre o final do processo da escola formal e o da vida.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 11,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Para analisar as afirmações, leia a frase do 2.º quadrinho: Se todo mundo diz que a vida é a melhor escola!... (...) a gente não aprende tudo na vida? O que é que tem de ruim a escola da vida? I. O antônimo de melhor e o de ruim são, respectivamente, pior e bom. II. As expressões todo mundo e tudo exprimem um sentido de amplitude. III. Segundo as regras gramaticais, em – (...) a gente não aprende tudo na vida? – substituindo-se a gente por nós, a frase se mantém correta, sem alterar a concordância do verbo. Está correto, apenas, o que se afirma em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "III.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "I e II.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "II e III.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 12,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2012-12",
+   "enunciado": "O principal objetivo desse texto é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "fazer um anúncio de um produto específico, atrelado à imagem dos cursos profissionalizantes.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "narrar episódios a respeito de quem opta pelos cursos profissionalizantes, em relatos emocionantes.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "apresentar informações relativas aos cursos profissionalizantes, de forma objetiva, ressaltando a importância deles.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "caracterizar os cursos profissionalizantes, em uma linguagem poética.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 13,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2012-12",
+   "enunciado": "Considere a frase destacada. Em – Novas vagas são abertas diariamente pelas empresas brasileiras, mas elas ainda estão carentes de mão de obra qualificada. – substituindo-se mas por embora, tem-se:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "elas ainda estejem carentes...",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "elas ainda estejam carentes...",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "elas ainda estavam carentes...",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "elas ainda tenham estado carentes...",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 14,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2012-12",
+   "enunciado": "Considere os trechos. Elaborados para capacitar as pessoas com base prática e teórica... Por isso, muitas companhias firmam parcerias com escolas... Segundo a norma padrão, substituindo-se as palavras destacadas por pronomes, tem-se, respectivamente:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "capacitar elas – firmam elas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "capacitar-las – firmam-as.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "capacitar-lhes – firmam-lhes.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "capacitá-las – firmam-nas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 15,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa correta quanto à concordância verbal e nominal.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As funcionárias sentiram-se meio constrangidas com a repreensão do chefe, embora fossem elas mesmas as responsáveis pelo erro.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Existe empregos que oferece poucas condição de dignidades de trabalho aos funcionários.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Viaje agora e paguem em muitas parcelas ao longo de meses seguido.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Os estudantes paulistanos se mantém em alertas para os exames finais do curso que frequenta.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 16,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "A União Europeia é um bloco econômico exemplar. Reúne todos os benefícios gerados pela formação de um bloco econômico e também as dificuldades. Uma das principais conquistas da União Europeia, mas que também é uma fonte constante de dificuldades, é a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "adoção de uma moeda única pela maioria dos membros do bloco.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "obrigação dos países ricos em ajudar os membros mais pobres.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "escolha do inglês como língua obrigatória entre os países membros.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "proibição da prática da religião islâmica pelos cidadãos dos países membros.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 17,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Os atentados de 11 de setembro de 2001 praticamente puseram um fim na antiga ordem mundial. Estados Unidos e Rússia, anteriormente em lados opostos, uniram-se em um objetivo comum: a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "erradicação da fome.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "luta contra o terrorismo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "redução da pobreza.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "defesa do meio ambiente.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 18,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Observe a figura a seguir. BIOCOMBUSTÍVEL ... comida (http://blinkingbrink.files.wordpress.com/2008/05/foodandfuel2. png?w=620&h=420) Assinale a alternativa que melhor interpreta o conteúdo da charge.",
+   "texto_na_figura": "BIOCOMBUSTÍVEL ... comida",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A desigualdade entre países ricos e países pobres vem crescendo no mundo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "O aumento dos preços do petróleo afeta principalmente os países pobres.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "A produção de automóveis não contribui para reduzir o desemprego e a fome.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "A produção de biocombustíveis pode elevar o preço dos alimentos no mundo.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q18-p4-c1-0.png",
+     "pagina": 5
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 19,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Observe o gráfico a seguir. População Residente por Situação do Domicílio Grandes Regiões – 2010 90 000 000 Urbana Rural 80 000 000 70 000 000 60 000 000 50 000 000 40 000 000 30 000 000 20 000 000 10 000 000 0 Norte Nordeste Sudeste Sul Centro-Oeste (IBGE) Com base nos conhecimentos sobre o processo de urbanização do Brasil, assinale a alternativa que apresenta a interpretação correta dos dados do gráfico.",
+   "texto_na_figura": "Urbana Rural 80 000 000 70 000 000 60 000 000 50 000 000 40 000 000 30 000 000 20 000 000 10 000 000 0",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em 2010, somente a região Nordeste ainda apresenta população rural maior que a urbana.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "A região Sudeste, a mais urbanizada do país, apresenta a maior população rural.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "O campo moderno explica, em grande parte, a pequena população rural do Centro-Oeste.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "O grande número de indústrias na região Norte explica a expressiva população urbana.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q19-p5-c0-0.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 20,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Observe o mapa a seguir. Brasil – Espaço Agrário I II Lengenda III I II III (Graça Maria Lemos Ferreira. Atlas geográfico: espaço mundial. São Paulo: Moderna, 2003. Adaptado) Assinale a alternativa que indica, respectivamente, os itens I, II e III da legenda.",
+   "texto_na_figura": "I II Lengenda III I II III",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Extrativismo vegetal – Pecuária primitiva – Pecuária melhorada.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Pecuária primitiva – Monocultura de exportação – Reflorestamento.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Agricultura de subsistência – Reflorestamento – Extrativismo vegetal.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Pecuária melhorada – Monocultura de exportação – Agricultura de subsistência.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q20-p5-c0-1.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 21,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Cinquenta e nove pessoas foram resgatadas de três fazendas no Maranhão. Segundo os fiscais do Ministério do Trabalho, os trabalhadores estavam vivendo em situação degradante e não recebiam salários. Os trabalhadores disseram que espingardas eram usadas para ameaçá-los. Os fazendeiros tiveram que se comprometer a pagar indenizações, assinar a carteira dos trabalhadores, para que eles tenham acesso aos direitos trabalhistas. (g1.globo.com/Noticias/Brasil, 03.04.2007. Adaptado) Comparando o trabalho escravo apresentado na notícia com a escravidão, na época do Brasil colonial, está correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "há varias diferenças, pois no Brasil Colonial, os escravos eram propriedades de seus senhores e não possuíam nenhum direito trabalhista.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "no Brasil Colônia, não existia o Ministério do Trabalho, mas os escravos negros recebiam a proteção da Igreja Católica e dos padres jesuítas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a principal mudança que pode ser observada nos dias atuais é que os trabalhadores citados na notícia não foram vítimas de violência.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "não houve mudanças significativas, pois a maioria do povo brasileiro continua na mesma situação de trabalho degradante e mal remunerado.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 22,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Nicolau Moreira, presidente da Sociedade Auxiliadora da Indústria Nacional, em artigo publicado, em 1881, dizia: “Não aceito o chim (chinês) por ser, como dizem seus defensores, simplesmente produtor. O bom operário, em minha opinião, deve ser rigorosamente produtor e consumidor; é produzindo e consumindo que se desenvolvem as indústrias, sendo, como ninguém contestará, a produção e o consumo as duas maiores fontes de riqueza nacional. Não aceito o chim, porque afugenta a imigração europeia livre e inteligente”. (F. Alencar e outros. História da Sociedade Brasileira. Adaptado) Analisando o texto de Nicolau Moreira, está correto concluir que seu pensamento sobre o papel do imigrante no Brasil está baseado em ideias",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "científicas e pacifistas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "religiosas e democráticas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "racistas e capitalistas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "sociais e escravistas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 23,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Políticos, trabalhadores, estudantes e militares iniciaram movimento pela exploração nacional do petróleo. “O petróleo é nosso!”, dizia o lema da campanha. De todas as regiões do Brasil, chegavam manifestações em defesa do monopólio estatal da exploração do petróleo. Assim, em 1953, era fundada a Petrobras, empresa estatal que teria o monopólio da pesquisa, produção e refino do produto. Ela tornava-se o símbolo da política nacionalista de Vargas. (Chico Alencar e outros. Brasil Vivo – 2. Adaptado) Partindo do texto, está correto afirmar que a criação da Petrobras teve como objetivo",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aumentar a participação das empresas multinacionais ligadas ao petróleo, tais como a Exxon (Esso) e a Texaco.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "ampliar as possibilidades de mercado para as empresas multinacionais, principalmente as europeias.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "impedir a concorrência das indústrias brasileiras no mercado externo, para favorecer empresas dos EUA.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "limitar a atuação de grandes empresas petrolíferas estrangeiras e fortalecer as bases da indústria brasileira.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 24,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Os soldados armados de fuzis prendiam milhares de pessoas: dirigentes populares, intelectuais, políticos democratas. A UNE (União Nacional dos Estudantes) foi proibida e seu prédio, incendiado. A CGT (Central Geral dos Trabalhadores), fechada. Nas escolas e universidades, professores e alunos progressistas expulsos. Os jornais foram ocupados por censores e muitos jornalistas postos na cadeia. (www.culturabrasil.pro.br. Adaptado) O texto é uma referência ao Brasil no período",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "da Revolução de 1930.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "da ditadura militar.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "da abertura política.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "da Nova República.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 25,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Analise os textos. Texto I DONA GERTRUDE, A TARTARUGA QUE JÁ VIU TUDO, TEM 500 ANOS E DIZ QUE O SEU SONHO É VER UMA REFORMA AGRÁRIA DE VERDADE NO BRASIL OU FAZER MIL ANOS, O QUE VIER PRIMEIRO (Charge de Luis Fernando Veríssimo. Em: jopbj.blogspot.com/2010/09) Texto II (...) atualmente, os trabalhadores rurais desprovidos de terra são constantemente marginalizados, vivendo sob condições precárias, o que acentua o êxodo rural. Movimentos pela reforma agrária, como o MST (Movimento dos Sem Terra), são constantemente criminalizados pela mídia tradicional, em detrimento de suas reivindicações de ocupação e invasão de terras. Movimentos como este só comprovam que a distribuição rural em nosso país carece de revisão. (www.revistaovies.com/reportagens) Analisando os textos I e II, está correto concluir que",
+   "texto_na_figura": "DONA GERTRUDE, A TARTARUGA QUE JÁ VIU TUDO, TEM 500 ANOS E DIZ QUE O SEU SONHO É VER UMA REFORMA AGRÁRIA DE VERDADE NO BRASIL OU FAZER MIL ANOS, O QUE VIER PRIMEIRO",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I expressa visão otimista sobre a reforma agrária no Brasil, enquanto que II é pessimista.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "I acredita que a reforma agrária seja urgente para o Brasil e II é contrário à sua realização.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "I e II são pessimistas quanto aos benefícios que a reforma agrária pode trazer ao país.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "I e II consideram que a realização da reforma agrária é importante para o Brasil.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q25-p6-c1-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Estudo mostra que veículos híbridos, com motor elétrico e a gasolina, são menos poluentes. O seguinte quadro comparativo quantifica o CO2 emitido, em gramas por quilômetro, por um carro híbrido, um carro a gasolina e pessoas em diferentes situações. 25 4 bicicletas CO EMITIDO POR KM 2 50 4 pessoas andando 95 Carro híbrido 100 4 pessoas correndo 120 Carro a gasolina (CO2 Emissions of Locomotion: Innovative Automobiles Do Betterthan. In Super Interessante, julho/2011) De acordo com os dados do quadro, é correto afirmar que",
+   "texto_na_figura": "25 4 bicicletas CO EMITIDO POR KM 2 50 4 pessoas andando 95 Carro híbrido 100 4 pessoas correndo 120 Carro a gasolina",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2 carros híbridos emitem 15% menos CO2 do que 2 carros a gasolina.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "12 bicicletas emitem mais CO2 do que 4 pessoas correndo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1 carro a gasolina emite menos CO2 do que 5 pessoas correndo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4 pessoas correndo emitem o dobro da quantidade de CO2 emitida por 8 pessoas andando.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q26-p7-c0-0.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Da quantia total que havia reservado, um pequeno comerciante usou a terça parte para pagar o valor total devido ao fornecedor A e a quarta parte para pagar o valor total devido ao fornecedor B. Com a quantia restante, ele só pôde pagar a metade do valor total devido ao fornecedor C, pois faltaram R$ 2.500,00 para completar o pagamento. Conclui-se, então, que o fornecedor A recebeu",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 2.750,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 2.500,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 2.250,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 2.000,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O dobro do número de páginas que Leo digitou com o quádruplo do número de páginas que Beto digitou somam 120 páginas. Se o quíntuplo do número de páginas digitadas por Leo é igual a 90, pode-se concluir que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Beto e Leo digitaram o mesmo número de páginas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Beto digitou 3 páginas a mais que Leo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Leo digitou 3 páginas a mais que Beto.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "juntos eles digitaram um total de 40 páginas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Preparando uma pintura, um pintor colocou em um recipiente, inicialmente vazio, 3 litros da tinta A e um litro de uma mistura contendo 20% de tinta A e 80% de água. A porcentagem de água na nova mistura formada é igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15%.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "20%.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "25%.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "30%.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O triângulo ABC, desenhado em uma malha quadriculada, tem área igual a S. B h C A x x Dobrando-se a medida da base ( AC) e aumentando-se em 50% a medida da altura (h), obtém-se um novo triângulo, de área igual a",
+   "texto_na_figura": "B h C A x x",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "3 S.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2,5 S.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "2 S.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1,5 S.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q30-p7-c1-0.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Pedro fez duas aplicações de mesmo valor inicial, a uma taxa de juros simples de 1,2% ao mês, durante 5 meses. Se a soma dos juros recebidos nessas aplicações foi igual a R$ 600,00, então o valor inicial de cada aplicação era",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 5.200,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 5.000,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 4.800,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 4.600,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O proprietário de uma grande área retangular cedeu à Prefeitura duas regiões com a forma de triângulos equiláteros de lado y, para fins de utilidade pública, conforme mostra a figura. y y y 750 m y y y 1000 m Se o perímetro do terreno, após a cessão, mede 3 600 m, então y vale, em metros,",
+   "texto_na_figura": "y y y 750 m y y y",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "20.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "30.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "40.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "50.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q32-p8-c0-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Na figura, os pontos L, M e F representam, respectivamente, a residência de Lívia, a residência de Márcia e a faculdade onde ambas estudam. M L F 11 km Diariamente, Márcia utiliza seu carro para ir de casa até a faculdade e voltar para casa após as aulas. Ontem, excepcionalmente, Márcia foi até a casa de Lívia para buscá-la, retornou pelo mesmo caminho até sua casa, e dali seguiu até a faculdade. Após as aulas, retornou para sua casa. Desse modo, o percurso diário de Márcia aumentou 8 km. Para ir e voltar da faculdade, Márcia percorre diariamente",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "14 km.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "12 km.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "10 km.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "8 km.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Na compra de certo produto para a reforma de sua casa, João ficou em dúvida: não sabia se levava 4 latas da marca M, sua preferida, mais 2 latas da marca C, cujo preço unitário, na promoção, era a metade do de M, ou se economizava 180 reais, comprando apenas 1 lata da marca M e 5 latas da marca C. Como João decidiu economizar 180 reais, o valor total pago na compra desse produto foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 600,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 520,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 500,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 420,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Mantendo uma velocidade constante, um ciclista fez um percurso de 60 km em duas horas. Se a sua velocidade fosse aumentada em 10 km/h, o tempo gasto para percorrer os 60 km seria reduzido em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "50 min.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "40 min.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "30 min.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "20 min.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Dois recipientes idênticos, A e B, contêm quantidades diferentes de um mesmo sorvete. Sabe-se que o sorvete preenche 25% da capacidade total do recipiente A e 75% da capacidade total do recipiente B, e que os recipientes A e B têm, respectivamente, massa total (sorvete + recipiente) de 0,35 kg e de 0,85 kg. A massa do recipiente, somente, vale",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "50 g.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "75 g.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "100 g.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "125 g.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em um consultório médico, as fichas com identificação do paciente têm formato retangular, cujas medidas dos lados, em centímetros, são dadas por dois números inteiros e consecutivos. Sabendo-se que a soma dos quadrados desses dois números é igual a 481, pode-se afirmar que o lado maior dessa ficha mede",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "16 cm.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "14 cm.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "13 cm.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "12 cm.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Uma professora reservou 8 folhas de papel para cada aluno de uma turma de educação infantil, para uma aula de dobraduras. Como no dia da aula faltaram 4 alunos, foi possível dar 10 folhas para cada aluno. O número de alunos presentes nessa aula era",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "16.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "18.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "20.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "24.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 39,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Na figura, observam-se uma região quadrada Q e três regiões retangulares, R1, R2 e R3, sendo R1 e R2 congruentes. x R2 Q R1 y y R3 x – y y Desse modo, é correto afirmar que o perímetro dessa figura vale",
+   "texto_na_figura": "R2 Q R1 y y R3 x – y",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "4x + 3y.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "4x – 2y.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3x + 3(x – y).",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4x.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q39-p9-c0-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 40,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "De uma folha de formato triangular, com área de 300 cm², foram recortadas as regiões que aparecem sombreadas na figura. h = 20 cm x x 18 cm Desse modo, é correto afirmar que a área total recortada representa, da área original da folha, 2.",
+   "texto_na_figura": "h = 20 cm",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5 4.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "7 3.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "5 2.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "3",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q40-p9-c0-1.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 41,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Podem apresentar números de coliformes fecais acima do permitido praias localizadas apenas nos municípios indicados pelos números",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5 e 6.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1 e 4.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1 e 5.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4 e 5.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 42,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "As praias em questão devem estar contaminadas por",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "esgoto doméstico.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "esgoto industrial.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "metais pesados.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "resíduos radioativos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 43,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Uma das bactérias que faz parte do grupo dos coliformes fecais é a Escherichia coli. Esse micro-organismo tem uma característica bastante comum entre as bactérias: é capaz de trocar material genético com outra E. coli e também com bactérias que não são E. coli. Essa característica pode explicar o aparecimento de E. coli",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em alimentos contaminados por fezes.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "resistente a determinados antibióticos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "em praias impróprias ao banho.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "no intestino de animais.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 44,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Os métodos contraceptivos podem ser, didaticamente, divididos em três tipos: de barreira, hormonais e cirúrgicos. Assinale a alternativa que associa, corretamente, o método contraceptivo e o tipo. Método contraceptivo Tipo",
+   "texto_na_figura": "Método contraceptivo Tipo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diafragma (DIU) De barreira",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Laqueadura Hormonal",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Camisinha feminina Hormonal",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Espermicida Cirúrgico",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q44-p10-c0-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 45,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Dentre os métodos contraceptivos apresentados nas alternativas, assinale aquele que previne a transmissão do HIV.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diafragma (DIU).",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Laquedura.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Camisinha feminina.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Espermicida.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 46,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A Terra funciona como uma máquina incrivelmente complexa e não parece haver partes desnecessárias. Cada espécie – do mais simples micróbio aos seres humanos – desempenha uma parte em manter o planeta funcionando normalmente. Neste sentido, cada parte está relacionada. Se muitas destas partes, de repente, desaparecerem, então, a máquina – que é a Terra – não conseguirá funcionar da maneira devida. (http://ciencia.hsw.uol.com.br) O texto refere-se",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ao efeito estufa.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "ao aquecimento global.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "à biodiversidade.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à camada de ozônio.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 47,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Observe o gráfico – em que estão representadas as densidades de algumas substâncias – e a figura. 16 14 12 10 8 6 Série 1 4 2 0 alumínio gasolina álcool mercúrio madeira ferro água Considerando as densidades apresentadas no gráfico, a bolinha e o líquido do copo poderiam ser formados, respectivamente, por",
+   "texto_na_figura": "16 14 12 10 8 6 Série 1 4 2 0 alumínio gasolina álcool mercúrio madeira ferro água",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ferro e gasolina.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "alumínio e água.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "madeira e álcool.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "mercúrio e gasolina.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q47-p10-c1-0.png",
+     "pagina": 11
+    },
+    {
+     "arquivo": "data/imagens/2012/2012-q47-p10-c1-1.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 48,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Em uma corrida de maratona, um atleta, durante 15 minutos, manteve uma velocidade constante de 20 km/h. A distância, em km, percorrida por esse atleta durante esse tempo foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "10.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "15.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "20.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 49,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Observe a tabela a seguir em que estão representados os tempos de decomposição de alguns materiais. Tempo de decomposição Tipo de Material no ambiente Papel 3 meses em lugar úmido Madeira 6 meses em lugar úmido Em princípio, não são Metais biodegradáveis Plásticos Mais de 100 anos Vidro Não sofre biodegradação nunca Considerando a relação entre o tempo de decomposição e o tipo de material, a maior vantagem para o meio ambiente seria a reciclagem",
+   "texto_na_figura": "Tempo de decomposição Tipo de Material no ambiente Papel 3 meses em lugar úmido Madeira 6 meses em lugar úmido Em princípio, não são Metais biodegradáveis Plásticos Mais de 100 anos Vidro Não sofre biodegradação nunca",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "do papel e da madeira.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "dos metais e do vidro.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "do papel, somente.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "do vidro, somente.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q49-p10-c1-2.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 50,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "As baterias utilizadas nos automóveis são equipamentos compostos por placas revestidas de chumbo e contidas em compartimentos que contêm ácido sulfúrico. Esse contato faz com que ocorra uma reação química que libera energia. A energia liberada pela bateria e que é responsável por todas as formas de energia dissipadas pelo automóvel é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mecânica.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "térmica.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "luminosa.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "elétrica.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2012/2012-q50-p11-c0-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  }
+ ]
+}

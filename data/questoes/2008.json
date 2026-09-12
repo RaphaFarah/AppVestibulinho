@@ -1,0 +1,2302 @@
+{
+ "ano": 2008,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "VESTIBULINHO prova2008-bauru-guara.pdf",
+ "fonte_gabarito": "VEST gabarito2008-bauru-guara.pdf",
+ "n_alternativas": 5,
+ "contextos": [
+  {
+   "id": "ctx-2008-11",
+   "questoes": [
+    11,
+    12
+   ],
+   "instrucao": "25.10.2007, para responder às questões de números 11 e 12.",
+   "texto": "I. O imaginário dos fraudadores de todo tipo e gênero corre solto; difícil pensar que tivessem a audácia de adulterar um dos mais nobres produtos da cesta básica alimentar: o leite. Mas num País em que a fiscalização deixa tanto a desejar, há um estímulo como que sub-reptício à adulteração dos produtos de boca. II. Novas áreas de instabilidade reforçam as nuvens que já estão sobre o Sudeste. O céu fica cheio de nuvens, especialmente em São Paulo, no centro-sul de Minas e no Rio de Janeiro. Há risco de chuva forte nessas áreas. III. Em uma atitude que misturou coragem e alto grau de imprudência, o motorista desempregado Mário Sérgio Perrone de Jesus, 51 anos, não só impediu que o irmão, o também motorista Mauro Perrone de Jesus, 42, fosse vítima de um assalto do tipo saidinha bancária, mas ainda se atracou com o bandido e o baleou mortalmente. Mauro também levou um tiro e foi internado, em estado grave, no Hospital Geral do Estado (HGE).",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2008-13",
+   "questoes": [
+    13,
+    14,
+    15
+   ],
+   "instrucao": "Para responder às questões de números 13 a 15, leia os textos",
+   "texto": "I, II e III. Texto I Poema tirado de uma notícia de jornal João Gostoso era carregador de feira-livre e morava no [morro da Babilônia num barracão sem número Uma noite ele chegou no bar Vinte de Novembro Bebeu Cantou Dançou Depois se atirou na Lagoa Rodrigues de Freitas e morreu afogado. (Manuel Bandeira) Texto II Chico Bento olhou dolorosamente a mulher. O cabelo em falripas sujas, como que gasto, acabado, caía, por cima do rosto, envesgando os olhos, roçando na boca. A pele, empretecida como uma casca, pregueava nos braços e nos peitos, que o casaco e a camisa rasgada descobriam. (...) No colo da mulher, o Duquinha, também só osso e pele, levava, com um gemido abafado, a mãozinha imunda, de dedos ressequidos, aos pobres olhos doentes. E com a outra tateava o peito da mãe, mas num movimento tão fraco e tão triste que era mais uma tentativa do que um gesto. (Rachel de Queiroz, O Quinze) Texto III A poesia, ao contrário da filosofia, não é um conhecimento teórico da natureza humana, mas imita, narrativa ou dramaticamente, ações e sentimentos, feitos e virtudes, situações e vícios dos seres humanos. No entanto, a poesia é diferente da história, embora esta também seja uma narrativa de feitos humanos e de situações, das virtudes e dos vícios humanos narrados. A diferença está no fato de que aquela visa, por meio de uma pessoa ou de um fato, a falar dos humanos em geral (cada pessoa [...] não é ela em sua individualidade, mas é ela como exemplo universal, positivo ou negativo, de um tipo humano) e a falar de situações em geral (por meio, por exemplo, do relato dramático de uma guerra, fala sobre a guerra), enquanto esta se refere à individualidade concreta de cada pessoa e de cada situação. (Marilena Chauí, Introdução à história da filosofia)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2008-16",
+   "questoes": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+   ],
+   "instrucao": "Para responder às questões de números 16 a 22, leia o texto.",
+   "texto": "Maneira de amar O jardineiro conversava com as flores, e elas se habituaram ao diálogo. Passava manhãs contando coisas a uma cravina ou escutando o que lhe confiara um gerânio. O girassol não ia muito com sua cara, ou porque não fosse homem bonito, ou porque os girassóis são orgulhosos de natureza. Em vão o jardineiro tentava captar-lhe as graças, pois o girassol chegava a voltar-se contra a luz para não ver o rosto que lhe sorria. Era uma situação bastante embaraçosa, que as outras flores não comentavam. Nunca, entretanto, o jardineiro deixou de regar o pé de girassol e de renovar-lhe a terra, na ocasião devida. O dono do jardim achou que seu empregado perdia muito tempo parado diante dos canteiros, aparentemente não fazendo coisa alguma. E mandou-o embora, depois de assinar a carteira de trabalho. Depois que o jardineiro saiu, as flores ficaram tristes e censuravam-se porque não tinham induzido o girassol a mudar de atitude. A mais triste de todas era o girassol, que não se conformava com a ausência do homem. “Você o tratava mal, agora está arrependido?” “Não, respondeu, estou triste porque agora não posso tratá-lo mal. É a minha maneira de amar, ele sabia disso, e gostava.” (Carlos Drummond de Andrade, O sorvete e outras histórias)",
+   "texto_na_figura": null,
+   "figuras": []
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Cinco quadrados quadriculados iguais, com 3 cm2 de área cada um, estão superpostos em alguns de seus quadradinhos, formando a figura a seguir A área dessa figura é de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "11 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "12 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "13 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "14 cm2.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q01-p1-c0-0.png",
+     "pagina": 2
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    2
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Atualmente, encher o tanque de gasolina de um carro sedan, custa em média 124,60 reais, e cerca de três décadas atrás, custava o equivalente a 35,60 reais para encher o mesmo tanque. O percentual de aumento no preço da gasolina nesse longo período foi de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "200%.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "250%.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "300%.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "350%.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "400%.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    2
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Na figura, estão representados dois retângulos, ABCD e DBEF, e as dimensões deles. A área do polígono DCBEF, em cinza, é de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "12 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "13 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "14 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "15 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "16 cm2.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q03-p1-c0-1.png",
+     "pagina": 2
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    2
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Entre dois postes, Joãozinho contou 60 pássaros que estavam descansando nos três fios elétricos existentes. De repente, 6 pássaros voaram do primeiro fio, 8 voaram do segundo fio e 4 voaram do terceiro fio. Se Joãozinho observou que ficou o mesmo número de pássaros em cada um dos três fios elétricos, então o número de pássaros que estavam inicialmente descansando no segundo fio era",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "26.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "25.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "24.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "23.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "22.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    2
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Considere um alvo quadrado para o lançamento de dardos com setas, constituído por regiões quadriculadas molduradas com diferentes áreas e pontuações. Os pontos são computados de maneira inversamente proporcional à área de cada região espetada pelo dardo. Se um dardo na moldura B vale 30 pontos, então outro dardo na moldura C vale",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15 pontos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "30 pontos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "46 pontos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "60 pontos.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "74 pontos.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q05-p1-c1-0.png",
+     "pagina": 2
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    2
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O número máximo de caixas cujas dimensões são 25 cm, 20 cm e 10 cm que se podem colocar dentro de um caixote cúbico com 1 m3 de volume é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "200.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "225.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "250.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "275.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "300. 2 + m 5 m 7",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    2
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Os valores de m para os quais a fração algébrica 2 não está definida são 4 – m 3 – m",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "–3 e 2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "–2 e 3.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "–1 e 4.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "0 e 5.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "1 e 6.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    2
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um posto florestal foi construído num morro de 500 m de altura em relação a uma planície de uma reserva florestal. Um guarda florestal observa, em cima do posto, que tem 20 m de altura, o início de um incêndio. Usando um equipamento simples, verificou que a distância X do início do incêndio à projeção ortogonal do posto florestal no plano dessa planície estava para a altura Y em que se encontrava assim como 15 está para 4. A distância X é de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 910 m.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1 920 m.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1 930 m.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1 940 m.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "1 950 m.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q08-p2-c0-0.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Rafaela está construindo quadrados com palitos de fósforo, adicionando pequenos quadrados aos quadrados já construídos, formando uma seqüência, de acordo com o esquema. Rafaela terminou de construir o quadrado de número 30. O número de pequenos quadrados que Rafaela precisa adicionar a esse quadrado para obter o quadrado de número 31 é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "59.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "60.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "61.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "62.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "63.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q09-p2-c0-1.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Simplificando a fração algébrica obtemos",
+   "texto_na_figura": "obtemos",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2008/2008-q10-altA.png",
+      "pagina": 3
+     }
+    },
+    {
+     "letra": "B",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2008/2008-q10-altB.png",
+      "pagina": 3
+     }
+    },
+    {
+     "letra": "C",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2008/2008-q10-altC.png",
+      "pagina": 3
+     }
+    },
+    {
+     "letra": "D",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2008/2008-q10-altD.png",
+      "pagina": 3
+     }
+    },
+    {
+     "letra": "E",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2008/2008-q10-altE.png",
+      "pagina": 3
+     }
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q10-p2-c0-2.png",
+     "pagina": 3
+    },
+    {
+     "arquivo": "data/imagens/2008/2008-q10-p2-c0-3.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [
+    {
+     "arquivo": "data/imagens/2008/2008-q10-integral-p2-c0.png",
+     "pagina": 3
+    }
+   ],
+   "paginas": [
+    3
+   ],
+   "revisar": true,
+   "motivo_revisao": [
+    "alternativa e figura"
+   ],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 11,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2008-11",
+   "enunciado": "Sabe-se que o editorial analisa o assunto do ponto de vista da empresa jornalística, de forma valorada, fazendo um diagnóstico de uma determinada questão. Dentre os textos apresentados, assume características de editorial, quanto à apresentação e análise da informação, apenas",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "II.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "III.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "I e II.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "I e III.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 12,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2008-11",
+   "enunciado": "Assinale a alternativa correta.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em – Mas num País em que a fiscalização deixa tanto a desejar... – a expressão em que poderia ser substituída por cuja.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Em – Novas áreas de instabilidade reforçam as nuvens que já estão sobre o Sudeste. – a preposição sobre poderia ser substituída por sob, sem prejuízo de sentido.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Em – ... não só impediu que o irmão... – o termo só poderia ser retirado, sem prejuízo de sentido ao texto.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Em – ... adulteração dos produtos de boca... – a expressão produtos de boca refere-se a produtos alimentares.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Em – O céu fica cheio de nuvens, especialmente em São Paulo... – o advérbio especialmente expressa sentido de intensidade.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 13,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2008-13",
+   "enunciado": "Considerando as estruturas lingüísticas e textuais predominantes, pode-se afirmar que I, II e III correspondem, respectivamente, aos seguintes tipos de textos:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "narração, descrição, carta.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "descrição, descrição, dissertação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "narração, descrição, dissertação.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "dissertação, narração, descrição.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "narração, dissertação, descrição.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 14,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2008-13",
+   "enunciado": "Em relação ao texto II, o ponto de vista que perpassa o texto é de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "otimismo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "desolação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "expectativa.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "saudade.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "raiva.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 15,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2008-13",
+   "enunciado": "De acordo com o texto III, o exemplo universal, positivo ou negativo, está relacionado à",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "filosofia.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "história.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "poesia.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "natureza humana.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "narrativa.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 16,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2008-16",
+   "enunciado": "De acordo com o texto, o jardineiro",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tratava bem a todas as plantas, mas procurava conquistar a atenção do girassol que, sem motivo evidente, ignorava-o.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "havia deixado de dar atenção ao girassol, pois, por mais que tentasse, ele não lhe dava provas de amizade.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "não se interessava pelo girassol, que não lhe dava atenção, o que o fez deixar de regá-lo e renovar-lhe a terra.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "vivia numa situação bastante embaraçosa, pois, apesar de bonito e bastante orgulhoso, não ganhara a atenção do girassol.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "conseguiu obter as graças do girassol depois que as demais plantas do jardim o induziram a mudar de idéia.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 17,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2008-16",
+   "enunciado": "O jardineiro foi despedido porque",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a carteira de trabalho dele ainda não fora assinada.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "ele deixou de cuidar adequadamente das flores.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o girassol ficou sem os devidos cuidados.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ele não trabalhava e só conversava com as plantas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "o patrão acreditava que ele deixava de cumprir as tarefas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 18,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2008-16",
+   "enunciado": "No final do texto, o girassol mostra-se triste porque",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estava arrependido por ter tratado mal o jardineiro e por ele ter sido demitido.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "sentia falta do jardineiro e de tratá-lo mal, pois essa era a sua forma de amar.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "as demais flores do jardim o recriminavam por ter tratado mal o jardineiro.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "queria ter tratado bem o jardineiro, mas não teve tempo de fazê-lo.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "o dono do jardim pretendia acabar com aquele lugar em breve.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 19,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2008-16",
+   "enunciado": "Em – O jardineiro conversava com as flores... – o emprego do verbo no pretérito imperfeito indica que as ações do jardineiro eram",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "para o futuro.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "nada comuns.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "incertas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "acabadas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "rotineiras.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 20,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2008-16",
+   "enunciado": "Considere as afirmações. I. A história desenrola-se num ambiente único, ou seja, o jardim. II. O tempo na história corresponde a um dia, já que o jardineiro cuidou do jardim e depois foi demitido. III. O foco narrativo é de 3.ª pessoa, com narrador observador. IV. No último parágrafo do texto, há exemplo de discurso direto. Estão corretas as afirmações",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e III, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "II e IV, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "I, II e III, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "I, III e IV apenas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "I, II, III e IV.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 21,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2008-16",
+   "enunciado": "Em vão o jardineiro tentava captar-lhe as graças, pois o girassol chegava a voltar-se contra a luz para não ver o rosto que lhe sorria. Se essa frase fosse proferida pelo girassol às outras flores, ela assumiria a forma:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em vão o jardineiro tentava captar-me as graças, pois eu chegava a voltar-me contra a luz para não ver o rosto que me sorria.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Em vão o jardineiro tentava captar as minhas graças, pois chegava a voltar-se contra a luz para não ver o rosto que lhe sorria.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Em vão o jardineiro tentava captar-te as graças, pois eu chegava a voltar-se contra a luz para não ver o rosto que te sorria.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Em vão o jardineiro tentava captar as suas graças, pois eu chegava a voltar-me contra a luz para não ver o rosto que sorria para mim.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Em vão o jardineiro tentava captar-me as graças, pois eu chegava a voltar-se contra a luz para não ver o rosto que se sorria.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 22,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2008-16",
+   "enunciado": "Em – O dono do jardim achou que seu empregado perdia muito tempo parado diante dos canteiros (...). E mandou-o embora, depois de assinar a carteira de trabalho. –, os termos “diante dos” e “E” podem ser substituídos, respectivamente, por",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sobre os/Mas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "defronte os/Por isso.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "sob os/Então.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ante os/Porque.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "em frente dos/Quando.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 23,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Leia o texto. O clima e sua variabilidade são fatores importantes na composição do meio ambiente, disponibilidade dos recursos naturais e características socioeconômicas. As alterações do clima e dos sistemas ambientais, causadas pela sociedade, motivaram acordos internacionais para minimizar tais mudanças. Dessa forma, o aquecimento global e seus efeitos são discussões relevantes atualmente. A ocorrência de eventos atmosféricos severos e seus impactos ambientais e socioeconômicos são notificados pela televisão, nos jornais e nas revistas todos os dias. As conseqüências do aquecimento global são relevantes quando ocorrem alterações na organização espacial, seja no meio físico ou nos sistemas socioeconômicos. (Fórum, Jornal Unesp, julho de 2007) De acordo com o texto, as conseqüências do aquecimento global",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não apontam para um novo cenário climático, já que tendem a se manter os diferentes padrões na circulação geral da atmosfera.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "não despertam a atenção, pois os acordos internacionais fizeram com que as pessoas deixassem de pensar no assunto.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "têm importância tanto no meio físico quanto nas atividades de natureza socioeconômica.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "foram totalmente revertidas depois que se estabeleceram acordos internacionais para minimizar tais mudanças.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "deixaram de ter relevância na mídia, como televisão, jornais e revistas, que as tratam apenas como questão menor.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 24,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa correta quanto à concordância.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Entendem-se as severas mudanças climáticas como sinal de que os homens devem mudar sua relação com o planeta.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "É recente no Brasil ocorrências como o Furacão Catarina, a seca na Amazônia e tornados nas Regiões Sul e Sudeste.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Mudanças climática, com certeza, devem ter ocorridos em função do aquecimento global.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Alterações climáticas severas mantém as pessoas bastantes apreensivas com o destino do planeta.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "No Brasil, ocorreu, nas Regiões Sul e Sudeste, eventos atmosféricos muito severos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 25,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Atualmente grande transformação das condições de vida no planeta. O homem parece não estar dos perigos que corre. Os espaços da frase devem ser preenchidos com",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "assiste-se a ... consciênte",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "assiste-se à ... conciente",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "se assiste à uma ... conciênte",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "assiste-se uma ... conciente",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "se assiste a uma ... consciente FÍSICA",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 26,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Sobre o Sistema Solar analise: I. Comparado com as outras estrelas do céu, pode-se constatar que o Sol é de fato a maior estrela. II. A Lua desenvolve menor velocidade de translação quando, em sua órbita, encontra-se mais afastada do planeta Terra. III. Entre o planeta Terra e a Lua não há ar justamente porque nessa região não há gravidade, fato que podemos constatar ao vermos um astronauta flutuando dentro de sua espaçonave. IV. Apesar da aceleração da gravidade na Lua ser menor do que na Terra, uma pessoa que aqui pesa 100 kgf pesará o mesmo na Lua. É correto o contido em apenas",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "I e IV.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "II e III.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "I, III e IV.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "II, III e IV.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 27,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Um menino mantém passadas de 1 m de comprimento enquanto vai de sua casa para a escola. Certo dia resolveu contar quantos passos deveria dar até seu destino, obtendo o incrível número de 1440 passos. Com o auxílio de seu relógio observou que em 10 s havia dado vinte passos. Se ele manteve constante seu modo de caminhar, o tempo que demorou para ir de sua casa à escola foi de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6 minutos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "8 minutos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "12 minutos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "14 minutos.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "22 minutos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 28,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Com respeito às três leis de Newton, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sob força resultante igual a zero um corpo não se desloca.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a inércia é uma força que atua sobre os corpos, reagindo contra o movimento.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "das forças do par ação / reação, primeiro ocorre a ação que é seguida pela reação.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a direção e o sentido da aplicação de uma única força sobre um corpo lhe dará uma aceleração de igual direção, porém sentido oposto.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "corpos de maior massa têm maior peso já que em queda livre devem desenvolver a mesma aceleração que outro corpo de massa menor.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 29,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "O funcionamento de uma estufa de plantas e o de uma chaminé são exemplos de utilização dos processos de transmissão de calor chamados, respectivamente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "irradiação e condução.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "condução e convecção.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "irradiação e convecção.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "condução e inversão.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "convecção e inversão.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 30,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Para responder esta questão, observe atentamente o espelho e as posições dos pontos indicados. Ao observar o espelho esquematizado, de sua posição de observação X, os pontos que você poderá ver por reflexão no espelho são",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A e C, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "D e E, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "A, B e C, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "B, C, D e E, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "A, B, C, D e E. QUÍMICA",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q30-p5-c1-0.png",
+     "pagina": 6
+    },
+    {
+     "arquivo": "data/imagens/2008/2008-q30-p5-c1-1.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6,
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 31,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Para dar partida em um automóvel, utiliza-se uma bateria, onde ocorre uma interação envolvendo o ácido sulfúrico, chumbo e óxido de chumbo II, que transforma a energia A em energia B. Com o carro em movimento, o dínamo, um gerador de corrente contínua, fornece energia para essa bateria, revertendo o fenômeno. As letras A e B, tornam o texto correto se forem substituídas, respectivamente, pelas palavras",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "química, mecânica.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "mecânica, elétrica.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "química, elétrica.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "luminosa, mecânica.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "elétrica, química.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 32,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "A tabela apresenta os pontos de fusão e de ebulição em graus Celsius de alguns materiais, sob pressão de 1 atm. Fusão/oC Ebulição/oC Material I –218,0 –183,0 II –101,6 –34,6 III 17,0 118,0 IV 801,0 1473,0 V 1083,0 2300,0 Considerando esses materiais à temperatura ambiente de 25 oC e pressão atmosférica ao nível do mar (1 atm), a única alternativa que apresenta, corretamente, a fase de agregação (sólida, líquida ou gasosa) dos materiais é",
+   "texto_na_figura": "Fusão/oC Ebulição/oC Material I –218,0 –183,0 II –101,6 –34,6 III 17,0 118,0 IV 801,0 1473,0 V 1083,0 2300,0",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II são líquidos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "IV e V são gasosos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "I é sólido.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "III é líquido.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "II é sólido, III é gasoso e V é líquido.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q32-p6-c0-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 33,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "No ar atmosférico estão presentes vários gases como o nitrogênio (N2), o oxigênio (O2) e o carbônico (CO2) e, quando chove, a água (H2O) da chuva dissolve-os. Com base nessas informações, foram feitas algumas afirmações. I. Os gases presentes no ar atmosférico podem ser classificados como substâncias simples. II. O gás carbônico é uma mistura de moléculas de oxigênio e moléculas de carbono. III. A água da chuva é uma mistura formada por mais de uma substância. IV. Pode-se classificar o CO2(g), presente no ar atmosférico, como substância composta. Dentre as afirmativas, apenas estão corretas",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "I e IV.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "II e III.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "II e IV.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "III e IV.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 34,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "O conversor catalítico ou catalisador de automóvel aumenta a velocidade de uma série de reações que transformam gases tóxicos em outros não tóxicos, como CO2 e N2, diminuindo a poluição atmosférica. As reações I e II, representadas pelas equações não-balanceadas, demonstram essa transformação. I. CO(g) + O2(g) → CO2(g) II. NO(g) → N2(g) + O2(g) Após balancear essas equações com a menor relação de números inteiros possíveis, assinale a alternativa que apresenta, respectivamente, os coeficientes dos gases não tóxicos, bem como a classificação das reações I e II.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2 e 1; síntese e decomposição.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1 e 1; decomposição e deslocamento.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3 e 1; análise e síntese.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "2 e 2; dupla troca e análise.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "2 e 3; deslocamento e dupla troca.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 35,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Algumas marcas de água mineral possuem uma quantidade de íons fluoreto (F–), muito acima da concentração considerada ideal, 0,8 mg/L de íons F–, o que é preocupante, pois se uma criança, menor de sete anos, ingerir regularmente flúor em excesso, pode contrair a fluorose dental, doença caracterizada pela aparição de pequenos pontos brancos nas pontas dos dentes recém-formados. A massa, em gramas, de íons fluoreto contido em 500 cm3 de uma água mineral que apresenta concentração de íons fluoreto 0,8 mg/L, é igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0,21.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "0,64.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "0,016.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "0,0004.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "0,00002.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 36,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "A figura a seguir representa o perfil de um solo maduro. (Prática Pedagógica – Ciências) Com relação à granulação e respectiva característica, pode-se afirmar que a camada",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A possui grãos menores que as demais camadas e apresenta decomposição de matéria orgânica.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "A possui grãos pequenos, que formam uma camada impermeável e de baixa fertilidade.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "B apresenta grãos médios e que impedem a passagem da água para os níveis mais baixos do solo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "C apresenta grãos médios e grandes e é o local onde se concentram todos os elementos essencias às plantas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "C é formada pela rocha-mãe totalmente transformada contendo grãos grandes totalmente modificados.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q36-p7-c0-0.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 37,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Um aluno, realizando uma atividade para identificar as cadeias alimentares formadas no local onde as pessoas de seu bairro depositam os resíduos sólidos orgânicos, anotou o nome dos seguintes animais: rato, aranha, lagartixa, inseto, gavião, gato, pombo e piolho. Sobre a organização desses animais em uma teia alimentar, o aluno fez as observações a seguir. I. Inseto, lagartixa e gavião poderiam fazer parte de uma cadeia alimentar, nessa ordem. II. Os piolhos alimentam-se diretamente dos resíduos orgânicos e servem de alimento aos pombos. III. Ratos e pombos encontram-se no mesmo nível trófico quando competem pelas sobras de alimentos. IV. Ratos, pombos, piolhos e gatos poderiam formar, nessa ordem, uma cadeia alimentar iniciada pelos resíduos alimentares. É correto, apenas, o que se afirma em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "I e III.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "II e IV.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "I, II e III.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "II, III e IV.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 38,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "O florescimento de algumas plantas depende do período de iluminação do dia. Assim, plantas de dia longo somente florescem quando a duração da claridade solar ultrapassar um determinado limite de tempo, enquanto que as plantas de dia curto florescem quando o período de escuridão é superior a um determinado limite. Nesses casos, de um modo geral, considera-se o limite como sendo 12 horas. Algumas plantas, no entanto, são indiferentes ao período de iluminação do dia. Em uma região localizada próximo ao Trópico de Capricórnio, quando se aproxima o verão, é mais provável que floresçam as plantas",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "de dia curto, pois a Terra encontra-se mais próxima do sol nessa época.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "de dia curto, pois nessa época a Terra encontra-se mais inclinada em relação ao sol.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "de dia longo, pois nesse momento a incidência da luz solar é maior em toda a Terra.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "de dia longo, pois a duração da claridade solar é maior nessa época do ano.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "indiferentes, pois nessa época o sol está a pino no Equador e com igual incidência.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 39,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Considere o esquema a seguir que representa o mapa-múndi e a distribuição de 3 tipos de florestas. (Telecurso, Ensino Fundamental) Sobre essas regiões e algumas de suas características foi montada a tabela a seguir. Temperatura Umidade Estações do Floresta Média Anual Média Anual Ano I Média Alta Não definidas II Elevada Alta Não definidas III Elevada Média Bem definidas É correto o que se afirma em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "II, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "I e II, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "II e III, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q39-p7-c1-0.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 40,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "O esquema a seguir representa o desenvolvimento de um animal. (Biologia, Gowdak e Mattos) Os estágios do desenvolvimento representado são similares aos observados em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "qualquer classe dos artrópodes.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "animais da classe dos aracnídeos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "mosquitos como o Aedes aegypti.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "girinos e vermes invertebrados.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "crustáceos e peixes aquáticos.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q40-p8-c0-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 41,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "Em 1845, o Parlamento inglês aprovou um ato que ficou conhecido no Brasil como Bill Aberdeen, pelo qual",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a marinha inglesa estava autorizada a tratar os navios negreiros como navios piratas, com direito à sua apreensão e julgamento dos tripulantes por tribunais ingleses.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a Inglaterra não reconhecia o monopólio dos comerciantes luso-brasileiros sobre o rentável tráfico negreiro e exigia do governo brasileiro a liberalização do referido comércio.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a Inglaterra, em solidariedade com o governo brasileiro, incentivava a entrada de novos escravos no Brasil, causando sérios danos à economia cafeeira.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o Brasil era obrigado a cancelar as taxas alfandegárias protecionistas, criadas pela tarifa Alves Branco, sob pena de ter que quitar, imediatamente, todas as dívidas contraídas junto à Inglaterra.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "todo o comércio inglês com o Brasil só poderia ser transportado por navios britânicos, o que implicou grande prejuízo para os comerciantes brasileiros.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 42,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "A partir de 1937, com a implantação do Estado Novo e com a iminência, cada vez maior, da eclosão de uma nova guerra mundial, o Brasil assumiu uma estratégia econômica direcionada para",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a agricultura de exportação, amplamente favorecida pela destruição da agricultura européia.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "uma política de substituição de importações e implementação da indústria de base.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a agricultura de subsistência, a fim de evitar uma futura crise de desabastecimento.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o desenvolvimento da indústria bélica, o que favoreceria as exportações em caso de guerra.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "a não intervenção do Estado na economia e a abertura às importações e ao capital externo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 43,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "A criação da Petrobras, a construção de Brasília e a implantação do Plano Cruzado ocorreram, respectivamente, nos governos de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eurico Gaspar Dutra, João Goulart e Itamar Franco.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Getúlio Vargas, Eurico Gaspar Dutra e Jânio Quadros.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Eurico Gaspar Dutra, Getúlio Vargas e José Sarney.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "João Goulart, Juscelino Kubitscheck e Getúlio Vargas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Getúlio Vargas, Juscelino Kubitscheck e José Sarney.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 44,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "EVOLUÇÃO DA BALANÇA COMERCIAL BRASILEIRA (em bilhões de ano dólares) 1999 – 1.2 2000 – 0.7 2001 2.6 2002 13.1 2003 24.8 2004 33.7 Ministério do Desenvolvimento, Indústria e Comércio Exterior. Sobre os resultados da balança comercial brasileira entre os anos de 1999 e 2004, pode-se afirmar que",
+   "texto_na_figura": "(em bilhões de ano dólares) 1999 – 1.2 2000 – 0.7 2001 2.6 2002 13.1 2003 24.8 2004 33.7",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "houve um crescente déficit ao longo de todo o período graças à elevada carga tributária que reduziu a competitividade dos produtos brasileiros nos mercados internacionais.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "entre 1999 e 2001 houve uma posição deficitária que foi invertida a partir de 2002, devido ao êxito da política econômica posta em prática pelo governo Lula.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "ao longo de todo o período houve uma situação de crescente superávit, fruto da estabilidade econômica atingida pelo país desde a implantação do plano real.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "houve um progressivo crescimento das exportações e uma situação superavitária a partir de 2001 em decorrência, principalmente, da desvalorização cambial.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "houve uma sensível redução das reservas cambiais do país ano após ano, graças à supervalorização do real, o que inviabilizou o crescimento das exportações.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q44-p8-c1-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 45,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "No contexto da Guerra Fria, foi lançado em 1947, pelos Estados Unidos, o Plano Marshall, que consistia em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uma aliança político-militar entre os países capitalistas para fazer frente aos possíveis ataques comandados pela União Soviética.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "um projeto para a criação do Estado de Israel, que abrigaria o povo judeu perseguido pelo nazismo ao longo da 2.ª Guerra Mundial.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "um programa de investimentos que visava à recuperação econômica dos países capitalistas europeus no pós-guerra.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "um projeto, idealizado pelo presidente John Kennedy, de combate à expansão do comunismo na América do Sul e na Ásia.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "uma tentativa de reaproximação com a União Soviética a partir da proposta de redução dos arsenais nucleares das duas superpotências.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 46,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa que identifica corretamente uma das paisagens naturais numeradas no mapa. (J. William Vesentini e Vânia Vlach. Geografia crítica. Volume 3, p.35)",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 – clima com estações do ano bem definidas com verões amenos e invernos frios; vegetação herbácea, ainda bem conservada, que recebe o nome de taiga.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2 – clima com invernos rigorosos com neve e rios congelados; vegetação original de coníferas, foi substituída por monoculturas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3 – clima com pequena variação de temperatura entre o verão e o inverno; vegetação formada por pradarias e estepes, com pequena biodiversidade.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4 – clima quente e, em geral, úmido; vegetação de florestas e savanas, ameaçadas pelo desmatamento mas com grande biodiversidade.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "5 – clima com grandes variações de temperaturas durante o ano e baixas precipitações; vegetação escassa e resistente à seca prolongada.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q46-p9-c0-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 47,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "Considere a tabela que apresenta dados importantes sobre a população de três países. TAXA DE MORTA- EXPECTATIVA DE IDH (Índice de Desen- PAÍS LIDADE (por mil) VIDA (em anos) volvimento Humano) I 5 80 ? II 36 73 ? III 123 54 ? A análise da tabela revela que o país",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I deve ser considerado desenvolvido e seu IDH é baixo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "I oferece boas condições de vida à população e seu IDH é alto.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "II pode ser considerado desenvolvido e seu IDH é alto.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "III é considerado emergente e seu IDH é baixo.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "III deve ser considerado subdesenvolvido e seu IDH é médio.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 48,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "No final do século XX, instaurou-se no mundo uma Nova Ordem Mundial que apresenta como um de seus marcos importantes",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a bipolaridade, isto é, dois grandes pólos econômicos: Estados Unidos e Japão têm o domínio político-militar sobre o mundo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a divisão dos países em três grandes grupos: Primeiro, Segundo e Terceiro Mundo, este último formado pelos países mais pobres de cada continente.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a formação na economia mundial de três grandes pólos que concentram a maior parte da riqueza e dos capitais para investimento.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o fato de aumentar o número de países que recusam a globalização e proíbem a entrada de grandes empresas multinacionais em seu território.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "a diminuição das migrações internacionais, pois os antigos países fornecedores de emigrantes estão em rápido processo de desenvolvimento.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 49,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "Observe o mapa para responder à questão. BRASIL: ORGANIZAÇÃO DO ESPAÇO (Maria Elena Simielli. Geoatlas básico. São Paulo: Ática, 2002. p. 44) Assinale a alternativa que identifica características das áreas 1 e 2. 1 2 Área pouco populosa e com várias áreas com paisa-",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Megalópole gens naturais Área populosa e com agri- Áreas de agropecuária",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "cultura tradicional modernizada Área de concentração ur-",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Megalópole bano-industrial Área de agropecuária mais Área pouco populosa e com",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "modernizada agricultura tradicional Área pouco populosa e com Área industrializada e",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "agricultura tradicional pouco populosa",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2008/2008-q49-p10-c0-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 50,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "Nas últimas décadas do século XX, os cultivos de soja se expandiram por áreas que, antes, eram recobertas por vegetação de cerrado e transformaram a região na maior produtora nacional de soja. Trata-se da região",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sudeste.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Sul.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Norte.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Nordeste.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Centro-Oeste.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  }
+ ]
+}

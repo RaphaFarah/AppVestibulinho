@@ -1,0 +1,2055 @@
+{
+ "ano": 2019,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "2019.pdf",
+ "fonte_gabarito": "gabarito 2019.pdf",
+ "n_alternativas": 4,
+ "contextos": [
+  {
+   "id": "ctx-2019-01",
+   "questoes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 01 a 06.",
+   "texto": "Vai um café grátis, em troca dos seus dados pessoais? Parece o sonho de todo estudante: tomar cafés, chás ou sucos ilimitados todos os dias, sem pagar um centavo por isso. Para universitários no Japão, Índia e, recentemente, nos Estados Unidos, o sonho virou realidade com a rede Shiru Cafe. São 28 lojas nos campi de universidades nesses países, entre elas as renomadas Brown, Harvard, Yale e Princeton (as três últimas lojas estão em construção). Mas, como diz o velho ditado, “quando a esmola é demais o santo desconfia”. Ou, também, “não existe almoço grátis”. É que, embora de fato não precisem pagar pelo cafezinho, os estudantes devem concordar em compartilhar seus dados pessoais com as empresas patrocinadoras da loja. Funciona assim: o usuário cria uma conta com um e-mail universitário (pessoas não filiadas a uma escola não são bem-vindas no Shiru) e responde a um questionário que inclui ano de formatura, capacidades tecnológicas, experiência profissional e o tamanho de empresa que estaria interessado em trabalhar. Para professores, os cafés custam US$ 1. A ideia é que a bebida seja consumida dentro da loja, que tem internet grátis e telões com anúncios das empresas patrocinadoras. Segundo o gerente da loja no campus da Universidade Brown, em Providence, na costa leste dos EUA, o objetivo todo é conectar os estudantes a possíveis empregadores. Mas a novidade, que abriu as portas em fevereiro, gerou algumas controvérsias entre os estudantes. Entre os alunos dessa universidade, alguns questionam as regras de privacidade e observam que elas não estão claras o suficiente, pois nada garante que o café não vai recolher mais dados do que o combinado – algo possível se o usuário se conectar à rede wi-fi do local. Outros criticam a universidade por permitir uma “lavagem cerebral” e um recrutamento indiscriminado de grandes corporações. Finalmente, há aqueles que simplesmente aceitam que privacidade é coisa do passado e que, se atualmente dados pessoais estão sendo coletados a todo instante por diferentes companhias, um cafezinho grátis em troca não fará mal a ninguém. E você, de que lado estaria? (https://revistagalileu.globo.com, 16.09.2018. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2019-01",
+   "enunciado": "Uma frase condizente com as informações do texto e escrita em conformidade com a norma-padrão da língua portuguesa é:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A Shiru Cafe especializou-se em servir cafés, chás, sucos e wi-fi sem custo aos clientes recêm-contratados pelas empresas com as quais a rede tem parceria.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Os frequentadores do Shiru Cafe recebem bebidas gratuítas no momento em que seus dados pessoais são divulgados pelo estabelecimento.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "A Shiru Cafe coleta dados pessoais de alunos de algumas universidades, em troca de bebidas de graça, para fornecer esses dados a empresas patrocinadoras da rede.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Os estudantes e professores universitários que tomam bebida grátis e acessam a rede wi-fi no Shiru Cafe tem seus dados pessoais divulgados a terceiros.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 2,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2019-01",
+   "enunciado": "No último parágrafo do texto, expõem-se",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "opiniões que divergem entre si sobre o que foi dito da rede Shiru Cafe.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "comentários sem relação com o que se informou sobre a rede Shiru Cafe.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "pontos de vista concordantes acerca de aspectos positivos da rede Shiru Cafe.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ideias que se anulam mutuamente ao criticar a iniciativa da rede Shiru Cafe.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 3,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2019-01",
+   "enunciado": "Um sinônimo para a palavra indiscriminado (5o parágrafo) é:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "idealista.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "irregular.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "inevitável.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "infalível.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 4,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2019-01",
+   "enunciado": "Considerando o contexto, o vocábulo aqueles, no quinto parágrafo – “Finalmente, há aqueles que...” –, refere-se a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estudantes da Universidade Brown.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "clientes das 28 lojas da Shiru Cafe.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "funcionários da Shiru Cafe e entusiastas dessa novidade.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "frequentadores das diferentes universidades em que a Shiru Cafe atua.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 5,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2019-01",
+   "enunciado": "O vocábulo que introduz o agente da ação está destacado em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "... o sonho virou realidade com a rede Shiru Café... (1o parágrafo)",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "... os estudantes devem concordar em compartilhar seus dados pessoais... (2o parágrafo)",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "... o objetivo todo é conectar os estudantes a possíveis empregadores. (4o parágrafo)",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "... dados pessoais estão sendo coletados a todo instante por diferentes companhias... (5o parágrafo)",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 6,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2019-01",
+   "enunciado": "Uma construção própria de uma variante popular da língua portuguesa encontra sua reescrita conforme a norma-padrão em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "... o sonho virou realidade com a rede Shiru Cafe. / ... o sonho transformou-se a realidade com a rede Shiru Cafe. (1o parágrafo)",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "... o tamanho de empresa que estaria interessado em trabalhar. / ... o tamanho de empresa em que estaria interessado em trabalhar. (3o parágrafo)",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "... pessoas não filiadas a uma escola não são bem-vindas no Shiru... / ... pessoas não filiadas perante uma escola não são benquista no Shiru... (3o parágrafo)",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "... gerou algumas controvérsias entre os estudantes. / ... gerou algumas controvérsias de entre os estudantes. (4o parágrafo)",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 7,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "A concordância está em conformidade com a norma-padrão em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A oferta de bebidas gratuitas atraem vários estudantes para o Shiru Cafe.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Tomar bebidas sem precisar pagar por elas interessam a muitos estudantes.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "O aluno que quiser receber a bebida de graça respondem a algumas perguntas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Os frequentadores do Shiru Cafe dispõem de wi-fi de graça dentro da loja.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 8,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Considere o cartaz. (http://portalarquivos2.saude.gov.br) Predominam, no cartaz, as seguintes funções da linguagem:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "metalinguística e fática.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "emotiva e apelativa.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "referencial e fática.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "referencial e apelativa.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q08-p3-c0-0.png",
+     "pagina": 4
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 9,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Nesse texto, a descrição de uma cômoda é feita por meio do uso",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "da antítese.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "da personificação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "do pleonasmo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "do eufemismo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 10,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Considere as orações: 1. \u0007Nas gavetas guarda coisas de outros tempos, só para si. 2. \u0007Foi sempre assim, dona Cômoda: gorda, fechada, egoísta. Assinale a alternativa correta:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em 1, o sujeito é indeterminado e o predicado é verbal; em 2, o sujeito é oculto e o predicado é verbo-nominal.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Em 1, o sujeito é oculto e o predicado é verbal; em 2, o sujeito é simples e o predicado é nominal.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Em 1, o sujeito é indeterminado e o predicado é verbo- -nominal; em 2, o sujeito é simples e o predicado é nominal.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Em 1, o sujeito é oculto e o predicado é verbal; em 2, o sujeito é indeterminado e o predicado é nominal.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 11,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Considere o cartum. (Adão Iturrusgarai. A vida como ela é. www.folha.uol.com.br, 23.01.2018) O cartum apresenta uma",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sátira bem-humorada do comportamento consumista.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "crítica indignada contra os estudos acerca dos hábitos consumistas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "reflexão melancólica sobre a origem do consumismo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "explicação do impacto do consumismo sobre a desigualdade. Leia o poema de Cecília Meireles para responder às questões de números 12 e 13. Ou isto ou aquilo Ou se tem chuva e não se tem sol ou se tem sol e não se tem chuva! Ou se calça a luva e não se põe o anel, ou se põe o anel e não se calça a luva! Quem sobe nos ares não fica no chão, quem fica no chão não sobe nos ares. É uma grande pena que não se possa estar ao mesmo tempo em dois lugares! Ou guardo o dinheiro e não compro o doce, ou compro o doce e gasto o dinheiro. Ou isto ou aquilo: ou isto ou aquilo... e vivo escolhendo o dia inteiro! Não sei se brinco, não sei se estudo, se saio correndo ou fico tranquilo. Mas não consegui entender ainda qual é melhor: se é isto ou aquilo. (Ou isto ou aquilo. São Paulo, Global, 2012)",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q11-p4-c0-0.png",
+     "pagina": 5
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 12,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "O conteúdo do poema está resumido em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ou se tem chuva e não se tem sol / ou se tem sol e não se tem chuva!",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Quem sobe nos ares não fica no chão, / quem fica no chão não sobe nos ares.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Ou isto ou aquilo: ou isto ou aquilo... / e vivo escolhendo o dia inteiro!",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Não sei se brinco, não sei se estudo, / se saio correndo ou fico tranquilo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 13,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "O vocábulo “ou” estabelece, no poema, relação de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "adição.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "causa.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "exclusão.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "proporção.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 14,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa em que todos os verbos estão empregados em conformidade com a norma-padrão da língua.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Muitas situações nos mantém indecisos, porque tendemos a querer tudo de uma só vez.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Não seria ótimo se nós podéssemos estar em mais de um lugar ao mesmo tempo?",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Se dizermos que é fácil decidir entre economizar ou gastar talvez estejamos enganados.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "É improvável que fiquemos plenamente satisfeitos ao escolher só uma diversão entre tantas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 15,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "O sinal indicativo de crase está empregado corretamente em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prefiro brincar à estudar, embora estudar também possa ser divertido.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Ele chegou à conclusão de que era melhor buscar um segundo parecer.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Nem sempre é simples chegar à uma decisão que todos aprovem.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "É sempre bom pedir conselho à alguma pessoa mais experiente.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um rolo tem 3,69 m de uma fita usada para ornamentar pacotes. Essa fita é composta por uma sequência de quadrados de cores distintas, que se repetem obedecendo sempre a mesma ordem de cores, conforme mostra a figura. Sabendo-se que o quadrado inicial é vermelho, e que cada quadrado tem 3 cm de lado, é correto afirmar que o número de quadrados verdes nessa fita é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "29.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "30.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "31.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "32.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q16-p5-c0-0.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Na divisão de um número natural n por x, obtêm-se quociente 7 e resto 3. Na divisão desse mesmo número natural n por 10, obtêm-se quociente 5 e resto y. Se y = x + 1, então valor de n é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "45.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "48.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "53.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "59.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "André comprou uma casa por um determinado valor. Como entrada, ele deu R$ 60 mil, em dinheiro, e mais um terreno, do valor da casa. Sabendo-se que o cujo valor representou do valor da compra, é corvalor total da entrada foi igual a reto afirmar que o valor da compra da casa foi de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 300 mil",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 375 mil.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 425 mil.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 450 mil.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em uma empresa, 10 máquinas iguais, de mesmo rendimento, trabalhando de forma simultânea e ininterrupta, produziram um lote de certa peça em 8 dias. Para a produção de um segundo lote da mesma peça, idêntico ao primeiro, foi possível utilizar somente 4 das mesmas máquinas que, trabalhando de forma simultânea e ininterrupta, concluíram a produção desse lote em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "20 dias.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "18 dias.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "16 dias.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "14 dias.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em uma negociação para a venda de grande quantidade de certo produto, com pagamento à vista, uma empresa ofereceu a um atacadista dois descontos sucessivos de 20% e 30% sobre o preço unitário P, original desse produto. Os dois descontos dados a esse cliente equivalem a um desconto único, dado sobre P, de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "40%.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "44%",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "50%.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "56%.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A tabela relaciona o número de unidades de um mesmo produto X, de preços unitários iguais, e o número de unidade de um mesmo produto Y, de preços unitários iguais, que os consumidores A, B e C compraram em um supermercado, e o valor total que dois desses consumidores pagaram na compra desses produtos. Produto X Produto Y Valor total (no de (no de Consumidor (em reais) unidades) unidades) A 4 2 90,00 B 7 2 ------ C 9 2 155,00 De acordo com as informações dadas, o valor total que o consumidor B pagou nessa compra foi",
+   "texto_na_figura": "Produto X Produto Y Valor total (no de (no de Consumidor (em reais) unidades) unidades) A 4 2 90,00 B 7 2 ------ C 9 2 155,00",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 118,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 122,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 129,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 135,00. R a s c u n h o",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q21-p6-c0-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um certo capital, cujo valor, em reais, é representado por x, foi aplicado durante 16 meses e o montante recebido pelo investidor, ao final da aplicação, foi igual a 1,18 x. A taxa anual de juros simples dessa aplicação foi de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "12%",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "13,5%.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "15%.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "16,5%.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "No depósito de uma livraria há pacotes P, com 8 unidades de certo livro em cada um, e pacotes Q, com 5 unidades desse mesmo livro em cada um, num total de 70 pacotes e 470 livros. A quantidade de livros contida em todos os pacotes P é igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "150.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "200.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "240.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "320.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um projeto para uma residência determina que a área construída deverá ocupar da área total do terreno, que tem formato de um quadrilátero regular. Da área restante, será ocupado por uma piscina, e ainda sobrarão 120 m2 para outros fins. A medida do lado desse terreno é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "20 m.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "22 m.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "24 m.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "26 m.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um espelho quadrado, de área igual a 6 400 cm2, é totalmente contornado por uma moldura de largura constante, indicada por x na figura, cujo perímetro, determinado pelo lado L, mede 440 cm. A medida da largura dessa moldura, indicada por x na figura, é igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15 cm.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "12 cm.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "10 cm.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "8 cm.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q25-p8-c0-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Na figura, o quadrilátero ABCD é um trapézio retângulo, e o segmento AE é bissetriz do ângulo agudo . A medida do ângulo , indicado por α na figura, é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "68º.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "64º.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "54º.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "48º. R a s c u n h o",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q26-p8-c0-1.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Na figura, o retângulo ABCD, formado por seis retângulos congruentes, representa uma praça. A linha em vermelho determina o percurso feito por Tiago para ir do ponto A até o ponto C dessa praça. Para fazer o percurso indicado na figura Tiago percorreu um total de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "280 m.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "290 m.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "300 m.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "320 m.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q27-p9-c0-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Após simplificada corretamente, a fração algébrica , sendo x ≠ 0 e y ≠ 0, será representada, na sua forma mais simples, por",
+   "texto_na_figura": ", sendo x ≠ 0 e y ≠ 0, será representada, na",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2019/2019-q28-altA.png",
+      "pagina": 10
+     }
+    },
+    {
+     "letra": "B",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2019/2019-q28-altB.png",
+      "pagina": 10
+     }
+    },
+    {
+     "letra": "C",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2019/2019-q28-altC.png",
+      "pagina": 10
+     }
+    },
+    {
+     "letra": "D",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2019/2019-q28-altD.png",
+      "pagina": 10
+     }
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q28-p9-c0-1.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [
+    {
+     "arquivo": "data/imagens/2019/2019-q28-integral-p9-c0.png",
+     "pagina": 10
+    }
+   ],
+   "paginas": [
+    10
+   ],
+   "revisar": true,
+   "motivo_revisao": [
+    "alternativa e figura"
+   ],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Mariana sabe que (2x + y)2 – 6xy – (x – y)2 = 300. A partir desse conhecimento, concluiu que o valor positivo de x é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "8.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "10.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "12.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "15.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Uma folha retangular teve uma região pintada em azul, conforme mostra a figura. A área da região pintada em azul é corretamente representada pelo polinômio",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a(a – b)",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "(a – b)",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a2 – b2",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a2 + b2 R a s c u n h o",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q30-p9-c1-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 31,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "As bactérias A, B e C foram avaliadas de acordo com sua resistência a 8 tipos de antibióticos. Em cada tipo de antibió tico, as bactérias foram classificadas de 1 a 6, conforme o grau crescente de sua resistência, ou seja, o valor de 1 corresponde à baixa resistência ao antibiótico, enquanto o valor 6 corresponde à elevada resistência ao antibiótico, conforme pode-se observar na figura a seguir. De acordo com essa classificação, é correto afirmar que a bactéria",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "B é a mais resistente à Ampicilina.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "C é a menos resistente à Tetraciclina.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "A é a menos resistente à Piperaciclina.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "B é a mais resistente à Cefoperazona.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q31-p10-c0-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 32,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Em 2017, aproximadamente 6 634 km2 de floresta foram desmatados no Brasil, reduzindo a capacidade de sequestro de carbono realizado por ela. O desmatamento da floresta compromete o mecanismo de regulação",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "do efeito estufa, provocado pelo acúmulo de carbono na atmosfera, uma vez que a floresta é capaz de fixar carbono.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "da camada de ozônio, pois seu desmatamento promove a liberação na atmosfera de dióxido de carbono.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "da eutrofização das águas, decorrente da dissolução nos rios do excesso de dióxido de carbono.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "dos resíduos sólidos, decorrentes da liberação do dióxido de carbono devido aos desmatamentos por queimadas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 33,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O cigarro, as bebidas alcoólicas, os remédios para reduzir o apetite e a ansiedade são drogas classificadas como lícitas, isto é, as leis não proíbem seu uso pelos adultos. Já a cocaína, a maconha e o crack são drogas ilícitas, pois, a sociedade não permite seu uso pelas pessoas. As drogas lícitas",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "podem causar danos ao organismo e dependência do seu uso pelas pessoas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "podem ser usadas pelas pessoas sem nenhum prejuízo para seus organismos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "são aquelas vendidas exclusivamente em farmácias e com receitas médicas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "são substâncias que não alteram o comportamento do indivíduo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 34,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A mecanização da colheita de cana-de-açúcar diminui a emissão de gases de efeito estufa na atmosfera devido à",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "maior permanência da planta no solo, fazendo com que ela fixe mais carbono em seu caule.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "dispensa da realização de queimadas em diversas situa ções, reduzindo os gases de efeito estufa e material particulado.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "substituição dos combustíveis fósseis por biocombustíveis das máquinas que trabalham na colheita.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "capacidade do maquinário evitar processos erosivos que aumentam a produção de material particulado.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 35,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Os métodos contraceptivos humanos como a pílula anticoncepcional, a vasectomia e o dispositivo intrauterino não medicado (DIU) impedem, respectivamente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a ovulação, o encontro do espermatozoide com o óvulo e a implantação do zigoto no útero.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o encontro do espermatozoide com o óvulo, a fixação do zigoto no útero e a ovulação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a fixação do óvulo no útero, a produção de espermatozoide e a produção de óvulos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o encontro do espermatozoide com o óvulo, a produção de sêmen e a fixação do óvulo no útero.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 36,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O gráfico a seguir apresenta a variação dos parâmetros de DBO e oxigênio dissolvido em um curso d’água após o lançamento pontual de matéria orgânica por uma tubulação de esgoto. (Revista da Biologia, www.ib.usp.br/revista. Adaptada) Sabendo que DBO é a Demanda Bioquímica de Oxigênio e corresponde à quantidade de gás oxigênio necessária para a decomposição desta matéria orgânica, é correto afirmar que após o lançamento ocorre",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uma manutenção da quantidade de matéria orgânica lançada no curso d’água ao longo do tempo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "uma diminuição das bactérias aeróbicas que decompõem a matéria orgânica, consumindo o gás oxigênio.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "uma diminuição na demanda de gás oxigênio dissolvido para decompor a matéria orgânica.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "um aumento pela demanda de gás oxigênio dissolvido para decompor a matéria orgânica.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q36-p11-c0-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 37,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A figura a seguir ilustra a evolução no tamanho dos aerogeradores utilizados na geração de energia elétrica. (Disponível em: http://dadosenergeticos.energia.sp.gov.br. Adaptada) Embora a energia eólica seja considerada uma das mais limpas, a instalação de parques eólicos provoca impactos ambientais",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "atmosféricos na geração de gases do efeito estufa.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "na camada de ozônio devido à diminuição da velocidade dos ventos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "visuais e sonoros devido às dimensões e ao ruído das turbinas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "no solo e nas aves devido às dimensões das hélices das turbinas.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q37-p11-c1-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 38,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Um dos principais problemas relacionados à agricultura convencional refere-se à perda de solos agricultáveis devido à erosão laminar, que corresponde à remoção das camadas superficiais do solo, empobrecendo-o gradualmente. Esse problema pode ser mitigado por meio",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "da execução de curvas de nível e controle do escoamento superficial promovido pelas chuvas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "do aumento da concentração de compostos, como nitrogênio, fósforo e potássio pela adubação direta.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "da construção de barreiras físicas como cercas vivas, evitando a erosão eólica e a erosão pluvial.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "da rotação de culturas, permitindo que em épocas de chuvas o solo fique exposto.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 39,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A fotografia retrata um balão cheio de água no instante em que ele é perfurado. (Disponível em: https://educacao.umcomo.com.br/artigo/ o-que-e-inercia-4157.html) É possível notar que o fluido permanece pelo menos por um instante, no mesmo formato do balão. Esse fato pode ser justificado por meio do",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "princípio termodinâmico.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "princípio da inércia.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "atrito do balão com a água.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "princípio da ação e reação.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q39-p12-c0-0.png",
+     "pagina": 13
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 40,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O petróleo bruto, por se tratar de uma mistura homogênea, necessita de um processo de destilação fracionada na refinaria para separar seus diversos componentes, conforme apresentado a seguir. (Disponível em: https://diariodopresal.wordpress.com/o-que-e-o-pre-sal/ torre-de-fracionamento-de-petroleo-2/. Adaptado) O fluxo ascendente na torre de destilação indica",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o aumento do peso específico dos elementos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a diminuição da temperatura do ponto de fusão.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "temperaturas decrescentes do ponto de ebulição.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "temperaturas crescentes do ponto de ebulição.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q40-p12-c1-0.png",
+     "pagina": 13
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 41,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "No Brasil, a Política Nacional de Resíduos Sólidos busca diminuir a geração de resíduos, adotando princípios de redução, reutilização e reciclagem. Porém, por questões técnicas, nem todos os materiais descartados por pessoas ou indústrias podem passar pelo processo de reciclagem. Desse modo, os materiais que não são recicláveis correspondem a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "garrafas de vidro, folhas de caderno e pilhas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "papel carbono, latas de alumínio e madeira.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "pneus, caixas de papelão e espelhos de vidro.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "remédios, espelhos de vidro e guardanapos usados.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 42,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Lívia colocou um litro de água (1 000 cm3) em um copo e mediu o nível de água (situação A). Depois ela colocou uma estrela maciça de prata no copo e mediu novamente o nível de água (situação B). A massa de um centímetro cúbico de prata é 10,5 g. A massa dessa estrela é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 050 g.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1 500 g.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1 800 g.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "2 100 g.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q42-p13-c0-0.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 43,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A figura a seguir ilustra o comportamento de uma partícula de sujeira presente na água ao decantar em uma estação de tratamento de água. A velocidade média de sedimentação, em módulo, dessa partícula em milímetros por segundo entre os instantes 42 e 112 segundos é de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "9,37.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "10,71.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "11,34.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "15,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q43-p13-c1-0.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 44,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A ilustração apresenta a bomba parafuso de Arquimedes, que corresponde a um grande parafuso (helicoide) que funciona de forma inclinada (plano inclinado) e gira movendo o fluido para a extremidade oposta do parafuso. (Disponível em: https://pt.depositphotos.com/77485664/ stock-illustration-archimedes-screw.html. Adaptado) A água ao passar pela bomba recebe energia",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "térmica do movimento de rotação do parafuso, o que aumenta sua energia potencial.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "potencial do movimento do parafuso, o que permite aumentar sua energia cinética.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "cinética do movimento do parafuso, o que permite aumentar sua energia potencial.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "proveniente da pressão atmosférica do movimento, o que eleva sua energia potencial.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q44-p13-c1-1.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 45,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O Programa Conjunto das Nações Unidas sobre HIV/AIDS (UNIAIDS) estima que existam em 2017 aproximadamente 36,9 milhões de pessoas infectadas com o vírus da imunodeficiência humana (HIV, sigla em inglês) em todo o planeta. Esse vírus ataca o sistema imunológico (principalmente os linfócitos T CD4+), responsável por defender o organismo de doenças. A respeito da AIDS, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "para preveni-la, deve-se evitar compartilhar talheres e roupas íntimas com pessoas portadoras da doença.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "pacientes com essa doença podem manifestar infecções secundárias em função da debilidade do sistema imunológico.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "os coquetéis antiretrovirais ao destruir a parede celular dos vírus, diminuem a possibilidade de transmissão da doença.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o tempo entre a infecção, ou seja, contato com o vírus e a manifestação da doença, é igual entre os humanos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 46,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Observe a figura para responder à questão. Tráfego marítimo e as trocas mundiais (Disponível em: https://www.ac-strasbourg.fr/. Acesso em 13.09.2018) A leitura da imagem e os conhecimentos a respeito do contexto econômico mundial permitem afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "com a mundialização da economia desapareceram as fronteiras e os protecionismos e as trocas comerciais se tornaram livres.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "sob o aspecto geopolítico, o comércio mundial tem promovido a ascensão econômica das áreas periféricas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o predomínio das atividades comerciais das grandes potências ressalta as diferenças econômicas observadas no mundo atual.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "as desigualdades econômicas entre as regiões do mundo devem ser superadas com a valorização comercial das commodities.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q46-p14-c1-0.png",
+     "pagina": 15
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 47,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "A questão está relacionada ao gráfico apresentado a seguir. Crescimento da população mundial – 1950-2017 (Disponível em: https://esa.un.org/unpd/wpp/Graphs/DemographicProfiles. Acesso em: 13.09.2018) A leitura do gráfico e os conhecimentos sobre a dinâmica demográfica mundial permitem afirmar que, entre 1950 e 2017,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "as áreas mais urbanizadas do mundo apresentaram forte crescimento demográfico.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "os continentes onde há forte emigração foram os que apresentaram pequeno crescimento demográfico.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "as regiões menos populosas foram as que apresentaram maior crescimento demográfico.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "os continentes com grande concentração de países subdesenvolvidos apresentaram maior crescimento demográfico.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q47-p15-c0-0.png",
+     "pagina": 16
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    16
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 48,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "A questão está relacionada ao mapa apresentado a seguir. Brasil – Domínios morfoclimáticos. (Aziz Nacib Ab’Sáber, Os domínios da natureza no Brasil, 2003) Assinale a alternativa que identifica corretamente um dos domínios morfoclimáticos e as respectivas atividades econômicas predominantes.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 – cerrado – considerado como área de forte expressão agrícola, abriga inúmeras agroindústrias muito produtivas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2 – caatinga – em franca expansão das atividades industrias devido à extração mineral e à implantação de usinas eólicas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3 – mares de morros – apresenta importantes atividades agropecuárias modernas que se destacam pelas técnicas conservacionistas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4 – araucária – mantém-se preservado porque as atividades industriais instaladas utilizam matérias primas importadas de outros domínios.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q48-p15-c1-0.png",
+     "pagina": 16
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    16
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 49,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Analise os dois documentos sobre a França no século XVIII. (Biblioteca Nacional da França, https://commons.wikimedia.org) Art.1o – Os homens nascem e são livres e iguais em direitos. As distinções sociais só podem ter como fundamento a utilidade comum. (https://br.ambafrance.org/A-Declaracao-dos-Direitos-do- Homem-e-do-Cidadao) É correto afirmar que",
+   "texto_na_figura": "Art.1o – Os homens nascem e são livres e iguais em direitos. As distinções sociais só podem ter como fundamento a utilidade comum.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a imagem confirmava o artigo da declaração, que consagrava o princípio da igualdade diante da lei.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a filosofia iluminista criticava os ideais expressos no artigo da declaração e a situação mostrada na imagem.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o artigo da declaração opunha-se à imagem, que ilustrava os privilégios de nascimento na sociedade.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a imagem e o artigo da declaração baseavam-se no racionalismo e no socialismo dominantes na época.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2019/2019-q49-p16-c0-0.png",
+     "pagina": 17
+    },
+    {
+     "arquivo": "data/imagens/2019/2019-q49-p16-c0-1.png",
+     "pagina": 17
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    17
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 50,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "“Cinquenta anos em cinco” foi slogan de Juscelino Kubitschek desde o início da campanha eleitoral. Logo após tomar posse, o presidente reuniu o ministério para apresentar seu Plano de Metas. O orçamento do país, inclusive os empréstimos obtidos no exterior, seria integralmente investido na aplicação do plano em cinco setores: o ramo energético ficaria com 43%, o de transportes com 29% e a indústria de base com 20%; 4% para a educação e 3% para a alimentação. Com o incentivo governamental, entre 1956 e 1961, entraram no Brasil cerca de 2,18 bilhões de dólares e 95% dessa verba foi aplicada em iniciativas estabelecidas no Plano de Metas. (Claudio Bertolli Filho, De Getúlio a Juscelino. Adaptado) Conclui-se que esse processo de desenvolvimento econômico",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "contou com a participação do capital estrangeiro e consolidou o setor secundário.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "dinamizou a agricultura de subsistência e diminuiu as diferenças entre as regiões do país.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "priorizou as empresas nacionais e melhorou a distribuição de renda nas áreas rurais.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "destinou os investimentos sobretudo à área social e ampliou o mercado consumidor.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    17
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  }
+ ]
+}

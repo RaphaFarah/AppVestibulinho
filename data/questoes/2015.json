@@ -1,0 +1,2036 @@
+{
+ "ano": 2015,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "Prova objetiva 2015.pdf",
+ "fonte_gabarito": "Gabarito2015.pdf",
+ "n_alternativas": 4,
+ "contextos": [
+  {
+   "id": "ctx-2015-01",
+   "questoes": [
+    1,
+    2
+   ],
+   "instrucao": "Leia a charge para responder às questões de números 01 e 02.",
+   "texto": "",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2015-08",
+   "questoes": [
+    8,
+    9,
+    10
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 08 a 10.",
+   "texto": "Após guerra, agricultura familiar avança em Angola Doze anos após o fim de sua guerra civil, Angola começa a ter avanços na agricultura familiar. Mas o desafio é grande: o país ainda importa quase tudo o que consome, de carnes a açúcar. A explicação está na história. “A guerra fez com que as pessoas perdessem o interesse em trabalhar na terra. Elas começavam a plantar, mas logo precisavam sair do local e perdiam tudo”, conta Kimputu Ngiaba, responsável pelo projeto “Kukula Ku Moxi”, em Malanje, norte do país. Criado em 2009 pela Sodepac, órgão ligado ao governo, o programa conta com 700 famílias. Com orientações de agrônomos e a venda da produção à Biocom, usina de cana que fica ao lado da comunidade, a renda das famílias quadruplicou no período. (Folha de S.Paulo, 18.09.2014)",
+   "texto_na_figura": null,
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/ctx-2015-08-p4-c0-0.png",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "id": "ctx-2015-12",
+   "questoes": [
+    12,
+    13
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 12 e 13.",
+   "texto": "O surto de ebola que afeta a Guiné, Serra Leoa, Libéria e Nigéria é maior do que indicam as cifras oficiais, segundo a Organização Mundial da Saúde (OMS). Essa situação supõe que por vários meses a epidemia ainda durará, e, portanto, a OMS adaptou seus planos de resposta a tais previsões. Além da ajuda, países da Comunidade Europeia estão com a segurança de seus que estão nos países com ebola. O Ministério das Relações Exteriores da Espanha, por exemplo, estima que cerca de 500 espanhóis estejam na região: oito na Libéria, 260 na Nigéria, 160 na Guiné e 30 em Serra Leoa, onde, além disso, está uma equipe de cooperantes da Cruz Vermelha que o ministério calcula em 16 ou 17 pessoas. (http://brasil.elpais.com/brasil. 15.08.14. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2015-01",
+   "enunciado": "A leitura da charge permite concluir que as personagens",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sofrem no tempo presente, mas não têm saudades do passado.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "sentem que o tempo passa e nada muda o lugar onde elas vivem.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "reconhecem as diferenças entre o passado e o presente que vivem.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "têm pavor dos problemas do presente e esperam logo mudá-lo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 2,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2015-01",
+   "enunciado": "Nas falas, predominam orações com predicado",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nominal, pois se descrevem sentimentos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "verbal, pois se enfatizam ações realizadas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "nominal, pois se comentam transformações.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "verbal, pois se caracterizam as personagens.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 3,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Os alunos do Colégio Carolina Patrício, em São Conrado, Zona Sul do Rio, deram uma lição de solidariedade. Ao descobrir que a professora de português Norma Ribeiro lutava contra um câncer e se submeteria quimioterapia, cerca de 20 jovens rasparam o cabelo em homenagem à docente. Vários dos meninos foram às aulas carecas, e as meninas cortaram o cabelo bem curto para doar instituições que cuidam de pacientes do setor de oncologia. De acordo com a diretora da escola, a decisão partiu dos próprios alunos e surpreendeu todos. (http://g1.globo.com/rio-de-janeiro, 04.09.2014. Adaptado) As lacunas do texto devem ser preenchidas, correta e respectivamente, com:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "à … à … a",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a … a … à",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a … à … à",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à … a … a",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 4,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "No poema, as impressões do eu lírico em relação à primavera são",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "positivas, já que ela anuncia mudança para a rotina das pessoas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "confusas, já que ela contrasta com a espontaneidade das pessoas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "contraditórias, já que ela é mal vista pela maioria das pessoas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "pessimistas, já que trará tristeza a pessoas alegres.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 5,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Na segunda estrofe, o verso – Ficou girando, girando. – funciona como",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "causa da ideia contida em – Catavento enlouqueceu –, sugerindo que o catavento se movimenta com tranquilidade.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "consequência da ideia contida em – Catavento enlouqueceu –, sugerindo que o catavento está em constante movimento.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "explicação da ideia contida em – Catavento enlouqueceu –, sugerindo que o catavento parou de se movimentar.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "oposição da ideia contida em – Catavento enlouqueceu –, sugerindo que o catavento permanece imóvel.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 6,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "No verso da terceira estrofe – Dancemos todos, dancemos. –, emprega-se o verbo dançar no modo imperativo com a intenção de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "conclamar todos à dança. Se o eu lírico se excluísse da ação, o verso assumiria a seguinte redação: Dancem todos, dancem.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "obrigar todos a dançarem. Se o eu lírico se excluísse da ação, o verso assumiria a seguinte redação: Dança todos, dança.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "suplicar pela dança de todos. Se o eu lírico se excluísse da ação, o verso assumiria a seguinte redação: Dançam todos, dançam.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "sugerir uma dança futura. Se o eu lírico se excluísse da ação, o verso assumiria a seguinte redação: Dançarão todos, dançarão.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 7,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa em que a reescrita dos versos atende à norma-padrão do português e aos sentidos do poema.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Primavera cruza o rio / Cruza o sonho que tu sonhas. = Primavera cruza o rio / Cruza o sonho ao qual tu vives.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Na cidade adormecida / Primavera vem chegando. = Na cidade adormecida / Os dias primaveris vem chegando.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Dancemos todos até / Não mais saber-se o motivo… = Dancemos todos até / Não mais saber-se o porquê…",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Até que as paineiras tenham / Por sobre os muros florido! = Até que as paineiras tenham / Por sobre os muros floridos!",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 8,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2015-08",
+   "enunciado": "O objetivo do texto é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mostrar Angola como um país autossuficiente em produção agrícola. Corrobora essa ideia o fato de a agricultura familiar estar se desenvolvendo com a ajuda do governo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "contestar a validade do programa criado pelo governo de Angola. Corrobora essa ideia o fato de a Biocom ter deixado de investir nesse país por causa da guerra histórica.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "criticar a guerra em Angola, que forçou a migração da população. Corrobora essa ideia o fato de o povo e o governo desacreditarem que o país possa avançar na agricultura.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "informar sobre o desenvolvimento da agricultura familiar em Angola. Corrobora essa ideia o fato de a Biocom ter promovido aumento significativo da renda familiar dos angolanos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 9,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2015-08",
+   "enunciado": "No trecho do primeiro parágrafo – Mas o desafio é grande: o país ainda importa quase tudo o que consome… –, eliminando-se os dois-pontos, a redação correta quanto aos sentidos é:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mas o desafio é grande, embora o país ainda importe quase tudo o que consome…",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Mas o desafio é grande, caso o país ainda importe quase tudo o que consome…",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Mas o desafio é grande, portanto o país ainda importa quase tudo o que consome…",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Mas o desafio é grande, pois o país ainda importa quase tudo o que consome…",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 10,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2015-08",
+   "enunciado": "Quanto ao sentido, a frase – A guerra fez com que as pessoas perdessem o interesse em trabalhar na terra. (2.º parágrafo) – equivale a:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A guerra fez com que as pessoas abandonassem o trabalho na terra.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "A guerra fez com que as pessoas tratassem com desprendimento o trabalho na terra.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "A guerra fez com que as pessoas mantivessem o empenho com o trabalho na terra.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "A guerra fez com que as pessoas se tornassem diligentes com o trabalho na terra.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 11,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Observe a figura de uma matéria da revista Superinteressante, de julho de 2014. Quanto aos sentidos que veicula, a imagem pode ser associada à seguinte passagem adaptada da reportagem, na mesma revista:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uma das características mais valorizadas no trigo é a chamada “força de glúten”, que ajuda muito na produção de pães. É ela que deixa o pão fofo, alto e bonito. Se não tiver uma força de glúten mínima, o pão não cresce.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Uma tese explica que o trigo pode estar nos fazendo mal – e ser o grande responsável pela epidemia de obesidade no mundo (que não é apenas uma questão estética, pois está ligada a uma série de doenças graves, como problemas cardíacos).",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Até a Bíblia fala no “pão nosso de cada dia”. Nela, Moisés descreve a “Terra prometida” como um lugar mágico, farto em trigo, cevada e vinhas. O trigo foi essencial para o desenvolvimento e avanço da civilização.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Há quem acredite que a culpa pela explosão nas alergias alimentares nem está na comida em si. O que pode estar nos deixando doentes é, acredite, a higiene – o excesso dela. As crianças de hoje são muito limpas.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q11-p5-c0-0.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 12,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2015-12",
+   "enunciado": "De acordo com a norma-padrão da língua portuguesa, as lacunas do texto devem ser preenchidas, respectivamente, com:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "preocupadérrimos… cidadãos",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "muito preocupados … cidadões",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "preocupadíssimos … cidadãos",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "bastantes preocupados … cidadões",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 13,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2015-12",
+   "enunciado": "Na passagem – Essa situação supõe que por vários meses a epidemia ainda durará… –, o sujeito do verbo em destaque é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "simples (a epidemia).",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "composto (vários meses).",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "simples (Essa situação).",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "indeterminado.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 14,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa em que o trecho, extraído de Ciência Hoje (http://cienciahoje.uol.com.br), está correto quanto à concordância, de acordo com a norma-padrão da língua portuguesa.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Segundo a maioria dos cientistas, a agricultura e a própria segurança hídrica do Brasil serão beneficiados, caso o país faça uma importante lição de casa: cuidar das nascentes e preservar as florestas, pois elas têm papel essencial na conservação e na purificação das águas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Segundo a maioria dos cientistas, a agricultura e a própria segurança hídrica do Brasil será beneficiada, caso o país faça uma importante lição de casa: cuidar das nascentes e preservar as florestas, pois elas tem papel essencial na conservação e na purificação das águas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Segundo a maioria dos cientistas, a agricultura e a própria segurança hídrica do Brasil serão beneficiadas, caso o país faça uma importante lição de casa: cuidar das nascentes e preservar as florestas, pois elas têm papel essencial na conservação e na purificação das águas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Segundo a maioria dos cientistas, a agricultura e a própria segurança hídrica do Brasil será beneficiado, caso o país faça uma importante lição de casa: cuidar das nascentes e preservar as florestas, pois elas tem papel essencial na conservação e na purificação das águas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 15,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Leia os quadrinhos. (Folha de S.Paulo, 10.11.2011. Adaptado) De acordo com a norma-padrão, as lacunas das falas das personagens devem ser preenchidas, respectivamente, com:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "paralizados … à … nós vamos sair",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "paralizados … a … a gente saímos",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "paralisados … à … a gente pode sair",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "paralisados … a … nós saímos",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q15-p6-c1-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 16,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Observe o mapa e leia o texto apresentado a seguir. 4 3 1 2 (M. E. Simielli, Geoatlas. São Paulo: Ática, 2006) O domínio ocupa uma extensa área do território brasileiro. Grande número de rios caudalosos correm nesse domínio onde se encontram áreas de terras baixas (planícies e depressões) e também planaltos. Embora predomine o clima quente e úmido, as paisagens não são homogêneas; ao contrário: a vegetação florestal, próxima aos rios, é mais baixa, enquanto, nas áreas de terras firmes, é mais alta e encorpada. O texto descreve características do domínio destacado no mapa com o número",
+   "texto_na_figura": "4 3 1 2",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q16-p7-c0-0.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 17,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Compare as pirâmides etárias para responder à questão. Brasil: Pirâmides etárias – 1980 e 2010 (http://revistaescola.abril.com.br/geografia/praticapedagogica/introducao-demografia-dados-censo-611910.shtml?page=1) Assinale a alternativa que apresenta uma interpretação correta sobre as pirâmides etárias.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Entre 1980 e 2010, o Brasil apresentou pequenas mudanças demográficas, mantendo-se como país que se destaca pela predominância de jovens.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Em 30 anos, a estrutura demográfica sofreu mudanças na faixa de população adulta, responsável pela manutenção das altas taxas de natalidade.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "No período de três décadas, houve mudanças significativas no conjunto da população brasileira, entre as quais o aumento da proporção de idosos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "De 1980 a 2010, as mudanças observadas na estrutura etária da população estão relacionadas à diminuição dos movimentos migratórios.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q17-p7-c1-0.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 18,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Observe o mapa para responder à questão. Mundo: geografia das inovações e conquistas tecnológicas Oceano Glacial Ártico Círculo Polar Ártico 60° Oceano Atlântico Trópico de Câncer Oceano Pacífico Oceano Equador Pacífico Oceano Oceano Índico Trópico de Atlântico Capricórnio N Oceano Glacial Antártico Círculo Polar Antártico Antártica 0 2 660 km Índice de conquistas tecnológicas Marginalizados Líderes Líderes potenciais Dados não avaliados Seguidores dinâmicos (São Paulo, Secretaria da Educação do Estado. Caderno do aluno: geografia, ensino fundamental – 7.ª série, vol. 1. São Paulo: SEE, 2009) A leitura do mapa e os conhecimentos sobre a economia mundial permitem concluir que",
+   "texto_na_figura": "Oceano Glacial Ártico Círculo Polar Ártico 60° Oceano Atlântico Trópico de Câncer Oceano Pacífico Oceano Equador Pacífico Oceano Oceano Índico Trópico de Atlântico Capricórnio N Oceano Glacial Antártico Círculo Polar Antártico Antártica 0 2 660 km Índice de conquistas tecnológicas Marginalizados Líderes Líderes potenciais Dados não avaliados Seguidores dinâmicos",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "com o aceleramento do processo de globalização, as inovações tecnológicas reduziram as diferenças entre os países do mundo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "de modo geral, os países que compõem os Brics estão incluídos no grupo de seguidores dinâmicos das conquistas tecnológicas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "os países emergentes do continente africano opõem-se ao avanço da globalização e rejeitam a introdução de inovações tecnológicas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o continente asiático destaca-se como aquele que apresenta a maior homogeneidade nos quesitos inovações e conquistas tecnológicas.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q18-p8-c0-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 19,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Instaurada nas décadas finais do século XVIII, a Revolução Francesa é apontada como um dos acontecimentos mais marcantes da época moderna, e seus efeitos repercutiram sobre várias partes do mundo. Assinale a alternativa que apresenta um dos principais fatores que motivaram essa Revolução.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As injustiças sociais promovidas pela monarquia que provocavam revolta em grande parte da população que formava o Terceiro Estado composto pela burguesia, por artesãos e camponeses, entre outros.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "A revolta dos camponeses e pequenos proprietários de terra que, por viverem no campo, formavam o Segundo Estado e ficavam excluídos dos benefícios dados aos trabalhadores urbanos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "As sucessivas guerras contra a Inglaterra, a Espanha e a Alemanha que dilapidaram as reservas monetárias do reino e colocavam em perigo a manutenção das colônias francesas nos continentes africano e asiático.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "O esgotamento do modelo econômico baseado na produção agrícola que dependia da exportação para mercados como a Prússia, o que gerava instabilidade para a grande camada da população formada por camponeses.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 20,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Observe a foto a seguir. Inauguração da fábrica de automóveis Volkswagen em São Bernardo do Campo-SP na década de 1950, com a presença do Presidente da República. (http://www.maxicar.com.br/old/gromow/colunista_gromow_1109.asp) As informações da foto e os conhecimentos sobre a história do Brasil na segunda metade do século XX permitem afirmar que a instalação das indústrias automobilísticas, no Brasil,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "foi incentivada por Getúlio Vargas, que propunha a implantação de políticas neoliberais capazes de atrair investimentos estrangeiros no país.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "mostrou a importância dos princípios nacionalistas defendidos por Juscelino Kubitschek para romper com o subdesenvolvimento do país.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "tornou mais concreto o conjunto de medidas ligadas à internacionalização da economia nacional defendido pelo presidente Getúlio Vargas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "representou a materialização das ideias desenvolvimentistas propostas por Juscelino Kubitschek para acelerar o processo de desenvolvimento no país.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q20-p8-c1-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Hoje, a idade de Demóstenes é igual ao quádruplo da idade de seu filho Euclides. Sabe-se que Demóstenes tinha 33 anos quando Euclides nasceu. Desse modo, é correto afirmar que, daqui a 6 anos, a idade de Demóstenes, em anos, será igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "39.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "44.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "48.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "50.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A figura mostra o percurso feito diariamente por Fagundes para ir de sua casa (C) ao local de trabalho (T). Ele caminha de casa até o ponto A, utiliza um ônibus para ir do ponto A até o ponto B, e dali caminha até o trabalho, sendo o percurso total igual a x quilômetros. 4 x A B 5 1 x 15 C T 4 km Sabe-se que a distância em linha reta entre C e T (pontilhada na figura) corresponde a 80% da distância total percorrida por Fagundes, para ir de sua casa ao trabalho. Desse modo, é correto afirmar que, no trajeto de ida ao trabalho, Fagundes caminha diariamente uma distância, em quilômetros, igual a",
+   "texto_na_figura": "1 x 15",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1,05.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1,1.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1,15.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q22-p9-c0-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Para que pudesse ser colocado em uma parede, foi necessário alterar as medidas originais de um cartaz retangular, que tinha 1,5 m de comprimento e área igual a 1,8 m². Assim, a nova medida da largura passou a ter 20 cm a menos que a medida original, sendo que a área permaneceu igual à do cartaz original. O perímetro, em metros, do novo cartaz foi:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5,2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "5,4.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "5,6.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "5,8.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Bento comprou uma TV. Pagou R$ 600,00 de entrada e dividiu o restante em 6 parcelas mensais iguais, sem juro. Clarice comprou, na mesma loja, uma TV igual, de mesma marca e modelo, pelo mesmo preço, e optou por pagar o valor total em 5 parcelas mensais iguais, sem juro. Desse modo, o valor da parcela mensal de Clarice superou em R$ 180,00 o valor da parcela mensal de Bento. O preço da TV que ambos compraram foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 2.500,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 2.400,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 2.100,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 1.800,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Sabe-se que a + b = 10. Nessa condição, o valor numérico da é: fração algébrica",
+   "texto_na_figura": "é: fração algébrica",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "3 2",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1 2",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q25-p10-c0-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em um processo seletivo, 20% dos candidatos foram reprovados na 1.ª etapa, e apenas 10% dos aprovados para a 2.ª etapa foram considerados aptos para participar da 3.ª e última etapa. Sabendo que não ocorreram desistências, e que apenas 10 candidatos participaram da última etapa, é correto afirmar que o número total de candidatos que participaram desse processo seletivo foi igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "100.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "125.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "145.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "150.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um grupo de x professores se reuniu em um restaurante para comemorar o final do ano letivo. A conta, no valor de R$ 720,00, seria inicialmente dividida entre todos, e cada um pagaria y reais. Depois, decidiu-se que três professores, que aniversariavam naquela semana, não deveriam pagar. Assim, cada um dos demais contribuiu com mais R$ 40,00 e a conta foi paga. A equação que permite calcular corretamente o número de professores desse grupo é:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "x2 + 4x – 54 = 0",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "x2 – 4x + 68 = 0",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "x2 – 3x – 54 = 0",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "x2 + 3x + 54 = 0",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Gilberto, que é um pedreiro experiente, foi contratado para murar um terreno. Se ele trabalhar seis horas por dia, poderá 1 os realizar o trabalho em seis dias. Se quiser reduzir em 3 dias de trabalho, o número de horas que deverá trabalhar, por dia, será igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "12.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "10.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "9.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "8.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um artesão cortou um fio de arame de 60 cm de comprimento em dois pedaços desiguais, conforme mostra a figura, e usou cada um deles para armar um quadrado. y cm x cm 60 cm A área do maior quadrado armado pelo artesão é corretamente calculada pela expressão",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2 \u001a x – 60 \u001b 4",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2 \u001a y – 60 \u001b 4",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "2 x – 60 16",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "2 y – 60 8",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Horácio e Juliano aplicaram R$ 15.000,00 cada um no sistema de juro simples, por um período de 8 meses, em instituições financeiras diferentes. Ao final de cada aplicação, os valores dos montantes recebidos por Horácio e Juliano foram, respectivamente, R$ 16.500,00 e R$ 16.800,00. Desse modo, é correto afirmar que a diferença entre a taxa de juro anual de cada aplicação foi de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2%",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "3%",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "4%",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "5%",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O resultado de (3x – 8)2 é a forma fatorada do trinômio 9x2 + 64. Para tornar verdadeira essa afirmação, o espaço substituído pelo ponto de interrogação deverá ser preenchido pelo termo algébrico",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "– 48x",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "– 24x",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "+ 24x",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "+ 48x",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em uma balança de dois pratos, são utilizados apenas três tipos de “pesos”: grande (G), médio (M) e pequeno (P), sendo que todas as unidades de cada tipo têm massas iguais. Comparando-se as massas desses três tipos, observa-se que: 1G = 3M e 8P = 1G + 1M. Desse modo, é correto afirmar que o número de pesos P necessários para igualar a massa de um peso G é:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "12.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "10.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "8.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "6.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Sabe-se que a folha retangular ABCD tem área igual a 450 cm², e que a área da região triangular ABE é igual à terça parte da área do retângulo ABCD. C E B x 2x A D Nessas condições, é correto afirmar que a medida, em centímetros, do segmento EC é:",
+   "texto_na_figura": "x",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "12.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "15.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "20.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q33-p12-c0-0.png",
+     "pagina": 13
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em uma farmácia de manipulação, certo medicamento é preparado com a mistura de três drogas. A tabela mostra a participação de cada droga nessa mistura: Drogas Participação Quantidade (em mL) 3 total do ... ... A 8 B ... ... 18 2 total do ... ... C 5 Esse medicamento deverá ser totalmente ingerido pelo paciente em 5 doses iguais. Desse modo, cada dose será igual, em mililitros, a",
+   "texto_na_figura": "Drogas Participação Quantidade (em mL) 3 total do ... ... A 8 B ... ... 18 2 total do ... ... C 5",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "12.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "15.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "16.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q34-p13-c0-0.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A figura representa um canteiro retangular, cujas medidas de comprimento e de largura, em metros, são, respectivamente, 16 x – e 16 x largura comprimento Para que esse canteiro tenha área de 48 m², o valor de x deverá ser igual a",
+   "texto_na_figura": "largura",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "8.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "7.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "6.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q35-p13-c0-1.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 36,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Um pesquisador cultivou, em um meio de cultura, uma espécie de bactéria que rapidamente se desenvolveu nesse meio. Um tempo depois, o pesquisador adicionou ao meio de cultura um antibiótico para verificar a ação desse medicamento sobre a população bacteriana. O resultado dessa pesquisa encontra-se registrado no gráfico a seguir: ADIÇÃO DE ANTIBIÓTICO NÚMERO DE COLÔNIAS DE BACTÉRIAS 0 0 TEMPO A análise do gráfico permite concluir que o antibiótico utilizado",
+   "texto_na_figura": "NÚMERO DE COLÔNIAS DE BACTÉRIAS 0",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "impediu o desenvolvimento das bactérias resistentes a ele.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "selecionou bactérias resistentes a ele, que voltaram a se desenvolver.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "modificou o material genético das bactérias, que ficaram inibidas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "estimulou a adaptação de bactérias sensíveis a ele.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q36-p14-c0-0.png",
+     "pagina": 15
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 37,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A ilustração a seguir representa a dependência do equilíbrio dinâmico entre os três pilares que atuam para um desenvolvimento sustentável. Nela, o desenvolvimento econômico refere-se à geração de riqueza; a proteção ambiental diz respeito aos impactos no sistema natural e social; a inclusão social aborda os problemas relacionados com a má distribuição de rendimento, saúde e oportunidades. Social Desenvolvimento Sustentável Ambiental Econômico (Economia Global e Gestão v.14 n.1 Lisboa abr. 2009. http://www.scielo.oces. mctes.pt/scielo.php?pid=S087374442009000100008&script=sci_arttext) Considerando apenas o aspecto ambiental, para se alcançar o desenvolvimento sustentável é necessário propor",
+   "texto_na_figura": "Social Desenvolvimento Sustentável Ambiental Econômico",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uma distribuição de renda, a fim de reduzir a distância entre os padrões de vida de abastados e não abastados.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "um novo modelo desenvolvimentista que valorize a continuidade das tradições e pluralidade dos povos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "um sistema produtivo mais eficiente com soluções viáveis, por meio do uso de tecnologias limpas e fontes de energia renováveis.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "critérios pontuais de lucratividade, com o intuito de promover mudanças estruturais que atuem como estimuladores do desenvolvimento.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q37-p14-c1-0.png",
+     "pagina": 15
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 38,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A ilustração representa a evolução de uma paisagem em uma região hipotética. (http://educador.brasilescola.com/estrategias-ensino/analisando-acao- -homem-no-espaco.htm) A respeito do que está representado, é correto afirmar que um impacto ambiental que pode ocorrer devido à mudança da paisagem é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o aumento do assoreamento dos rios.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o uso racional e sustentável do solo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o aumento da diversidade biológica.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o desequilíbrio térmico nas duas margens.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q38-p14-c1-1.png",
+     "pagina": 15
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 39,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Leia o texto a seguir. Desesperados com o estado de saúde da filha Anny, os pais, Norberto e Katiele Fisher buscaram na Justiça o direito de importar uma medicação pastosa à base de canabidiol (CBD), uma das mais de 60 substâncias presentes na maconha (Cannabis sativa). No caso de Anny, desde que começou o tratamento, os sintomas desapareceram e a criança passou a comer normalmente, ter mais força para realizar a fisioterapia e a responder aos estímulos do ambiente como, por exemplo, olhar para os pais quando eles chamavam-na por seu nome. (Correio 24h. 16.09.2014. Adaptado) Considerando a ação dos componentes da maconha, a doença em questão deve estar relacionada, provavelmente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "à deficiência respiratória.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "à inflamação muscular.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "à disfunção cardíaca.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ao distúrbio neurológico.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    16
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 40,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O termo biodiversidade tem sido amplamente empregado, tanto na literatura científica quanto na mídia popular, mas nem sempre sua definição é clara, podendo ser usado com diferentes significados. De uma maneira mais simples, o termo biodiversidade é usado como sinônimo de riqueza de espécies. Este termo refere-se apenas ao número de espécies presentes numa determinada área definida. No entanto, definições quantitativas de diversidade incluem não apenas o aspecto variedade como também uma medida de abundância relativa de cada espécie, e têm sido empregadas de maneira mais ampla para medir a biodiversidade. No nível das espécies, pode-se falar, então, da diversidade de espécies, que inclui tanto a variedade como a abundância relativa de cada espécie. Analise a tabela a seguir, que representa o resultado da determinação da riqueza e abundância de espécies em 4 regiões diferentes. Espécie Comunidade Comunidade Comunidade Comunidade A B C D 1 55 10 2 1 2 5 10 3 2 3 5 10 2 2 4 5 10 2 20 5 5 10 3 0 6 5 10 2 70 7 5 10 4 1 8 5 10 84 2 9 5 10 1 0 10 5 10 0 2 Total 100 100 100 100 No resultado apresentado, a maior biodiversidade é encontrada na comunidade onde em uma amostra, ao acaso, as chances de retirar dois indivíduos que sejam de diferentes espécies é maior em uma delas. Assim, apresenta maior biodiversidade a comunidade",
+   "texto_na_figura": "Espécie Comunidade Comunidade Comunidade Comunidade A B C D 1 55 10 2 1 2 5 10 3 2 3 5 10 2 2 4 5 10 2 20 5 5 10 3 0 6 5 10 2 70 7 5 10 4 1 8 5 10 84 2 9 5 10 1 0 10 5 10 0 2 Total 100 100 100 100",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "B.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "C.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "D.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q40-p15-c1-0.png",
+     "pagina": 16
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    16
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 41,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Dados coletados por satélites de referência do Instituto Nacional de Pesquisas Espaciais (INPE) indicam que, em setembro, foram registrados 15 622 focos de incêndio em todo o Brasil. Os dados revelam que Mato Grosso é o estado mais atingido por incêndios, seguido pelo Pará e Maranhão. Juntos, os três somam quase 44% do total de focos ao longo do mês. O Pará também se destaca por abrigar o município com o maior número de registros, São Félix do Xingu, com 551 focos. (http://odia.ig.com.br/noticia/brasil/2014-09-12/. Adaptado) A ocorrência dos fatos descritos no texto é responsável por impactos ambientais que prejudicam o ambiente e os seres vivos. Tal consequência está corretamente descrita em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aumento da concentração de CO2 na atmosfera e a absorção desse gás pelos oceanos que eleva a sua acidez, prejudicando a capacidade de os corais construírem seus esqueletos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "absorção de CFC, gás responsável pela destruição da camada de ozônio, com redução da radiação ultravioleta devido à intensa liberação do gás oxigênio.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "retenção do gás carbônico pelas árvores, resultando na diminuição do gás carbônico atmosférico, o qual acentua o efeito estufa, diminuindo o fenômeno da inversão térmica.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "maior disponibilidade de combustíveis fósseis, diminuindo a emissão de gás metano para a atmosfera, causando resfriamento da superfície terrestre.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    17
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 42,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Com relação à gravidez na adolescência, em palestras com os jovens, é muito comum ouvir, nas ocasiões em que se discute esse assunto, perguntas do tipo: 1 – \u0007O asseio íntimo com ducha vaginal, depois da relação sexual, previne a gravidez? 2 – Quando a relação sexual é em pé, há risco de engravidar? 3 – Uma menina pode engravidar na sua primeira transa? 4 – \u0007É possível engravidar fazendo uso de banheiros públicos e sem higiene? Para as perguntas 1, 2, 3 e 4 citadas, as respostas simples e diretas, respectivamente, são:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sim; não; sim; não.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "não; sim; sim; não.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "sim; sim; não; não.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "não; não; sim; sim.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    17
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 43,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "De acordo com o funcionamento de uma usina termoelétrica, pode-se afirmar que transformação de energia e mudança de estado ocorrem, respectivamente, nos locais",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 e 2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2 e 3.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3 e 4.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4 e 1.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    17
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 44,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Em alguns países, as usinas termoelétricas são as mais utilizadas para geração de energia e, mesmo no Brasil, devido à seca que atingiu várias regiões, houve um aumento de produção de energia elétrica pelas usinas termoelétricas em 2014. Embora sejam eficientes, esse tipo de usina é muito criticado por causa dos impactos que ela causa, principalmente aquelas que utilizam combustíveis fósseis. Dentre esses impactos, pode-se citar",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a produção de gases que contribuem para o aquecimento global.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a perda de solos, devido à imensa área desmatada para implantação da usina.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o acúmulo, no solo, de resíduos tóxicos extremamente perigosos e contaminantes.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o desequilíbrio da biodiversidade da área, devido às grandes alterações da paisagem.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    18
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 45,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Considere a ilustração, que representa uma situação do cotidiano urbano. (http://fisicaidesa1.blogspot.com.br/2013/05/aula-6-leis-de-newton.html) Dos exemplos a seguir, aquele que associa corretamente uma das Leis de Newton ao representado na ilustração é:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uma pessoa é direcionada para frente graças à força que seu pé recebe do chão.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o nadador empurra a água para trás e esta, por sua vez, impede seu movimento.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "uma pessoa aplica uma força que produz uma aceleração para mover o carro.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "um motoqueiro é arremessado de sua moto quando ela para repentinamente.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q45-p17-c0-0.png",
+     "pagina": 18
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    18
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 46,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A ausência de um manejo adequado dos resíduos sólidos constitui, sem dúvida, um dos mais graves problemas ambientais. Nos últimos anos, houve um aumento significativo na geração de resíduos sólidos, impulsionado pelo consumo e pelo crescimento populacional. Dessa forma, a reciclagem de resíduos constitui uma forma de evitar que haja um grande acúmulo de produtos no ambiente. Constitui exemplo de reciclagem",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a utilização de uma garrafa PET para armazenamento de outro líquido.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o desmonte de um equipamento eletrônico para descarte de suas peças.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a transformação de latas de alumínio em novas latas, por meio de processo industrial.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o aproveitamento da matéria orgânica com o fim de produzir adubo para as plantas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    18
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 47,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O estudo do universo é realizado por meio da análise da luz emitida pelas estrelas e galáxias distantes. A luz é utilizada para esses estudos porque ela viaja extremamente rápido pelos padrões terrestres, a uma velocidade de 300.000 km/s. Por exemplo, a luz leva 8 minutos para viajar a distância entre a Terra e o Sol. Considerando essa informação, a distância aproximada entre Terra – Sol é, em km, igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "18.000.000.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "32.000.000.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "145.000.000.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "320.000.000.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    18
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 48,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A ilustração representa o movimento realizado por um jovem esqueitista em uma rampa. (http://www.vanialima.blog.br/2012/04/energia-potencial-e-cinetica.html) Ao longo da trajetória realizada, a energia mecânica transforma-se em cinética ou potencial, dependendo da posição ocupada pelo jovem. As posições 1, 2 e 3 indicam situações de energia mecânica, respectivamente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cinética, potencial e cinética.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "potencial, cinética e potencial.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "cinética, potencial e potencial.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "potencial, cinética e cinética.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/2015-q48-p17-c1-0.png",
+     "pagina": 18
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    18
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 49,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "No ano de 2007, pesquisadores da Universidade de Ulm, Alemanha, descobriram que, apesar do sêmen de portadores do HIV conter concentrações muito pequenas do vírus, uma proteína presente neste fluido atua como um excelente transportador de partículas do vírus HIV para as células-alvo, aumentando em até 100 mil vezes as possibilidades de um indivíduo ser infectado, caso tenha contato com o sêmen contaminado em tecido mucoso. (http://www.brasilescola.com/saude/semen-hiv.htm) As informações contidas no texto reforçaram ainda mais a ideia de que, a partir daquela data, para evitar a transmissão da AIDS,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é necessário o uso de camisinha durante a relação sexual.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o homem deve realizar vasectomia para não liberar espermatozoides contaminados.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a mulher deve utilizar pílula anticoncepcional para impedir a ação do sêmen.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "é necessário que as relações sexuais sejam feitas após higiene íntima.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    19
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 50,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O uso do solo para a produção de alimentos tem sido muito discutido ultimamente. Para uma população mundial que cresce a cada ano, há necessidade de produção de mais alimentos. No entanto, essa produção não pode levar à degradação do ambiente. Porém, sendo isso necessário, para evitar a ocorrência de maiores impactos ambientais, recomenda-se",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "utilizar fertilizantes que possam ser aplicados por meio de máquinas especializadas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "ampliar as fronteiras agrícolas, expandindo as áreas de plantio para regiões de florestas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "empregar tecnologia que permite grandes produções, utilizando defensivos agrícolas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "tratar o solo, por meio de processos que evitem a utilização de produtos químicos sintéticos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    19
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  }
+ ]
+}

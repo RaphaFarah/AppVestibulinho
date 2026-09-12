@@ -1,0 +1,2038 @@
+{
+ "ano": 2020,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "2020.pdf",
+ "fonte_gabarito": "gabarito 2020.pdf",
+ "n_alternativas": 4,
+ "contextos": [
+  {
+   "id": "ctx-2020-02",
+   "questoes": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 02 a 09.",
+   "texto": "O mundo dos selos raros Selos parecem coisas ultrapassadas e fora de moda. Não embelezam mais as cartas, hoje se preferem carimbos, e nem tantas cartas se usam. Foi-se o tempo em que receber um envelope com selo bonito era uma alegria e também uma fonte de informação. Certamente há muitas crianças, hoje em dia, que nem sabem o que é um selo. Apesar dessa notável insignificância, na semana passada, num leilão na Alemanha, vendeu-se um deles pela incrível soma de 1,26 milhão de euros. Se for considerado pelo seu peso, é um dos objetos mais valiosos que existem. Seu nome é Erro de impressão Baden. Foi impresso num tom verde azulado em vez do padrão rosa lilás de sua série. Está estampado num envelope datado de 26 de agosto de 1851. Só existem dois selos do tipo, de 9 centavos, com o mesmo erro. O outro está na coleção do Museu Postal de Berlim. Esse não é o preço mais alto já pago por um selo. Na Europa, o Three Skilling Yellow, impresso na Suécia, em 1855, foi vendido nos anos 1990 por 2,2 milhões de dólares. Há também o imbatível Black on Magenta, que mede 2,5 por 3,8 centímetros e foi produzido na Guiana Francesa em 1856, quando houve uma escassez de selos vindos da Inglaterra, o que ameaçava as reservas postais. Foi impresso em pequena tiragem na gráfica de um jornal e o único magenta de um penny que sobreviveu foi esse. Leiloado pela Sotheby’s de Nova York, em 2014, foi arrematado por US$ 9,5 milhões. O diretor de projetos especiais da casa de leilões, David Redden, classificou-o como “um objeto mágico, a definição própria de raridade e valor em um nível extraordinário”. O selo mostra uma imagem de um navio de três mastros e o lema dos colonos britânicos: “Nós damos e esperamos retorno”. (Vicente Vilardaga, “O mundo dos selos raros”. IstoÉ, 19.06.2019. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2020-10",
+   "questoes": [
+    10,
+    11
+   ],
+   "instrucao": "Leia a tira para responder às questões de números 10 e 11.",
+   "texto": "(turmadamonica.com.br)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2020-12",
+   "questoes": [
+    12,
+    13,
+    14,
+    15
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 12 a 15.",
+   "texto": "Vocês conhecem Ibaté? É uma cidade pequenina, muito pequena mesmo, na região de Araraquara. Foi lá que nasci e morei com meus avós, até a idade de nove anos. Depois que vovô morreu, vovó resolveu me mandar para São Paulo, viver com tio Dagoberto e tia Eva. Vovó nunca tinha viajado sozinha a São Paulo, só com vovô Horácio e de carro. Por isso, a família ficou preocupada quando ela anunciou que embarcaríamos, num ônibus da Viação Cometa. – Dizem que São Paulo é uma cidade muito perigosa – argumentou tia Frozina –, acho que mamãe não devia viajar sozinha. – Bobagens! – disse vovó, sem permitir nenhuma outra discussão. – É só uma cidade como qualquer outra. (Orlando de Miranda, “A casa do tio Dagoberto” (fragmento). Em: Sete faces do humor, 1992. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Leia a tira. (Mort Walker, “Recruta Zero”. Em: https://cultura.estadao.com.br/quadrinhos) O efeito de humor da tira ocorre com a interpretação equivocada que o segundo personagem faz do termo",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sargento.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "exposição.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "ele.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "venceu.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q01-p2-c0-0.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 2,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-02",
+   "enunciado": "As informações textuais permitem concluir que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os selos estão sendo cada vez menos usados, mas ainda podem ser negócios muito rentáveis.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "os leilões de selos têm levado a população a mandar mais cartas do que em outros tempos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a inexistência de selos hoje em dia tem feito o comércio desse produto ficar menos rentável.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "os países estão produzindo mais selos, empolgados com os valores que estes têm obtido em leilões.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 3,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-02",
+   "enunciado": "De acordo com o segundo parágrafo do texto, no leilão na Alemanha, o valor pago ao selo “Erro de impressão Baden” foi determinado",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pelo seu tamanho reduzido.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "pelo defeito que o torna raro.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "pela data estampada no envelope.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "pelo preço pago originalmente por ele.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 4,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-02",
+   "enunciado": "Na frase “Se for considerado pelo seu peso, é um dos objetos mais valiosos que existem.”, a conjunção destacada expressa sentido de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "condição, sugerindo que o valor de um selo pode ser extremamente alto em comparação ao seu peso.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "causa, sugerindo que a avaliação de um selo deve ignorar o peso que ele possa ter de fato.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "conclusão, sugerindo que o selo, como os demais objetos valiosos do mundo, é avaliado pelo peso.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "comparação, sugerindo que o valor comercial de um selo é compatível com o seu peso físico.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 5,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-02",
+   "enunciado": "Assinale a alternativa em que o predicado nominal descreve uma relação positiva das pessoas com os selos.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Selos parecem coisas ultrapassadas e fora de moda.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "... receber um envelope com selo bonito era uma alegria...",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "O outro está na coleção do Museu Postal de Berlim.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "... e o único magenta de um penny que sobreviveu foi esse.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 6,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-02",
+   "enunciado": "Nos enunciados “Selos parecem coisas ultrapassadas” (1o parágrafo) e “quando houve uma escassez de selos vindos da Inglaterra” (3o parágrafo), os termos destacados são antônimos, respectivamente, de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "promissoras; diminuição.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "conservadoras; exagero.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "desinteressantes; falta.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "inovadoras; abundância.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 7,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-02",
+   "enunciado": "Na passagem do 3o parágrafo “O diretor de projetos especiais da casa de leilões, David Redden, classificou-o como ‘um objeto mágico, a definição própria de raridade e valor em um nível extraordinário’”, o pronome “o”, em destaque, refere-se ao",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Black on Magenta.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Three Skilling Yellow.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Erro de impressão Baden.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ao selo do Museu Postal de Berlim.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 8,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-02",
+   "enunciado": "Assinale a alternativa em que o enunciado atende à norma- -padrão de concordância.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Foi impresso uma pequena tiragem de selos na gráfica de um jornal, já que estava escasso os selos vindos da Inglaterra.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Como se escreve poucas cartas hoje em dia, certamente deve existir muitas crianças que nem sabem o que é um selo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Pagaram-se 1,26 milhão de euros pelo Erro de impressão Baden, mas houveram outros casos de selos vendidos por valores maior.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "9,5 milhões de dólares foram pagos em 2014 pelo Black on Magenta, o único magenta de um penny que sobreviveu.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 9,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-02",
+   "enunciado": "Assinale a alternativa em que o emprego do acento indicativo da crase está em conformidade com a norma-padrão.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colocados lado à lado, Three Skilling e Black on Magenta são selos valiosos, cobiçados no mundo inteiro.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Para David Redden, o selo mais caro do mundo chega à ser “um objeto mágico, a definição própria de raridade”.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Quem foi à Alemanha para participar do leilão do Erro de impressão Baden, viu-o ser arrebatado por 1,26 milhão de euros.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Devido à certo controle dos selos que viriam da Inglaterra, as reservas postais da Guiana Francesa ficaram ameaçadas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 10,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-10",
+   "enunciado": "Observando-se a fisionomia de Chico Bento e de sua mãe, conclui-se, correta e respectivamente, que eles expressam",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "raiva e felicidade.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "perplexidade e alegria.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "contentamento e indiferença.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "tristeza e confusão.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 11,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-10",
+   "enunciado": "Analisando-se a fala da mãe de Chico Bento, é correto afirmar que ela",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cria uma forma de expressão verbal de difícil entendimento ao leitor.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "expressa uma forma de comunicação que não ocorre no mundo real.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "altera a forma de representar a fala, usando uma linguagem formal.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "reproduz o modo como as pessoas do campo falam no cotidiano.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 12,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-12",
+   "enunciado": "Assinale a alternativa em que se faz interpretação correta do texto em um enunciado que atende à norma-padrão de acentuação e de ortografia.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A avó discordou da filha Frozina, por que esta não queria a viajem, parecendo ter ciume da mãe andando com o neto por São Paulo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "A avó acreditava que Ibaté era um lugar perigoso para o neto morar, porisso optou por deixa-lo sob os cuidados do tio.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "A avó estava para realizar sozinha uma viagem, depois que se tornou viúva e decidiu levar o neto para viver com os tios em São Paulo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "A avó queria manter os mesmos habitos que tinha antes da viuvês, razão pela qual contrariou a filha e levou o neto para uma cidade maior.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 13,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-12",
+   "enunciado": "Quanto à predicação, o verbo que não precisa de complemento está corretamente destacado em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vocês conhecem Ibaté?",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Foi lá que nasci e morei com meus avós...",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "... vovó resolveu me mandar para São Paulo...",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "... disse vovó, sem permitir nenhuma outra discussão.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 14,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-12",
+   "enunciado": "No trecho “quando ela anunciou que embarcaríamos”, o sentido expresso pela forma verbal destacada e o sujeito composto que pratica a ação são, correta e respectivamente:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ação futura no passado; eu e ela.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "pedido; vovó e vovô.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "dúvida; tio Dagoberto e tia Eva.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "certeza; eu e tia Frozina.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 15,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2020-12",
+   "enunciado": "Nas passagens “É uma cidade pequenina” e “– Bobagens! – disse vovó”, as palavras destacadas expressam, respectivamente, sentido de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "lugar muito acolhedor; algo meio confuso.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "lugar pouco agradável; algo preocupante.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "lugar de pequena extensão; algo perigoso.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "lugar muito pequeno; algo sem importância.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "João ganhou R$ 300,00 de aniversário e utilizou esse dinheiro para comprar uma camiseta, uma calça e uma bermuda. desse valor mais R$ 10,00, e a calça A camiseta custou custou desse valor mais R$ 20,00. Com o valor restante foi possível comprar a bermuda e ainda sobraram R$ 45,00. O valor da bermuda foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 60,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 75,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 90,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 105,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A tabela mostra algumas informações sobre o número de gols sofridos e o saldo de gols de 3 times, A, B e C, após algumas partidas de um campeonato. No de gols No de gols Saldo de gols marcados sofridos Time (GM – GS) (GM) (GS) A 3 B –2 C 1 0 Sabe-se que: • \u0007O time C sofreu 3 gols a menos do que o time B. • \u0007O saldo de gols do time A é igual ao número de gols marcados pelo time C. Nessas condições, a soma do número de gols marcados por esses três times juntos foi",
+   "texto_na_figura": "No de gols No de gols Saldo de gols marcados sofridos Time (GM – GS) (GM) (GS) A 3 B –2 C 1 0",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "6.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "7.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "8.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q17-p5-c1-0.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Andrea colocou 3 músicas em seu pen drive. A primeira música tinha duração de 3 minutos e 48 segundos, e a segunda música tinha duração de 2 minutos e 52 segundos. Sabendo que a duração das 3 músicas juntas era de 9 minutos e 15 segundos, então, a duração da terceira música era de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2 minutos e 35 segundos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2 minutos e 45 segundos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "2 minutos e 55 segundos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "3 minutos e 05 segundos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um recipiente contém 20 litros de detergente. Com esse detergente foi possível encher totalmente 15 frascos, cada um deles com 800 mL, e mais alguns frascos, cada um deles com 600 mL. Sabendo que ainda restaram no recipiente 3,2 litros, o número de frascos enchidos, cada um deles contendo 600 mL, foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "6.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "7.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "8.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um reservatório, que tem capacidade máxima para 2 400 litros de água, encontra-se vazio. Para encher esse reservatório será utilizada uma mangueira que despeja 16 litros de água a cada 3 minutos. Depois de 3 horas, com a mangueira aberta, o número de litros de água que ainda faltam para encher totalmente esse reservatório, sem transbordar, é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "960.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1 150.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1 280.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1 440. R a s c u n h o",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Pedro comprou algumas folhas de papel sulfite para realizar alguns trabalhos. Utilizou 30% delas no primeiro trabalho, e ainda restaram 84 folhas. O número de folhas utilizadas no primeiro trabalho foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "30.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "36.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "42.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "48.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Bruno comprou uma bicicleta, pagando em 2 parcelas mensais de R$ 972,00 cada uma. Sabendo que o preço dessa bicicleta à vista, sem desconto, era R$ 1.800,00, então, a taxa mensal de juro simples cobrada foi de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2%.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "3%.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "4%.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "5%.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Carol comprou um pacote de balas e irá dividi-las em pacotinhos menores, todos com o mesmo número de balas. Se forem colocadas 8 balas em cada pacotinho, será possível fazer N pacotinhos e não ficará bala alguma de fora. Se forem colocadas 5 balas em cada pacotinho, serão feitos N + 3 pacotinhos, e também não ficará bala alguma de fora. O número total de balas que havia no pacote comprado por Carol era",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "40.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "45.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "50.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "55.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Márcia tem em sua carteira apenas notas de R$ 2,00 e notas de R$ 5,00, no total de 9 notas. Sabendo que o valor total dessas notas é R$ 36,00, então, o número de notas de R$ 5,00 é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "3.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "4.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "5.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "6.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um professor de matemática pediu para seus alunos resolverem a seguinte equação do 2o grau: x2 – 16 x + 63 = 0. Após resolver corretamente a equação, Pedro percebeu que as raízes dela eram iguais às idades de seus dois irmãos mais novos, André e Caio. Sabendo que André é mais velho do que Caio, a idade de Caio é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6 anos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "7 anos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "8 anos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "9 anos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A figura é formada por três quadrados Q1, Q2 e Q3. Sabe-se que o perímetro do quadrado Q2 é 32 cm, e que a área do quadrado Q1 é 4 cm2. A área do quadrado Q3 é igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "9 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "16 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "25 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "36 cm2.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q26-p8-c0-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em uma avenida reta e plana, há um banco (B), uma farmácia (F), uma mercearia (M), uma padaria (P) e uma igreja (I), conforme mostra a figura. A distância entre o banco (B) e a farmácia (F) é igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "400 m.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "500 m.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "600 m.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "700 m. R a s c u n h o",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q27-p8-c0-1.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um terreno retangular ABCD, com 15 m de comprimento por 8 m de largura, teve parte de sua área, na forma de um triângulo retângulo, reservada para o cultivo de temperos, conforme mostra a figura. O comprimento da cerca , que separa o canteiro do resto do terreno, é igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6 m.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "8 m.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "10 m.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "12 m.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q28-p9-c0-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Uma caminhonete irá transportar 16 caixas com melões. Em cada caixa serão colocados 12 melões, cada um deles com massa aproximada de 2 kg. Sabendo que cada caixa vazia tem 400 g de massa, então, a massa total (caixas + melões) que essa caminhonete irá transportar será, aproximadamente, de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "376,4 kg.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "388,2 kg.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "390,4 kg.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "394,8 kg.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A forma simplificada da expressão , para a ≠ 2 e a ≠ –2, é igual a",
+   "texto_na_figura": "A forma simplificada da expressão ,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a + 2",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "8a · (a – 2)",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "8a + 2",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "8a2 + 16",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q30-p9-c0-1.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 31,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Em um estudo sobre solo, foi utilizada uma coluna de vidro, com uma torneira adaptada em sua extremidade, conforme ilustração. Em seguida, 100 mL de areia seca foram colocados dentro da coluna. Então, lentamente, foi acrescentado água, até que o nível da água, após preencher os espaços entre os grãos, atingisse a marca de 100 mL. Após medir a quantidade de água colocada na coluna (1), a torneira foi aberta e foi medido o tempo em segundos (2), no qual toda a água presente na coluna demorou para escoar pela torneira. As propriedades do solo que foram medidas em 1 e 2 foram, respectivamente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "drenagem e filtração.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "porosidade e permeabilidade.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "densidade e drenagem.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "filtração e estrutura.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q31-p10-c0-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 32,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Leia atentamente o texto a seguir. Uma determinada rocha se formou a partir do resfriamento do magma, que ocorreu no interior da crosta terrestre. Após milhares de anos, essa rocha aflorou à superfície terrestre, sofreu intemperismo, os seus constituintes foram transportados por um rio e foram depositados em um grande lago. Após mais alguns milhares de anos, esse material depositado foi compactado e cimentado, dando origem a uma nova rocha. Ao fazer uma pesquisa nessa rocha, foi verificada a presença de ouro. Considerando as informações do texto, o ouro foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "encontrado em uma rocha sedimentar.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "formado pelo intemperismo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "cimentado pelo magma.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "formado em uma rocha metamórfica.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 33,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A água usada em pias, chuveiros, tanques e máquinas de lavar pode ser reutilizada na limpeza da casa. Como essa água tem muito sabão, detergente, restos de alimentos e gordura, ela deve passar por um tratamento que elimine esses materiais. Para isso, pode ser utilizado o “jardim filtrante”, que consiste em um tanque com o fundo impermeabilizado, contendo areia e brita na parte inferior e água na parte superior, no qual são cultivadas plantas aquáticas, como o aguapé. O processo é apresentado na ilustração a seguir. (https://agua-sua-linda.tumblr.com/post/159491798163/a-%C3%A1gua- -usada-em-pias-chuveiros-tanques-e. Adaptado) Ao passar pelos recipientes 1 e 2, a água é submetida, respectivamente, aos processos de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "floculação e desinfecção.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "decomposição e decantação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "filtração e peneiração.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "decantação e filtração.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q33-p10-c1-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 34,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Um aterro sanitário é uma obra que tem por objetivo o tratamento final dos resíduos da forma mais ambientalmente correta possível. O funcionamento é baseado nas seguintes etapas: 1 – A base do aterro é feita, colocando-se uma manta impermeável, para evitar vazamento de líquidos, sobre solo que foi compactado. 2 – Sobre essa manta, é colocado um sistema de drenos para a coleta do chorume, líquido altamente contaminado que, após tratamento adequado, resulta em água limpa, adequada para regar jardins, por exemplo. 3 – No interior do aterro, é colocado outro sistema de drenos para a coleta do biogás. 4 – As camadas de resíduos (lixo) são cobertas por camadas de argila. Há, também, um sistema de drenagem que evita infiltração da água da chuva no interior do aterro. Considerando as etapas descritas, verifica-se que o aterro sanitário produz materiais que podem ser utilizados, como é o caso do que ocorre em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 e 2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2 e 3.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3 e 4.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4 e 1.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 35,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Observe o circuito elétrico a seguir, constituído por 3 pilhas de 1,5 v cada uma e 4 lâmpadas de igual resistência (L1 a L4). (https://mnpefprg.furg.br/images/Dissertacao_2013/Produto-Educacional_ Diss-Edilson_Torma.pdf. Adaptado) Da forma como está montado esse circuito, verifica-se que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a interrupção do circuito em P não afeta o brilho das lâmpadas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "se o circuito for interrompido em X, a lâmpada L1 ficará acesa.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a voltagem a ser distribuída no circuito é de 4,5 v.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o brilho da lâmpada L1 é maior do que as demais lâmpadas.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q35-p11-c0-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 36,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A energia solar desempenha um papel muito importante em nosso planeta. Além dos processos naturais, essa energia desempenha, atualmente, um papel importante na obtenção de energia para o uso doméstico. A figura a seguir indica algumas transformações de energia que ocorrem quando a energia solar atinge a superfície terrestre. (https://taldi.com.br/noticia/entenda-como-funcionaa-energia-solar-fotovoltaica/Adaptado) Com relação às formas de energia e suas transformações, é correto afirmar que a energia",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "térmica do sol é transformada em calor em 1, e, em eletricidade, em 2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "radiante do sol é transformada em energia elétrica em 2, e, em química, em 3.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "luminosa do sol é transformada em energia térmica em 1, e, em química, em 2.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "solar é transformada em energia cinética em 1, e, em térmica, em 3.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q36-p11-c0-1.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 37,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Para atender ao Princípio dos 3Rs, uma escola desenvolveu um programa e realizou as quatro ações descritas a seguir. 1 – A escola solicitou aos alunos para trazer copos não descartáveis para beber água do filtro da escola em substituição aos copos de plástico que não serão mais oferecidos. 2 – Os professores de ciências solicitaram aos alunos que trouxessem vidros vazios de produtos utilizados em casa como vidros de maionese, azeitona, palmito e outros, para acondicionar produtos químicos e pequenos animais conservados em álcool. 3 – Os professores solicitaram aos alunos e ao pessoal da secretaria que trouxessem papel sulfite ou outro tipo de papel que tenha sido utilizado apenas em um dos lados e deixassem na sala de aula para que os alunos pudessem utilizar o outro lado do papel em seus estudos. 4 – O pessoal da cantina da escola colocou em toda a área de recreação recipientes adequados para o descarte de garrafas Pet, embalagens de sucos e latas de refrigerantes. Corresponde às atividades de Reduzir, Reutilizar e Reciclar (3 Rs), respectivamente, as ações indicadas pelos números",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1, 2 e 3.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1, 2 e 4.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "2, 4 e 3.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "3, 4 e 1.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 38,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Leia um depoimento, a respeito do uso de drogas. “Utilizava quando ia para as baladas. A sensação imediata é de euforia e perda de inibições. Mas, depois que passava o efeito, sentia um desânimo muito grande e até ânsia de vômito. No dia seguinte, sentia um pouco de depressão. Mas, no fim de semana seguinte, voltava a utilizar. Sentia-me bem, tinha euforia para dançar a noite toda. Com o uso contínuo, aumentei as doses e, um dia após um exagero, quase morri. Minha temperatura aumentou e eu desmaiei.” O relato trata do consumo de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "maconha.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "crack.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "anabolizante.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ecstasy.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 39,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Ao sofrer um ferimento com um objeto perfurocortante, o indivíduo pode se contaminar com bactérias presentes nesse objeto. Então, no local onde esse objeto penetrou, inicia-se uma sequência de ações que tem por objetivo destruir os microrganismos e as substâncias que produzem, e evitar danos ao indivíduo. O processo está representado na ilustração a seguir. (https://slideplayer.com.br/slide/333859/Adaptado) No esquema, as ações de defesa do organismo que serão realizados pelas células 1 e 2, são, respectivamente:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "produção de anticorpos e fagocitose.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "produção de antígenos e de anticorpos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "produção de antígenos e fagocitose.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "produção de anticorpos e de antígenos.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q39-p12-c0-0.png",
+     "pagina": 13
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 40,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Em 2016, enquanto ainda estudava no ensino médio na cidade de Coxim, região norte de Mato Grosso do Sul, João Victor de Andrade dos Santos descobriu algo que pode mudar a vida de muita gente. O estudante desenvolveu o método para conservar caldo de cana, porque na época, via o pai ter prejuízo por não conseguir conservar o produto, mas essa descoberta vai muito além. Depois de aprimorada, anos depois, foi descoberto que essa técnica pode ser capaz de inativar um protozoário encontrado nas fezes de um inseto presente em locais em que a cana é armazenada. (https://www.correiodoestado.com.br/cidades/estudante-de-ms-apresenta- -projeto-que-pode-isolar-o-transmissor-da/361216/Adaptado) O estudo descrito apresentou um método que pode ser eficaz para",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o tratamento da malária.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o desenvolvimento da vacina da dengue.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a prevenção da doença de Chagas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a forma de repelir o mosquito da febre amarela.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 41,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Nesse bioma é marcante a presença de árvores com galhos tortuosos e de casca grossa. Além do estrato arbóreo, apresenta estrato herbáceo, cujos ramos vegetais secam à medida que se estabelece o período de seca. Esses ramos secos propiciam as queimadas recorrentes nesse tipo de bioma. Nessa região podem ser encontradas 67 espécies de mamíferos, 837 de aves, 120 de répteis e 150 de anfíbios. No mapa a seguir, estão representadas as cinco regiões brasileiras. (https://www.estadosecapitaisdobrasil.com/regioes-do-brasil/Adaptado) A maior parte desse bioma encontra-se nas regiões",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1, 2 e 3.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1, 4 e 5.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "2, 4 e 5.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4, 3 e 5.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q41-p12-c1-0.png",
+     "pagina": 13
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 42,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Animais como as aves e os mamíferos apresentam a temperatura do corpo constante e não dependem do ambiente para aquecimento de seu corpo, pois reações químicas em suas células produzem energia suficiente para produção de calor, necessário para suas atividades. Esse processo, responsável pela produção de energia no organismo, é denominado",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "circulação sanguínea.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "movimento muscular.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "isolamento térmico.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "respiração celular.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 43,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O gráfico a seguir representa de forma comparativa o desmatamento na Amazônia, nos anos de 2017/2018 e 2018/2019. (https://aosfatos.org/noticias/cinco-fatos-para-entender-como-emonitorado-o-desmatamento-na-amazonia/Adaptado) Se o ritmo de desmatamento continuar, isso trará consequências como o",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aumento da poluição do ar devido à falta de oxigênio.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "alagamento dessa região devido ao aumento das chuvas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "desenvolvimento de solo fértil e protegido para o plantio.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "desaparecimento de espécies vegetais e animais típicos.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q43-p13-c0-0.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 44,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O investimento em energias renováveis é essencial para a redução da poluição ambiental. Uma dessas novas alternativas é o etanol celulósico, combustível obtido por meio do aproveitamento do bagaço de cana-de-açúcar, que antes era desperdiçado. Primeiro, realiza-se a quebra dos polissacarídeos presentes no bagaço em açúcares menores e, em seguida, os açúcares são submetidos aos processos biológicos e químicos que levam à produção do álcool. (https://www.ecycle.com.br/component/content/article/35/1600-etanol -celulosico-e-alternativa-mais-sustentavel-na-producao -de-combustivel-por-meio-de-biomassa.htmlAdaptado) Os processos biológicos e químicos que levam à produção do combustível, como descrito no texto, são, respectivamente:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "solidificação e evaporação.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "coagulação e decantação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "fermentação e destilação.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "digestão e dissolução.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 45,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Os métodos de sustentabilidade estão sendo utilizados cada vez mais. Um deles consiste na compostagem, procedimento que resulta na produção de adubo orgânico. Para a compostagem, é possível utilizar o lixo da cozinha e do jardim, misturando-os em um recipiente. É necessário ter duas vezes mais resíduos marrons (serragem, folhas secas, papelão e folhas de jornal) do que verdes (frutas, vegetais, grama, borra de café). Após algumas poucas semanas, os resíduos transformam-se em um fertilizante natural para nutrir o solo. Esse processo ocorre devido à ação de organismos que fazem parte de uma cadeia alimentar, atuando como",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "decompositor.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "herbívoro.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "predador.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "produtor.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 46,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Analise o mapa para responder à questão. Áreas do globo cobertas com o bioma “X” As áreas destacadas no mapa (https://www.todoestudo.com.br/geografia/. Acesso em 02.09.2019)",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "têm como características comuns a presença de grande número de árvores e arbustos com folhas largas e sempre verdes que refletem o ambiente com predomínio de forte umidade e de altas temperaturas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "apresentam alternância entre estações secas e chuvosas; a vegetação é constituída, principalmente, por arbustos e árvores de pequeno porte com raízes profundas, folhas grossas e troncos retorcidos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "caracterizam-se pelo clima tropical de altitude com verões quentes e úmidos e invernos secos; as espécies vegetais predominantes são do tipo gramíneas com arbustos que perdem as folhas na estação seca.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "apresentam grande biodiversidade, devido, principalmente, à presença de solos com grande umidade que, além de garantirem árvores de grande porte, ainda mantêm inúmeras espécies de mamíferos, insetos e aves.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q46-p14-c0-0.png",
+     "pagina": 15
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 47,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "No continente asiático, é possível identificar focos de tensão geopolítica que colocam em risco a paz daqueles que vivem nos locais que estão envolvidos em conflitos. Observe no mapa da Ásia alguns desses focos de tensão. (IBGE) Assinale a alternativa que identifica corretamente um dos focos de tensão.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I – Turquia e Iraque estão em conflito há quase uma década com o objetivo de estabelecer o domínio econômico sobre parte do Oriente Médio.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "II – Irã é o maior produtor de petróleo da região e tem pretensões de produzir armas nucleares e tornar-se a maior potência militar do Oriente Médio.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "III – Cachemira é um território em permanente disputa entre a Índia, de religião predominantemente hindu, e o Paquistão, de religião muçulmana.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "IV – Coreia do Norte e Coreia do Sul mantêm conflitos há décadas devido à disputa de territórios ricos em urânio, matéria-prima para a produção de armamentos nucleares.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q47-p15-c0-0.png",
+     "pagina": 16
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    16
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 48,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Analise o gráfico. Brasil – Pessoal ocupado na agropecuária (https://agenciadenoticias.ibge.gov.br. Acesso em 03.09.2019) A leitura do gráfico e os conhecimentos sobre aspectos socioeconômicos do Brasil permitem concluir que a evolução do número de trabalhadores na agropecuária deveu-se, entre outros fatores,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "à substituição de áreas de lavouras pela pecuária que utiliza menos mão de obra.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "ao aumento das áreas destinadas à agricultura familiar, poupadora de mão de obra.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "ao término da expansão das fronteiras agrícolas nas regiões Norte e Centro-Oeste.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à modernização das atividades agropecuárias e à consequente ampliação da mecanização.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q48-p15-c1-0.png",
+     "pagina": 16
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    16
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 49,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Johann Moritz Rugendas esteve no Brasil entre 1821 e 1825, produzindo várias ilustrações, publicadas posteriormente na Europa. Observe uma delas. (“Festa de Santa Rosália, padroeira dos negros”, Viagem pitoresca através do Brasil) A ilustração mostra que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o culto religioso contribuiu para a união dos negros nos quilombos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a vida dos escravos incluiu momentos de lazer, além do trabalho.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a diversidade cultural impediu a integração entre brancos e negros.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o politeísmo dos povos africanos foi preservado nesse ritual religioso.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2020/2020-q49-p16-c0-0.png",
+     "pagina": 17
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    17
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 50,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "O planeta era encarado como uma espécie de enorme tabuleiro de xadrez. A partida era disputada por dois jogadores, empenhados em manter as posições que já haviam conquistado – suas áreas de influência – e, tanto quanto possível, tomar novas áreas do adversário. Nenhum país ou região do globo era considerado fora dos limites do jogo: cada casa do tabuleiro estaria, forçosamente, sob domínio de um ou de outro competidor. Tratava-se, porém, de uma partida com características muito especiais. O confronto aberto entre as superpotências provavelmente faria voar pelos ares todas as peças e o próprio tabuleiro. (José Augusto Dias Jr. e Rafael Roubicek. A era do medo. Adaptado) O texto refere-se",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "às disputas por colônias na África e na Ásia, nas quais as potências europeias conseguiram mercados consumi dores e fornecedores.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "ao período conhecido como Paz Armada, que provocou as tensões responsáveis pela eclosão da Primeira Guerra Mundial.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "à bipolarização do mundo após a Segunda Guerra Mundial, em que os países líderes dos blocos capitalista e socialista queriam a hegemonia.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "aos combates diretos entre forças militares norte-americanas e soviéticas na Guerra Fria, que usaram armas químicas e nucleares.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    17
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  }
+ ]
+}

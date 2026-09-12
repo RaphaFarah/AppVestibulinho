@@ -1,0 +1,2040 @@
+{
+ "ano": 2022,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "2022.pdf",
+ "fonte_gabarito": "gabarito 2022.pdf",
+ "n_alternativas": 4,
+ "contextos": [
+  {
+   "id": "ctx-2022-01",
+   "questoes": [
+    1,
+    2
+   ],
+   "instrucao": "Leia a tira para responder às questões de números 01 e 02.",
+   "texto": "(Bill Waterson, “O melhor de Calvin”. https://cultura.estadao.com.br, 24.08.2021)",
+   "texto_na_figura": "É UM ABSURDO PESSOAS DE SEIS ANOS AQUI ESTOU EU, UM NÃO PODEREM CIDADÃO SEM PODER VOTAR! ESCOLHER SEU GOVERNO! NÃO. SÓ QUERIA UM VOCÊ ESTÁ PREOCUPADO PEDAÇO MAIOR COM OS RUMOS DO DO BOLO. NOSSO PAÍS?",
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/ctx-2022-01-p2-c0-0.png",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "id": "ctx-2022-03",
+   "questoes": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 03 a 06.",
+   "texto": "A saída da estadista? Se há um líder político que se consagrou como estadista1 nos últimos anos, esse líder é a chanceler alemã Angela Merkel. Ela soube como ninguém conciliar o pragmatismo2 com o respeito a princípios civilizacionais, como se viu na crise dos refugiados de 2015-16. Enfrentou a Covid-19 com competência e transparência, recorrendo sempre à abordagem científica, com a qual, na condição de química quântica, está plenamente familiarizada. Até pela ausência de concorrentes à altura, tornou-se a principal líder da União Europeia. Ao longo de 16 anos no poder, foi capaz de capitalizar tudo isso em prestígio pessoal. Trata-se de uma política incomumente popular, não apenas na Alemanha como em vários outros países europeus. Paradoxalmente, é considerável a probabilidade de Merkel ver sua aliança política conservadora CDU/CSU naufragar nas eleições marcadas para o próximo dia 26. Que a chanceler deixaria o cargo já era sabido. Faz um bom tempo que a líder anunciou a intenção de aposentar-se ao término do atual mandato, mas, diante do sucesso que é sua administração, pretendia entregar o posto a um sucessor de seu próprio partido. (Editorial. Folha de S.Paulo, 01.09.2021. Adaptado) 1 estadista: pessoa que exerce liderança política com sabedoria 2 pragmatismo: consideração das coisas de um ponto de vista prático",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2022-07",
+   "questoes": [
+    7,
+    8
+   ],
+   "instrucao": "Leia a charge para responder às questões de números 07 e 08.",
+   "texto": "(Fabiane Langona, “Viver dói”. Folha de S.Paulo, 01.09.2021. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2022-10",
+   "questoes": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 10 a 15.",
+   "texto": "A polícia suburbana Noticiam os jornais que um delegado inspecionando, durante uma noite destas, algumas delegacias suburbanas, encontrou-as às moscas, comissários a dormir e soldados a sonhar. Dizem mesmo que o delegado-inspetor surrupiou objetos para pôr mais à mostra o descaso dos seus subordinados. Os jornais, com aquele seu louvável bom senso de sempre, aproveitaram a oportunidade para reforçar as suas reclamações contra a falta de policiamento nos subúrbios. Leio sempre essas reclamações e pasmo. Moro nos subúrbios há muitos anos e tenho o hábito de ir para a casa alta noite. Uma vez ou outra eu encontro um vigilante noturno, um policial e muito poucas vezes é-me dado ler notícias nas ruas que atravesso. A impressão que tenho é de que a vida e a propriedade daquelas paragens estão entregues aos bons sentimentos dos outros e que os pequenos furtos de galinhas e coradouros1 não exigem um aparelho custoso de patrulhas e apitos. Aquilo lá vai muito bem, todos se entendem livremente e o Estado não precisa intervir corretivamente para fazer respeitar a propriedade alheia. Penso mesmo que, se as coisas não passassem assim, os vigilantes, obrigados a mostrar serviço, procurariam meios e modos de efetuar detenções e os notívagos, como eu, ou os pobres-diabos que lá procuram dormida, seriam incomodados, com pouco proveito para a lei e para o Estado. Os policiais suburbanos têm toda a razão. Devem continuar a dormir. Ainda bem. (Lima Barreto, Vidas urbanas. Adaptado) 1 coradouro: lugar onde se deixa a roupa mais branca Confidencial até o momento da aplicação.",
+   "texto_na_figura": null,
+   "figuras": []
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-01",
+   "enunciado": "Colabora com o efeito de humor da tira a ideia de que Calvin, o menino,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "confunde o seu amigo com os absurdos da vida.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "tem uma preocupação legítima com a vida social.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "pensa em política para ajudar os seus semelhantes.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "quer ter direito de votar para ter benefício próprio.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 2,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-01",
+   "enunciado": "No contexto em que está empregada e de acordo com a norma-padrão, a frase do 3o quadrinho – Você está preocupado com os rumos do nosso país? – pode ser substituída por",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lhe causam preocupação os rumos do nosso país?",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Preocupa você os rumos do nosso país?",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Os rumos do nosso país têm preocupado você?",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Causa preocupação em você os rumos do nosso país?",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 3,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-03",
+   "enunciado": "As informações do texto revelam que a chanceler Angela Merkel",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ganhou a admiração das populações da União Europeia, onde existem líderes melhores que ela.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "tem sido uma líder política de respeito na Alemanha, mas entrou em crise com os refugiados.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "tornou-se uma líder política cujo reconhecimento ultrapassou as fronteiras da Alemanha.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "tem perdido seu prestígio social na Alemanha, devido à aliança política conservadora CDU/CSU.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 4,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-03",
+   "enunciado": "O último parágrafo do texto permite concluir que Angela Merkel",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pretendia manter-se como chanceler alemã por mais tempo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "gostaria de ser substituída por um político de seu partido.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "estaria entusiasmada em aposentar-se com tanto sucesso.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "desconhecia que deixaria o cargo de chanceler da Alemanha.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 5,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-03",
+   "enunciado": "Considere as passagens do texto. • \u0007Ela soube como ninguém conciliar o pragmatismo com o respeito a princípios civilizacionais... (1o parágrafo) • \u0007Ao longo de 16 anos no poder, foi capaz de capitalizar tudo isso em prestígio pessoal. (3o parágrafo) Os termos destacados são sinônimos, correta e respectivamente, de:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "harmonizar; aproveitar.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "ajustar; empreender.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "juntar; ignorar.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "melhorar; acumular.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 6,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-03",
+   "enunciado": "A metáfora que sugere algo malsucedido está corretamente destacada em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Se há um líder político que se consagrou como estadista nos últimos anos, esse líder é a chanceler alemã Angela Merkel.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Enfrentou a Covid-19 com competência e transparência, recorrendo sempre à abordagem científica...",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de uma política incomumente popular, não apenas na Alemanha como em vários outros países europeus.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "... ver sua aliança política conservadora CDU/CSU naufragar nas eleições marcadas para o próximo dia 26.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 7,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-07",
+   "enunciado": "Na leitura da charge, o destaque na palavra “Aquela” sugere que a personagem",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pretende achar entre as camisetas pretas do armário uma qualquer para vestir após o banho.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "procura por uma camiseta preta específica dentre as muitas pretas que estão no armário.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "prefere buscar uma camiseta preta porque as de outra cor não estão guardadas no armário.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "busca uma camiseta preta no armário sem saber exatamente qual delas pretende vestir.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 8,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-07",
+   "enunciado": "Na frase da charge, tem-se um predicado",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "verbal, expressando uma conversa da personagem consigo mesma, sugerindo uma ação.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "nominal, expressando a descrição que a personagem faz para si sobre o que há no armário.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "verbal, expressando um pedido da personagem para alguém realizar por ela uma ação.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "nominal, expressando a caracterização que a personagem faz do seu armário para alguém.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 9,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "A paleontologia é um híbrido de geociências e biociências que tenta compreender a vida do passado. Há um de detetive no trabalho de quem segue essa carreira. Por meio de fósseis, cientistas se esforçam em reconstruir peça peça aspectos da (paleo)biologia de organismos que desapareceram da Terra há milhões de anos, muitas vezes sem deixar . Enquanto biólogos empreendem expedições para observar seres vivos em seu habitat natural, ao paleontólogo resta (com sorte) um punhado de fósseis para estudar, os quais ele de volta “vida”, valendo-se da paleontologia virtual e de simulações biomecânicas. (https://cienciahoje.org.br. Adaptado) Em conformidade com a norma-padrão, as lacunas do texto devem ser preenchidas, respectivamente, com:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "quê ... à ... decendentes ... trás ... a",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "que ... à ... descendentes ... tras ... a",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "quê ... a ... descendentes ... traz ... à",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "que ... a ... decendentes ... tráz ... à",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 10,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-10",
+   "enunciado": "O texto lido foi escrito em 1914. Nele, o autor enfatiza que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os jornais reclamam da falta de policiamento nos subúrbios, porque constantemente noticiam graves crimes ali cometidos, o que se comprova com a passagem: “... as suas reclamações contra a falta de policiamento nos subúrbios.”",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "os subúrbios são tranquilos e têm uma rotina diferente daquelas que aparecem nas reclamações dos jornais, o que se comprova com a passagem: Aquilo lá vai muito bem, todos se entendem livremente e o Estado não precisa intervir...”.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a segurança dos subúrbios é bastante precária, apesar dos bons sentimentos dos moradores, o que se comprova com a passagem: “... os vigilantes, obrigados a mostrar serviço, procurariam meios e modos de efetuar detenções...”.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o sono de comissários e soldados suburbanos põe muitas vidas em perigo, por isso eles deveriam deixar de dormir e zelar pelo povo, o que se comprova com a passagem: “Uma vez ou outra eu encontro um vigilante noturno, um policial...”.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 11,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-10",
+   "enunciado": "No 4o parágrafo, o autor afirma: “Leio sempre essas reclamações e pasmo.” Nesse sentido, conclui-se corretamente que ele",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "se refere com ironia ao bom senso dos jornais, pois considera exageradas as reclamações.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "se identifica com o ponto de vista dos jornais, pois considera legítimas as reclamações.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "se emociona com as informações dos jornais, pois considera relevantes as reclamações.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "se irrita com o posicionamento dos jornais, pois considera supérfluas as reclamações.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 12,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-10",
+   "enunciado": "Considere as passagens. • \u0007Dizem mesmo que o delegado-inspetor surrupiou objetos para pôr mais à mostra o descaso dos seus subordinados. (2o parágrafo) • \u0007Moro nos subúrbios há muitos anos e tenho o hábito de ir para a casa alta noite. (4o parágrafo) • \u0007Penso mesmo que, se as coisas não passassem assim, os vigilantes, [...] procurariam meios e modos de efetuar detenções e os notívagos... (8o parágrafo) As expressões destacadas estabelecem, correta e respectivamente, relações de sentido de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "finalidade, finalidade e causa.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "causa, finalidade e conclusão.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "causa, lugar e consequência.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "finalidade, direção e condição.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 13,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-10",
+   "enunciado": "Assinale a alternativa em que os verbos destacados estão corretamente flexionados.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O Estado interveio nos subúrbios e conteve a violência dali?",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Nos subúrbios, o Estado intervia se fosse necessário?",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Se o Estado se propor a agir, será que conteria a violência?",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Haverá melhorias, se os policiais intervirem nos subúrbios?",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 14,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-10",
+   "enunciado": "Considere a passagem do texto: “... ou os pobres-diabos que lá procuram dormida...”. Os substantivos que fazem o plural da mesma forma que o destacado na passagem transcrita são:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "beija-flor e abaixo-assinado.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "pé-de-vento e bomba-relógio.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "recém-nascido e guarda-louça.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "guarda-noturno e couve-flor.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 15,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2022-10",
+   "enunciado": "Assinale a alternativa em que a oração tem o mesmo tipo de sujeito e o verbo do predicado tem a mesma predicação que os destacados em: “Os jornais [...] aproveitaram a oportunidade...”.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "... para pôr mais à mostra o descaso dos seus subor dinados.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "... a vida e a propriedade daquelas paragens estão entregues aos bons sentimentos dos outros...",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Uma vez ou outra eu encontro um vigilante noturno...",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "... o Estado não precisa intervir corretivamente...",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um profissional levou 5 horas e 15 minutos na edição de um vídeo promocional. O tratamento das imagens utilizadas ocupou um terço do tempo da edição, o que correspondeu a 1 hora e",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "35 minutos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "40 minutos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "45 minutos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "50 minutos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "No mês passado, o valor total das dívidas de Ana correspon- 2 do salário líquido que ela recebeu. Se ela depositou o deu a 5 valor de R$ 250,00 na caderneta de poupança, e esse valor correspondeu à oitava parte do salário líquido que ela recebeu, então o valor total das dívidas de Ana, naquele mês, foi de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 850,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 800,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 750,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 700,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Há 6 meses, o preço de venda de um produto correspondia a 80% do valor do seu preço de venda atual, que é de R$ 120,00. Durante esse período, o preço de venda desse produto aumentou em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 24,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 25,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 26,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 27,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um quadro com formato quadrado ocupa, na parede, uma área de 6 400 cm2. O perímetro desse quadro é de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "320 cm.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "340 cm.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "360 cm.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "380 cm.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Com R$ 200,00, Camila consegue comprar 8 unidades de um mesmo produto para presentear sua família e sobram, de troco, R$ 12,00. Se ela tivesse R$ 300,00 e utilizasse esse dinheiro na compra da maior quantidade possível desse mesmo produto, o troco que ela receberia seria de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 14,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 16,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 18,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 20,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Nos últimos quatro dias, Carlos atendeu, ao todo, 122 clientes, sendo que, no segundo dia, ele atendeu 13 clientes a mais que o número de clientes atendidos no primeiro dia; no terceiro dia, ele atendeu 10 clientes a menos que o dobro do número de clientes atendidos no primeiro dia e, no último dia, ele atendeu metade do número de clientes atendidos no segundo dia. O número de clientes atendidos no terceiro dia por Carlos foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "35.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "40.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "45.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "50.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O rótulo de um suco concentrado informa que, com 300 mL, é possível fazer 1,5 L de suco, contendo somente água e suco concentrado. Utilizando-se a mesma informação do rótulo, para fazer um total de 5 L do suco, são necessários, de água,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2,5 L.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "3,0 L.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3,5 L.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4,0 L.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Se eu tivesse nascido um ano antes, hoje eu teria o dobro da idade atual do meu irmão. Sabendo que a soma das nossas idades atuais é 35 anos, é correto afirmar que meu irmão é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "9 anos mais novo que eu.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "10 anos mais novo que eu.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "11 anos mais novo que eu.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "12 anos mais novo que eu.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Mario aplicou um capital pelo período de 1 ano, com taxa de juros de 5% ao ano, e resgatou o montante de R$ 1.365,00. Se ele tivesse aplicado R$ 200,00 a mais, nas mesmas condições, o valor correspondente aos juros teria sido de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 67,50.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 70,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 72,50.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 75,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O tampo de uma mesa tem o formato de pentágono regular, conforme representado na figura. A medida do ângulo formado entre dois lados dessa mesa, com um vértice em comum, indicado na cor verde na figura, mede",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "120º.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "116º.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "108º.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "94º.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q25-p8-c0-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Uma região no formato de triângulo retângulo foi demarcada em uma fazenda para o cultivo de determinada cultura. Sabendo que o maior lado dessa região demarcada mede 100 m e que a soma das medidas dos demais lados é de 140 m, o menor lado da região demarcada mede",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "60 m.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "70 m.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "80 m.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "90 m.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O símbolo de uma empresa, que está em todo cabeçalho das folhas de sulfite que ela utiliza, é um hexágono regular com perímetro de 12 cm. Se aproximarmos para 1,7 o valor de 3, podemos dizer que esse símbolo ocupa, em cada folha, uma área aproximada de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "9,8 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "10,2 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "10,6 cm2.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "11,0 cm2.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Se 1 m3 corresponde a 1 000 L, então 10 cm3 correspondem a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0,01 mL.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "0,1 mL.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1 mL.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "10 mL.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Do saldo em dinheiro que eu tinha no banco, saquei 10% ontem e, do restante, saquei 20% hoje. Se o valor do saque que eu fiz hoje foi de R$ 270,00, então o valor do saque que eu fiz ontem foi de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 90,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 110,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 130,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 150,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "2 3 x 16 x 8 – x O valor numérico da expressão quando 3 x 16 – x x = 1 000 é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "249 251",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "261 235",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "350",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "500",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 31,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Leia o texto a seguir, que se refere às estratégias para o combate à pandemia da Covid-19. Pesquisadores brasileiros desenvolveram um soro contra a Covid-19, produzido por cavalos, nos quais foi inoculada a proteína spike, que forma o revestimento do coronavírus. O soro poderá ser utilizado no tratamento de pessoas em estado grave. A vacina da Pfizer contém fragmentos de RNA que induzem as células humanas a produzirem a proteína spike do coronavírus. A vacina Novavax, no entanto, contém a própria proteína spike, produzida sinteticamente. Considerando as informações do texto e os processos imunológicos envolvidos, é correto afirmar:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a proteína spike funciona como um antibiótico contra o coronavírus.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o soro produzido pelo cavalo contém antígenos do coronavírus.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "na produção do soro pelo cavalo, a proteína spike funciona como um antígeno.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a vacina Novavax provoca a formação de proteínas spike pelas células humanas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 32,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A fotografia mostra um animal que caracteriza um ecossistema brasileiro. Boulhosa/BBC News Brasil Sobre esse ecossistema, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tem sofrido desmatamento bastante intenso, devido ao cultivo de café e trigo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "é encontrado em grande parte do estado de Goiás e Distrito Federal.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "sua vegetação apresenta grande resistência ao excesso de sal do solo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o solo permanece encharcado ao longo do ano, devido às chuvas abundantes.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q32-p10-c0-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 33,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A ilustração a seguir apresenta dados da qualidade do ar em São Paulo, no dia 01 de setembro de 2021. Nela, o número dentro de cada círculo corresponde ao valor encontrado no dia, e o número ao lado corresponde ao valor máximo permitido. (https://weather.com/. Adaptado) A qualidade do ar foi considerada moderada devido à presença do poluente",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "SO2, que interfere no transporte de O2 pelo sangue.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "NO2, eliminado na queima de óleo diesel e gasolina.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "material particulado que pode penetrar pela pele.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "O3, que causa problema aos pulmões.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q33-p10-c1-0.png",
+     "pagina": 11
+    },
+    {
+     "arquivo": "data/imagens/2022/2022-q33-p10-c1-1.png",
+     "pagina": 11
+    },
+    {
+     "arquivo": "data/imagens/2022/2022-q33-p10-c1-2.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 34,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A ilustração mostra os Reinos, indicados por números, em que estão classificados os diferentes seres vivos. (Biologia. Cesar e Sezar. Adaptado) Sabendo-se que todos esses seres vivos são formados por células, é correto afirmar que os seres dos reinos",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 e 2 são formados por células procariotas e são autotróficos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2 e 3 apresentam células capazes de realizar a fotossíntese.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "4 e 5 são pluricelulares com células eucariotas e mitocôndria.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "3 e 4 apresentam células desprovidas de carioteca e membrana plasmática.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q34-p11-c0-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 35,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Observe a figura a seguir. (https://www.abrasta.org.br/campanha-doacao-de-sangue/) Com a queda aproximada de 20% no número de doações no país em 2020, a campanha apresentada quer incentivar a doação. No entanto, quem tem alguns tipos de doenças está impedido de ser doador permanente. Esse é o caso de pessoas que adquiriram",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "doença de Chagas e AIDs.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "febre amarela e doença de Chagas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "dengue e AIDs.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "febre amarela e dengue.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q35-p11-c0-1.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 36,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Em uma aula sobre o sistema reprodutor humano, o professor solicitou aos alunos que preparassem ilustrações de métodos contraceptivos para a discussão durante a aula. O resultado encontra-se ilustrado a seguir. (Hospital Albert Einstein. Medcenter. Adaptado) A respeito dos métodos apresentados, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 é um método comportamental que impede a chegada do espermatozoide ao útero.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2 é um método hormonal que impede que o óvulo seja transportado na tuba uterina.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3 é um método natural que impede a produção de espermatozoides no testículo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4 é um método de barreira que impede o encontro do espermatozoide com o óvulo.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q36-p11-c1-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 37,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A ilustração a seguir mostra cadeias alimentares no ecossistema de um lago, sendo: 1 – algas microscópicas; 2 – pequenos crustáceos; 3 – peixes; 4 – bactérias; 5 – protozoários. (https://limnonews.wordpress.com/. Adaptado) Os seres vivos mostrados na ilustração estabelecem várias relações ecológicas entre si e com o ambiente em que se encontram, sendo correto afirmar que os organismos indicados pelo(s) número(s)",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2 e 4 são fotossintetizantes.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1 ocupam o primeiro nível trófico.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "4 e 5 são decompositores.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "3 são consumidores primários.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q37-p11-c1-1.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 38,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O Brasil é “medalha de ouro” no combate ao tabagismo, segundo a avaliação da Dra. Jaqueline Scholz, coordenadora do Programa de Tratamento do Tabagismo do Hospital das Clínicas. (https://www.grea.org.br/post Adaptado) Segundo a Organização Mundial da Saúde, o Brasil reduziu em 40% o número de fumantes, o que também contribui para a diminuição de vários problemas de saúde causados pelo hábito de fumar, como",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "câncer de pulmão.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "diabete.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "anemia.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "cirrose hepática. Utilize o texto a seguir para responder às questões de números 39 e 40. Os metais, geralmente, são bons condutores de eletricidade, porém, se aquecidos, passam a não ser tão bons em conduzir a corrente elétrica, em virtude do aumento da vibração de seus átomos. No entanto, se refrigerados, os metais passam a conduzir ainda mais facilmente do que à temperatura ambiente, e, se extrapolarmos esse resfriamento, chegaremos a um ponto em que não haverá resistência à passagem da eletricidade. Esse é o conceito do supercondutor, que, além dessa propriedade, faz com que as linhas de campo magnético não sejam capazes de penetrá-lo. Dessa forma, os supercondutores podem ser usados para promover a levitação magnética. Assim, existem supercondutores feitos utilizando o mercúrio, o chumbo, nanotubos de carbono, materiais cerâmicos e de ligas como nióbio-titânio.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 39,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Atualmente, diversos tipos de materiais têm sido testados para verificação da sua capacidade de ser um supercondutor. Dentre os citados no texto, aqueles supercondutores compostos por metais puros são os de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ligas nióbio-titânio.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "mercúrio ou de chumbo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "materiais cerâmicos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "nanotubos de carbono.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 40,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O trem Maglev, conhecido como trem-bala, muito comum no Japão, utiliza o efeito da levitação magnética presente nos supercondutores para flutuar, e assim ele desenvolve alta velocidade e torna-se mais eficiente que o trem convencional. Essa alta velocidade é alcançada devido",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ao tipo de material que compõe suas rodas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "ao aumento da condutividade elétrica dos motores.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "à falta de atrito do trem com os trilhos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à diminuição de temperatura de sua parte elétrica.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 41,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Têm sido muito comentados ultimamente os diversos tipos de agressão ambiental realizados em nosso país. Uma dessas formas foi assim descrita por um morador em uma cidade do litoral brasileiro, onde havia grande extensão de recifes: “quando pequeno, ia com meu pai até os recifes; ele levava um martelo e quebrava em locais onde o coral havia morrido e trazia aquele material para nossa casa; depois ele quebrava até virar pó e utilizava como cimento para fazer nossa casa”. Esse material utilizado como cimento apresenta similaridade com o cimento comercial, que é obtido por meio de exploração de rocha calcária. Essa similaridade está relacionada ao fato de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o recife ser formado por carapaças de coral, ricas em carbonato de cálcio.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o recife e o calcário serem rochas sedimentares ricas em carbonato de cálcio.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a rocha calcária ser originada por corais após aquecimento e fusão.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "os corais serem formados a partir da decomposição de rochas calcárias.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 42,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A ilustração a seguir representa três modelos de átomos de hidrogênio. Por meio dos modelos atômicos apresentados, é possível concluir que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cada um deles representa um elemento químico diferente.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o número de partículas neutras e negativas neles é sempre o mesmo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a soma de partículas de carga positiva e neutras neles é constante.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o número de cargas positivas é sempre o mesmo nos três modelos.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q42-p12-c1-0.png",
+     "pagina": 13
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 43,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O processo de produção de carvão teve início em um período geológico ocorrido há mais de 300 milhões de anos. As florestas exuberantes daquela época foram soterradas e, com o passar do tempo, transformam-se em um produto utilizado, atualmente, como combustível. A ilustração representa esse processo. (https://www.researchgate.net/figure/ Figura-6-Etapas-de-formacao-do-carvao-mineral-Adaptado) Considerando o processo de formação desse combustível, é correto afirmar que o carvão mineral é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "um biocombustível, pois utiliza matéria orgânica vegetal.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "similar ao petróleo, embora seja uma fonte renovável de energia.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "um combustível fóssil e um dos responsáveis pelo efeito estufa.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "importante fonte energética, pois substitui com vantagens ambientais o gás natural.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q43-p13-c0-0.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 44,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Voltou a ser observado nas bicicletas, atualmente, um dispositivo que era muito comum antigamente: o uso de um dínamo. Esse aparelho fica conectado à roda, de tal forma que, ao girar, a roda gira um eixo no interior do dínamo, e, por meio de um fio, faz com que a lâmpada da bicicleta acenda. A ilustração a seguir representa esse funcionamento. (https://www.igwindkraft.at/kinder/windkurs/windpowerweb/de/ kids/choose/gen/dynamo2.htmAdapatado) Nesse exemplo, o dínamo",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "atua como uma bateria de automóvel, transformando energia química em luz.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "transforma energia elétrica em energia mecânica, que é transferida pela roda.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "atua sobre a roda transformando energia cinética em energia potencial elétrica.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "transforma energia mecânica em energia elétrica, que é transferida pelo fio.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q44-p13-c1-0.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 45,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O desenho a seguir representa uma situação que serviu de exemplo para ilustrar um dos fenômenos físicos descritos por Newton. (https://www.gazetadopovo.com.br/educacao/ dez-temas-de-ciencias-da-natureza) O deslocamento da maçã pode ser explicado da seguinte forma:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a toda força de ação corresponde uma força de reação de igual intensidade e em sentido contrário.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o estado de repouso ou movimento de um corpo é alterado independentemente da aplicação de uma força externa.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "os corpos na Terra estão sujeitos à ação de uma força que atua sobre eles atraindo-os em direção ao centro da Terra.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a mudança de movimento de um corpo é produzida na direção contrária à força que foi aplicada nesse corpo.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q45-p14-c0-0.png",
+     "pagina": 15
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 46,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "A questão está relacionada ao mapa e ao texto seguintes. Biomas brasileiros 4 1 2 3 (https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/ 18307-biomas-brasileiros.html. Acesso em 06.09.2021) O bioma é insubstituível para a distribuição de água no Brasil. Por ter o solo mais profundo, absorve a umidade e leva água para 8 das 12 bacias importantes para o consumo de água e geração de energia no país. A falta de chuva na região influencia na seca em outros biomas, bacias hidrográficas e em inúmeras hidrelétricas do país. (G1 <https://glo.bo/3tlq1gs> Adaptado. Acesso em 06.09.2021) O bioma descrito no texto está indicado, no mapa, pelo número",
+   "texto_na_figura": "4 1 2 3",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1, o Cerrado, que apresenta nascentes de rios pertencentes a várias bacias hidrográficas, como São Francisco e Paraná.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2, o Pantanal, considerado uma das áreas mais preservadas do Brasil.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3, a Mata Atlântica, pouco preservada, principalmente nas áreas mais onduladas das serras e dos mares de morros.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4, Amazônico, em fase de desmatamento que interfere na hidrografia regional e nas grandes usinas hidrelétricas do país.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q46-p14-c1-0.png",
+     "pagina": 15
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 47,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Em 2020, o número de refugiados e deslocados subiu para quase 82,4 milhões, um recorde histórico. Em 2019, o número era de 79,5 milhões pessoas, o que representa um aumento de 4%. Os dados fazem parte do relatório anual “Tendências Globais 2020” do ACNUR (Agência da ONU para Refugiados). Sobre esse intenso movimento, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mais da metade dos refugiados e deslocados tem origem na América Latina, em países como Venezuela, Colômbia e Cuba.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "neste início de século XXI, os problemas ambientais provocados pelo aquecimento global tornaram-se a principal causa dos movimentos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "as guerras, os conflitos étnicos e as violações aos direitos humanos são os principais fatores responsáveis pelos movimentos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a pandemia e a fraca atuação de organizações como a OMS e a ONU contribuíram para o forte aumento dos movimentos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    16
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 48,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Analise o gráfico para responder à questão. (https://iedi.org.br/cartas/carta_iedi_n_1058.html Acesso em 03.09.2021) A leitura do gráfico e o que se sabe sobre o cenário econômico mundial permitem afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os novos países industrializados da Europa Oriental e da América têm dinamizado as exportações de manufaturados.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "as ações da OPEP (Organização dos Países Produtores de Petróleo) têm ampliado a comercialização de combustíveis.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a partir dos anos de 2010, o comércio mundial e as exportações, em particular, mantiveram-se em forte estabilidade.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "embora sejam fundamentais para a economia, as commodities têm menor valorização que os artigos manufaturados.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/2022-q48-p15-c0-0.png",
+     "pagina": 16
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    16
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 49,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "O movimento de independência da América espanhola relacionou-se intimamente aos acontecimentos internacionais, embora a luta pela independência já existisse desde 1790. (Luiz Koshiba e Denise M. F. Pereira, Américas: uma introdução histórica. Texto adaptado) Entre tais “acontecimentos internacionais”, é correto citar",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a Unificação da Itália.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o fim da União Ibérica.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "as Guerras Napoleônicas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a Guerra dos Trinta Anos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    17
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 50,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "O governo incentivou a produção de automóveis e caminhões com capitais privados, especialmente estrangeiros. Estes foram atraídos para o Brasil graças às facilidades concedidas e graças também às potencialidades do mercado brasileiro. As grandes empresas multinacionais, como a Willys Overland, a Ford, a Volkswagen e a General Motors concentraram-se no ABC paulista – área da Grande São Paulo que abrange os municípios de Santo André, São Bernardo e São Caetano –, mudando completamente a fisionomia daquela região. (Boris Fausto, História concisa do Brasil) O texto faz referência ao governo do presidente",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Getúlio Vargas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Juscelino Kubitschek.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Jânio Quadros.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "João Goulart.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    17
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  }
+ ]
+}

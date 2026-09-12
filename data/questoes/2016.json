@@ -1,0 +1,2065 @@
+{
+ "ano": 2016,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "2016.pdf",
+ "fonte_gabarito": "gabarito 2016.pdf",
+ "n_alternativas": 4,
+ "contextos": [
+  {
+   "id": "ctx-2016-03",
+   "questoes": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 03 a 07.",
+   "texto": "O leão fugido O leão fugido do circo vinha correndo pela rua quando viu um senhor à sua frente. Aí caminhou pé ante pé, bateu delicadamente nas costas do senhor e disse disfarçando a voz leonina o mais possível: “Cavalheiro, tenha cuidado e muita calma: acabei de ouvir dizer que um macaco fugiu do circo agora mesmo”. O cavalheiro, ouvindo o aviso, voltou-se, viu o leão e morreu de um ataque do coração. O leão então murmurou tristemente: “Não adianta nada. É tal a nossa fama de ferocidade que matamos, mesmo quando queremos agir em favor do próximo”. Moral: A quem nasce feroz não importa o tom de voz. (Millôr Fernandes, Fábulas Fabulosas)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2016-09",
+   "questoes": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 09 a 12.",
+   "texto": "“Aqui fazemos duas coisas importantes. Saímos do eu para trabalhar para o nós e saímos do meu para trabalhar para o nosso”, sintetizou Benedito Alves da Silva, mais conhecido por Seu Ditão, sentado sobre uma mesa de madeira baixa e grossa à frente do altar da igreja Nossa Senhora do Rosário dos Homens Pretos, no coração do bairro rural de Ivaporunduva, no município de Eldorado, em meio à maior área contínua de Mata Atlântica do país, no sudoeste paulista. À sua frente, no início da tarde do dia 11 de maio de 2015, estava um grupo de pré-adolescentes de uma escola de Uberaba, Minas Gerais, cercados por professores e monitores de camiseta laranja. “O que é meu? A casa, as roupas”, prosseguiu o homem alto de 60 anos, cabelos brancos, a pele negra lisa como se tivesse 30 anos menos. “E o que é nosso? A terra.” Seu Ditão divide o tempo entre cuidar de sua plantação de banana e hortaliças e falar de seu povo e responder às perguntas dos grupos de escolas que chegam quase todo dia. (Pesquisa Fapesp, junho de 2015. Adaptado)",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2016-13",
+   "questoes": [
+    13,
+    14
+   ],
+   "instrucao": "Leia o poema para responder às questões de números 13 e 14.",
+   "texto": "Filhos Daqui escutei quando eles chegaram rindo e correndo na sala e logo invadiram também o escritório (onde eu trabalhava) num alvoroço e rindo e correndo se foram com sua alegria se foram só então me perguntei por que não lhes dera maior atenção se há tantos e tantos anos não os via crianças já que agora estão os três com mais de trinta anos (Ferreira Gullar, Muitas vozes)",
+   "texto_na_figura": null,
+   "figuras": []
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Leia os quadrinhos a seguir. (Folha de S.Paulo, 20.09.2015) Na fala do primeiro quadrinho, a expressão “Fique de olho” significa",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estar distraído.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "permanecer junto.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "manter-se atento.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ficar a distância.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q01-p2-c0-0.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 2,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "A cada litro de etanol fabricado nas usinas, são produzidos entre 10 e 18 litros de vinhaça, um líquido de muito forte, que várias substâncias dissolvidas e suspensas. Ele é muito usado para a fertirrigação – que é a aplicação de fertilizante com água nas lavouras –, mas alguns estudos indicam que pode causar impactos ambientais, como a salinização do solo e a poluição das águas . (Jornal da Unesp, abril de 2015. Adaptado) De acordo com a norma-padrão da língua portuguesa, as lacunas do texto devem ser preenchidas, respectivamente, com:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "reziduo … odôr … contêm … subterraneas",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "resíduo … odor … contém … subterrâneas",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "rezíduo … odôr … contém … sub-terraneas",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "residuo … odor … contem … sub-terrâneas",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 3,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2016-03",
+   "enunciado": "O efeito de sentido irônico da história vem da",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "indiferença do leão com o senhor que morreu ao vê-lo.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "fuga do macaco e do leão, animais ferozes do circo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "vontade do leão de querer matar o senhor, atacando-o.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "morte do senhor, sem que fosse essa a intenção do leão.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 4,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2016-03",
+   "enunciado": "Com o trecho – Aí caminhou pé ante pé, bateu delicadamente nas costas do senhor e disse disfarçando a voz leonina o mais possível... –, entende-se que o leão",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pretendia chegar até o senhor sem lhe causar espanto, pois sabia que tinha a fama de ser um animal feroz.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "enganava o senhor para poder aproximar-se dele, pois temia ser atacado devido à sua fama de animal feroz.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "queria debochar do senhor para que este, ao vê-lo, fugisse da sua ferocidade já bastante conhecida.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "acreditava que o senhor era forte e violento e poderia atacá-lo, pois era grande a sua fama de animal feroz.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 5,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2016-03",
+   "enunciado": "Observe as passagens do texto: • ... um macaco fugiu do circo agora mesmo. • ... e morreu de um ataque do coração. Quanto ao tipo de predicado das orações e à circunstância estabelecida pelas expressões “do circo” e “de um ataque do coração”, é correto afirmar que são, respectivamente:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nominal; de modo e de causa.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "verbal; de lugar e de consequência.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "nominal; de tempo e de modo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "verbal; de lugar e de causa.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 6,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2016-03",
+   "enunciado": "Assinale a alternativa em que a reescrita da moral da história está correta quanto ao uso ou não do acento indicativo da crase e à concordância, de acordo com a norma-padrão da língua portuguesa.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As criaturas que nascem feroz não importa o tom de voz.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Às criaturas que nascem ferozes não importa o tom de voz.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "As criaturas que nasce ferozes não importam o tom de voz.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Às criaturas que nasce feroz não importam o tom de voz.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 7,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2016-03",
+   "enunciado": "No trecho da fala do leão – “É tal a nossa fama de ferocidade que matamos, mesmo quando queremos agir em favor do próximo.” –, a oração em destaque, em relação à anterior, expressa sentido de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "consequência.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "explicação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "restrição.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "conformidade.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 8,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Leia a charge. (www.otempo.com.br, 11.08.2015) Considerando-se a imagem e o diálogo entre as personagens, é correto afirmar que a charge traz uma crítica à",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "falta de apoio internacional para o combate ao ebola.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "poluição na Lagoa Rodrigo de Freitas, no Rio de Janeiro.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "realização das olimpíadas no Rio de Janeiro, em 2016.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "falta de controle da epidemia do ebola na África.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q08-p3-c0-0.png",
+     "pagina": 4
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 9,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2016-09",
+   "enunciado": "De acordo com a fala de seu Benedito, fica claro que os moradores do bairro rural de Ivaporunduva, em Eldorado-SP, optaram por",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uma concepção de vida que faz de casas e roupas, por exemplo, bens coletivos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "um modelo de vida simples, em que cada um faz o que é mais conveniente para si.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "um modo de viver bastante ultrapassado, que não desperta o interesse das pessoas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "uma forma de trabalho em que a cooperação e o espírito de coletividade prevalecem.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 10,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2016-09",
+   "enunciado": "Nas passagens – ...sintetizou Benedito Alves da Silva... – e – ... sentado sobre uma mesa de madeira baixa e grossa... – , os termos em destaque têm como antônimos, respectivamente:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "comentou – embaixo de.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "resumiu – em cima de.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "encompridou – sob.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "encurtou – ante.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 11,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2016-09",
+   "enunciado": "Na passagem – ... mais conhecido por Seu Ditão... –, o aumentativo empregado confere ao nome de seu Benedito um sentido de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "importância.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "ironia.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "humor.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "fragilidade.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 12,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2016-09",
+   "enunciado": "Assinale a alternativa em que o emprego de pronomes está em conformidade com a norma-padrão da língua.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As pessoas que vão todos os dias na casa de Seu Ditão normalmente admiram muito ele.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Seu Ditão sempre fala de coisas importantes de nosso povo para mim não esquecer.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Estando em Eldorado, as pessoas dirigem-se ao Seu Ditão e fazem-lhe muitas perguntas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "A mulher disse: “Eu até já se esqueci quantas vezes fui conversar com seu Ditão”.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 13,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2016-13",
+   "enunciado": "No poema, a passagem dos filhos pela casa, em alvoroço, faz com que o eu lírico",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tenha a percepção de que muito tempo passou e lamenta a falta de dedicação a eles.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "perceba que a vida dos filhos mudou muito e, por isso, prefere distanciar-se deles.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "reconheça que a passagem do tempo serviu para aproximar mais a todos da família.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "vivencie o desolamento que, na sua percepção, decorre da falta de atenção dos filhos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 14,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2016-13",
+   "enunciado": "Nos versos – e logo / invadiram também / o escritório –, o verbo em destaque tem a mesma predicação que o destacado em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "quando eles / chegaram rindo",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "(onde eu trabalhava)",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "se foram com sua alegria",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "não os via / crianças",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 15,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "No Brasil, embora 79% da população se contra a legalização do procedimento, a Pesquisa Nacional do Aborto indicou que o aborto é tão comum por aqui que, ao completar 40 anos, mais de uma em cada cinco mulheres já um. O que se entende é que ninguém se declara a favor de interromper uma gravidez – mas ao se obrigadas a terem um filho sem condições, milhões de mulheres procuram o procedimento. Mesmo com o risco de prisão. (Superinteressante, agosto de 2015. Adaptado) De acordo com a norma-padrão da língua portuguesa, as lacunas do texto devem ser preenchidas, correta e respectivamente, com:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "declara … fizeram … virem",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "declare … fez … verem",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "declara … fazem … verem",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "declare … faz … virem",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q15-p4-c1-0.png",
+     "pagina": 5
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 16,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Leia a notícia a seguir, veiculada na imprensa em 24 de agosto de 2015. Efeito China: bolsas de valores começam a semana com quedas A semana começou com as bolsas de valores em clima de terror. A bolsa da China continuou em queda livre e arrastou com ela as bolsas do mundo todo. (http://g1.globo.com/jornal-nacional/noticia/2015/08/efeito-chinabolsas-de-valores-comecam-semana-com-quedas.html) Analisando-se o conteúdo da notícia, é correto concluir que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "com a crise financeira, a China deve ceder a posição de segunda maior economia mundial para países mais estáveis, como o Japão.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "uma das características do mundo atual é a forte interligação econômico-financeira entre regiões e países do mundo.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a participação da China no Brics deve ser diminuída, pois os outros países do bloco foram os mais afetados pela crise chinesa.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a economia chinesa tornou-se mais fragilizada porque o país passou a reduzir os avanços da globalização.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 17,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Observe o mapa a seguir para responder à questão. (http://image.slidesharecdn.com/problemasambientais-120608140000phpapp02/95/problemas-ambientais-28-728.jpg?cb=1339164081) O fenômeno destacado no mapa é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o desmatamento das florestas temperadas e subtropicais, que, à medida que se amplia, reduz a biodiversidade.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o desmatamento do cerrado e da savana, dois tipos de vegetação fundamentais para a pecuária de corte.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a desertificação, problema ambiental que afeta países subdesenvolvidos com elevada população.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a desertificação, que, à medida que se expande, gera um problema de diminuição da produção de alimentos.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q17-p5-c0-0.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 18,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Analise a tabela a seguir para responder à questão. Porcentagem de migrantes nascidos em outro estado sobre a população total da região – 2013 Região Residentes Residentes Naturais Migrantes Nordeste 92,5 7,5 1 65,8 34,2 2 82,4 17,6 3 87,5 12,5 4 79,7 20,3 (http://msalx.almanaque.abril.com.br/2015/09/04/1656/5 Daaf/migracoes_08.jpeg?1441396630. Adaptado) Na tabela, o número 1 corresponde à região",
+   "texto_na_figura": "Região Residentes Residentes Naturais Migrantes Nordeste 92,5 7,5 1 65,8 34,2 2 82,4 17,6 3 87,5 12,5 4 79,7 20,3",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Centro-Oeste, que tem atraído maior percentual de migrantes devido à expansão das atividades agrícolas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Norte, que apresenta grande participação de migrantes devido ao crescimento das atividades extrativistas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Sudeste, que tem atraído migrantes devido à expansão da exploração de petróleo na plataforma continental.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Sul, que apresenta grande participação de migrantes devido ao crescimento das atividades industriais.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q18-p5-c1-0.png",
+     "pagina": 6
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 19,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Alguns fatos significativos levaram a transformações do mundo ocidental, a partir de meados do século XVIII. Em 1776, as colônias inglesas da América do Norte proclamaram sua independência. A partir de 1789, a Revolução Francesa pôs fim ao Antigo Regime na França. Ao mesmo tempo, ocorria na Inglaterra uma revolução silenciosa, sem data precisa, tão ou mais importante do que os fatos mencionados, que ficou conhecida como Revolução Industrial. (Boris Fausto. História do Brasil, São Paulo: Edusp, 1994. Adaptado) O texto apresenta um conjunto de fatores responsáveis",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pela partilha da África e da Oceania.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "pela crise do sistema colonial.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "pelo fim do sistema de sesmarias.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "pelo reforço do pacto colonial.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 20,
+   "materia": "Ciências Humanas",
+   "contexto_id": null,
+   "enunciado": "Observe a charge. (http://www.ibamendes.com/2011/09/ charges-politicas-da-era-vargas-iii.html) A charge destaca um momento importante da história do Brasil no século XX. Trata-se da",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "instalação do Estado Novo, em 1937, quando o Congresso Nacional foi dissolvido.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "campanha nacionalista empreendida nos anos 1950 para instalação da Petrobras.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Revolução de 1930, que pôs fim à política do “café- -com-leite” e à República Velha.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Revolução de 1932, quando os paulistas pretenderam reconquistar o controle do governo.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q20-p6-c0-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um rolo continha x metros de fio. Para fazer a instalação A, um eletricista usou uma quantidade de metros de fio igual a do total, e, em seguida, usou do número de metros de fio restantes no rolo para fazer a instalação B. Se após as duas instalações ainda restaram 9 metros de fio no rolo, então o número de metros desse fio usados na instalação A foi igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "8.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "10.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "12.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A tabela mostra o número total de alunos em cada um dos três anos de duração dos cursos (Eletrônica, Informática e Mecânica) de um Colégio Técnico, em certo período. No de alunos Ano % do total 1o ________ 38% 2o 112 ________ 3o ________ 30% Sabe-se que 42 alunos do 3o ano pretendem prestar exames vestibulares para cursar Engenharia. Desse modo, é correto afirmar que esses 42 alunos representam, do número total de alunos do terceiro ano:",
+   "texto_na_figura": "No de alunos Ano % do total 1o ________ 38% 2o 112 ________ 3o ________ 30%",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "36%",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "40%",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "44%",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "50%",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q22-p6-c1-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O Sr. Afrânio tem duas lojas, matriz e filial, abertas em anos diferentes. Há sete anos, o tempo de existência da filial era igual à metade do tempo de existência da matriz. Hoje, em 2015, a soma dos tempos de existência de ambas é igual a 50 anos. Nessas condições, é correto afirmar que a filial foi aberta no ano de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1996.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1999.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "2003.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "2008.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em certa indústria, duas máquinas iguais produzem certa quantidade de peças em uma hora. O número das mesmas máquinas necessário para produzir a mesma quantidade dessas peças em 24 minutos será igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "3.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "4.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "5.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "6.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Para um trabalho, Camila desenhou um retângulo ABCD, com área de 50 cm2, que aparece colorido na figura. Depois, decidiu diminuir o comprimento do polígono desenhado em 3 cm e aumentar sua largura em 2 cm, transformando-o em um quadrado de lado x, conforme mostra a figura. A área, em cm2, do quadrado de lado x é igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "36.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "44.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "49.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "64.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q25-p7-c0-0.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "A figura mostra uma sequência de quadrados formados com palitos de fósforos. Diana tem algumas caixas de fósforos e decidiu utilizar os palitos para formar uma sequência de 20 quadrados, conforme esquema mostrado na figura. Nessas condições, é cor reto afirmar que o número de palitos necessários para formar a sequência de 20 quadrados será",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "53.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "57.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "60.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "61.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q26-p7-c0-1.png",
+     "pagina": 8
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Considere o menor e o maior tempo, em segundos, gastos por um ciclista para completar uma volta em certa pista, durante um treinamento. Adicionando-se o triplo do menor tempo ao dobro do maior, obtêm-se 330 segundos. Se a diferença entre o maior e o menor tempo é igual a 15 segundos, então a volta mais lenta desse ciclista, nessa pista, foi completada em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1min.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1min 15s.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1min 30s.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1min 45s.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O valor numérico da expressão algébrica ax – bx + ay – by, quando x + y = e a – b = ,é igual a:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2016/2016-q28-altA.png",
+      "pagina": 9
+     }
+    },
+    {
+     "letra": "B",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2016/2016-q28-altB.png",
+      "pagina": 9
+     }
+    },
+    {
+     "letra": "C",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2016/2016-q28-altC.png",
+      "pagina": 9
+     }
+    },
+    {
+     "letra": "D",
+     "texto": "",
+     "figura": {
+      "arquivo": "data/imagens/2016/2016-q28-altD.png",
+      "pagina": 9
+     }
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [
+    {
+     "arquivo": "data/imagens/2016/2016-q28-integral-p8-c0.png",
+     "pagina": 9
+    }
+   ],
+   "paginas": [
+    9
+   ],
+   "revisar": true,
+   "motivo_revisao": [
+    "alternativa e figura",
+    "possivel formula inline perdida"
+   ],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "De uma folha retangular ABCD, foi recortada uma região triangular DEF de área igual a 75 cm2, conforme mostra a figura, cujas dimensões indicadas estão em centímetros. Se a altura do triângulo recortado, indicada por h na figura, é igual a 15 cm, então a área original da folha retangular ABCD era, em cm2, igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "290.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "325.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "350.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "385. r a s c u n h o",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q29-p8-c0-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Cirilo tinha certo capital disponível e decidiu aplicar metade desse capital por 9 meses, à taxa de juro simples de 9,6% ao ano. Sabendo que essa aplicação rendeu R$ 1.440,00 de juros, é correto afirmar que o valor total do capital que Cirilo tinha originalmente disponível para aplicação era",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 40.000,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 30.000,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 20.000,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 15.000,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Em um pacote, havia somente notas de 50 reais e notas de 100 reais, num total de 38 notas. Foram retiradas 3 notas de 100 reais, e o número de notas de 100 reais restantes no pacote passou a ser igual a do número de notas de 50 reais. Nessas condições, é correto afirmar que o valor total que havia inicialmente nesse pacote era igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 2.500,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 2.800,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 3.150,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 3.250,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Examine a figura, composta por um quadrado Q e quatro retângulos congruentes, identificados por R. A área da região quadrada Q é corretamente expressa por:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "x2 – 18x + 81",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "x2 – 81",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "x2 + 18x + 81",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "x2 + 9x + 81",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q32-p9-c0-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Uma impressora foi acionada e, funcionando sem interrupções, imprimiu todas as páginas de um trabalho. Sabe-se que após ter imprimido 30% do número total de páginas, ela gastou mais 1 minuto para atingir um número de páginas impressas igual a 70% do total. Nessas condições, é correto afirmar que, para a impressão de todas as folhas desse trabalho, essa impressora gastou",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1min 40s.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2min.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "2min 30s.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "3min.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Para a elaboração de um projeto residencial, um terreno retangular ABCD foi dividido em 4 regiões, sendo uma delas quadrada, indicada pela cor azul, e as demais retangulares. As áreas, em m2, de três dessas regiões estão indicadas na figura. Nessas condições, é correto afirmar que o perímetro do terreno ABCD, em metros, é igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "76.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "70.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "64.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "56.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q34-p10-c0-0.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Observe, na reta numérica, o número representado pela fração , em que x e y são números inteiros positivos. Nessas condições, um possível valor para a soma x + y é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "3.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "4.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "5. r a s c u n h o",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q35-p10-c0-1.png",
+     "pagina": 11
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 36,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A figura mostra um procedimento bastante comum nas áreas agrícolas brasileiras. (Consumo sustentável: manual de educação, 2005) Se o agricultor estiver aplicando um fertilizante inorgânico, essa ação pode acarretar, no rio,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uma diminuição da quantidade de nutrientes, devido ao desenvolvimento da vegetação.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "um aumento do tamanho dos peixes, devido à oxigenação da água.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "uma diminuição das áreas de assoreamento, devido à fertilidade dos solos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "um aumento dos organismos decompositores, devido à morte de peixes.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q36-p11-c0-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 37,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Leia o texto a seguir. A agricultura brasileira já foi bastante atacada pelos gafanhotos. No final dos anos 80, no Mato Grosso, havia mais de 2 milhões de hectares atacados por essa praga. O problema foi reduzido radicalmente com o isolamento e a introdução de um fungo chamado Metarhizium flavoviride, que controla a praga sem causar danos ao meio ambiente e à saúde humana. Outro exemplo de sucesso, entre dezenas de outros, é o controle da lagarta-da-soja pelo vírus chamado Baculovirus anticarsia. A aplicação do produto, contendo o vírus, provoca a morte das lagartas, evitando que, a cada safra de soja, mais de 1,4 milhão de litros de agrotóxicos sejam aplicados na cultura. (EMBRAPA, 2002. Adaptado) O texto refere-se a dois exemplos de uma tecnologia que vem sendo amplamente utilizada, denominada",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "controle biológico.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "sucessão ecológica.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "sistema de plantio direto.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "manipulação genética.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 38,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A realização de vários processos ecológicos que ocorrem na natureza depende, direta ou indiretamente, dos seres vivos e de suas relações com o meio ambiente. As florestas, por exemplo, realizam grandes serviços ambientais, que dependem da biodiversidade desses ecossistemas. Dentre esses serviços ambientais, pode-se citar:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a alteração do regime de chuvas e do clima.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a manutenção da polinização e a dispersão das sementes.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o redução do nível dos aquíferos e da água superficial.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a eliminação da variabilidade genética e da biodiversidade.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 39,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Um dos grandes problemas ambientais da atualidade é a geração, cada vez maior, de resíduos sólidos. É possível contribuir para minimizar os problemas causados pelo lixo com pequenas ações no dia a dia, como",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "comprar, preferencialmente, produtos descartáveis.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "não utilizar produtos que tenham refil.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "deixar os pneus velhos nas oficinas de troca.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "substituir os equipamentos quebrados por novos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 40,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Um mapeamento do analfabetismo científico nos EUA mostra uma situação não muito confortável para o país. Menos da metade dos americanos entende minimamente como funciona um laser e quase 40% têm dificuldades sérias para dizer o que é uma reação química. Não há dados para o Brasil. Como tanto o número médio de anos de instrução quanto o acesso a livros e jornais são mais limitados por aqui, é possível especular que os números seriam mais baixos. Questões médicas, como os limites éticos de pesquisas com células-tronco ou o uso abusivo de antibióticos, para citar dois exemplos, serão pouco compreendidos se a pessoa não entende nada de ciência. (Folha de São Paulo, 14 set. 2015. Adaptado) O analfabetismo científico pode contribuir para um indivíduo ter dificuldade de compreender as restrições existentes no Brasil para a compra de antibióticos nas farmácias, uma vez que o uso abusivo de antibióticos tem como consequência",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a ocorrência, cada vez mais numerosa, de casos de câncer.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a necessidade de restrição ao uso desses medicamentos nos hospitais.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o desenvolvimento de pesquisa voltada à implantação de terapias alternativas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o surgimento, cada vez maior, de infecções bacterianas de difícil tratamento e cura.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 41,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Hoje, em São Paulo, muitos usuários de drogas utilizam o crack por considerá-lo mais seguro, sob o ponto de vista da transmissão de doenças. Estudos do comportamento desses usuários, no entanto, têm demonstrado que essa prática pode não evitar a transmissão do vírus HIV entre os usuários, e o Ministério da Saúde implantou campanhas para coibir a transmissão de DST/ AIDS por crack. (Drogas psicotrópicas. CEBRID, 2003. Adaptado) A transmissão da AIDS entre esses usuários ocorre por meio de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "compartilhamento de seringas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "contaminação de agulhas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "contato sexual.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "transfusão sanguínea.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 42,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Apesar do desconhecimento por parte da maioria das pessoas, a substância em questão também é uma droga psicotrópica, pois atua no sistema nervoso central, provocando mudança no comportamento de quem o consome, além de ter potencial para desenvolver dependência. Embora aceito socialmente, o uso dessa substância pode ser um problema, pois são comuns os episódios de violência associados ao seu consumo excessivo. (Drogas psicotrópicas. CEBRID, 2003. Adaptado) A droga a que o texto se refere é encontrada",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em bebidas alcoólicas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "em moderadores de apetite.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "no cigarro.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "no antiansiolítico.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 43,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Vítima do fungo vassoura-de-bruxa, o cacau está ressurgindo em Ilhéus, Bahia, com promessa de gerar exportação e incentivar o ecoturismo. Um dos exemplos é a fazenda Porto Novo, que tem, entre os sócios, o geneticista Gonçalo Pereira, da Unicamp. “Fechamos negócio com dez navios neste verão para que turistas visitem a fazenda e compreendam desde a cabruca até como se faz o chocolate”. Cabrucas são plantações de cacau misturadas com árvores de mata atlântica, que refrescam o cacaueiro fazendo sombra. (Folha de São Paulo, 01 jan. 2009. Adaptado) Essa forma de plantio tornou-se um modelo agrícola que o tempo mostrou ser altamente eficiente nos cacaueiros, além de contribuir para",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o aumento da atividade agrícola mecanizada.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a redução da diversidade florestal.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a diminuição do desmatamento.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o aumento de insetos-praga.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 44,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Em locais onde o inverno é muito rigoroso, é muito comum ocorrer o congelamento dos lagos. Na realidade, apenas a camada superficial da água se congela, enquanto a parte mais profunda, embora muito fria, ainda permanece no estado líquido. Dessa forma, os seres vivos desse local conseguem sobreviver a um período crítico, como mostra a ilustração a seguir. (http://coimbra.lip.pt) Considerando que tanto a água profunda como a da superfície congelada são a mesma substância, porém em diferentes estados físicos, a razão pela qual a água no estado sólido permanece na superfície é que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "com a diminuição da temperatura, a água tem sua massa reduzida.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a água aumenta de volume ao passar do estado líquido para o sólido.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a quantidade da água no estado líquido é muito maior que a da água no estado sólido.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "nos rios e lagos, a variação de temperatura altera a massa e o volume da água.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q44-p12-c1-0.png",
+     "pagina": 13
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    13
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 45,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Em algumas transmissões de corrida de fórmula 1, é mostrado na tela da TV um medidor da “força” G, na linguagem do automobilismo. O objetivo é o de mostrar a tendência que o corpo do piloto tem de, aparentemente, por exemplo, ter seu corpo deslocado para o sentido contrário ao de uma curva. Nas ilustrações a seguir, está representado o medidor de “força” G que aparece na tela da TV, nas transmissões de corridas de fórmula 1. A bolinha da figura mostra a tendência de movimento do corpo do piloto. Quando a bolinha está no centro do medidor, como na figura I, não há aceleração. Quando há uma curva para a esquerda, figura II, por exemplo, a bolinha sai do centro e se desloca para a direita. Figura I Figura II (http://fisicamoderna.blog.uol.com.br) Sob o ponto de vista da definição newtoniana de força, ou seja, da ideia de que “força” é a ação de um corpo sobre outro, o que se chama de “força G” nada mais é do que um efeito da inércia. Assim, o efeito provocado pela “força G” pode ser definido como sendo",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a tendência que um corpo tem de permanecer parado ou em movimento retilíneo e uniforme.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a força fictícia que promove a aceleração do corpo modificando o seu movimento.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o deslocamento de corpo contrário à aplicação da força devido à ação e reação.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o produto da aceleração da gravidade de um corpo pela sua massa.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q45-p13-c0-0.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 46,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O jovem canoísta Isaquias Queiroz, de apenas 17 anos, acaba de fazer história neste domingo em Brandenburg, na Alemanha. Isaquias venceu a Final A do C1 Masculino com o tempo aproximado de 40 segundos, em vitória apertada contra o búlgaro Boyan Mihaylov e o tcheco Martin Fuksa. O resultado histórico conquistado por Isaquias Queiroz, atleta do Clube de Regatas do Flamengo, foi numa prova oficial olímpica, demonstrando que a nova geração da modalidade vem forte para os próximos anos no esporte. (http://esporte.ig.com.br. Adaptado) Considerando que a distância percorrida foi de 200 m, o atleta pode atingir com sua canoa uma velocidade, em km/h, aproximadamente, igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "12.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "18.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "30.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 47,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Como uma onda Várias propostas de obtenção de energia, utilizando os processos naturais, estão sendo feitas por todo o mundo. Tendo como inspiração uma música de Lulu Santos, uma das propostas envolve a utilização do movimento das marés ou do movimento das ondas. Os geradores utilizam o movimento das ondas para gerar energia. Uma câmara de concreto construída na margem é aberta na extremidade do mar de maneira que o nível da água dentro da câmara suba e desça a cada onda sucessiva. O ar acima da água é alternadamente comprimido e descomprimido, acionando uma turbina conectada a um gerador. Através do movimento das marés, na maré alta, a água enche o reservatório, acionando as turbinas; na maré baixa, a água esvazia o reservatório, movimentando novamente as turbinas. A ilustração a seguir indica o processo de geração de energia. (http://www.geocities.ws) Considerando que, experimentalmente, uma usina desse tipo está sendo utilizada para a iluminação pública de uma cidade, as transformações de energia observadas, nesse processo, são, pela ordem:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mecânica → luminosa → elétrica.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "mecânica → mecânica → elétrica.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "elétrica → química → luminosa.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "mecânica → elétrica → luminosa.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q47-p13-c1-0.png",
+     "pagina": 14
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    14
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 48,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "O físico inglês Isaac Newton enunciou as leis que descrevem as causas dos movimentos dos corpos. Para ele, “A chave para o entendimento dos diferentes tipos de movimentos que um corpo pode realizar está nas forças que atuam sobre ele”. Na ilustração a seguir, encontra-se, representada, uma das leis enunciadas por ele. (http://efisica.if.usp.br) De acordo com essa lei, sempre que se aplica uma força em um corpo, esta pode provocar no corpo uma mudança de velocidade – uma aceleração. Assim, é possível relacionar a força exercida em determinado corpo, com a aceleração sofrida por este. Na prática, essa lei pode ser interpretada por meio de uma linguagem comum da seguinte maneira:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "se o carrinho do supermercado estiver com pouca carga, é muito fácil fazê-lo correr, mas se o carrinho estiver com mais carga, você tem que se esforçar muito para fazê-lo andar.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "sempre que uma força for exercida sobre um corpo, este corpo exerce uma força com a mesma direção, a mesma intensidade e no mesmo sentido a essa força aplicada.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "um corpo em movimento continuará a mover-se em linha reta e sempre com a mesma velocidade, se a resultante das forças que nele atuam for nula.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "um corpo que se encontre em repouso continuará em repouso, se a resultante das forças que nele atuam for nula ou inexistente.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q48-p14-c0-0.png",
+     "pagina": 15
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 49,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "Após ser extraído da natureza, o petróleo, substância oleosa formada por uma mistura de substâncias, é transportado para as refinarias e começa a ser fracionado por meio de aquecimento em tanques apropriados, dando origem a vários subprodutos. Esse processo de separação é denominado de destilação fracionada. As principais frações obtidas por meio desse processo estão representadas na tabela a seguir, que indica as porcentagens obtidas em diferentes refinarias brasileiras. Percentual produzido na refinaria (%) Produto I II III IV Gasolina 22 21 18 32 Diesel 43 52 24 33 Óleo Combustível 18 5 9 25 Gás 10 10 9 9 Outros 7 12 40 1 (Petrobras. Adaptado) Com relação aos subprodutos obtidos pela destilação fracionada, pode-se afirmar que",
+   "texto_na_figura": "Percentual produzido na refinaria (%) Produto I II III IV Gasolina 22 21 18 32 Diesel 43 52 24 33 Óleo Combustível 18 5 9 25 Gás 10 10 9 9 Outros 7 12 40 1",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "as temperaturas de separação dos componentes são diferentes em cada refinaria.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o petróleo utilizado em cada refinaria apresenta variação quanto a sua composição.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "dependendo da necessidade, a refinaria modifica a mistura a ser fracionada.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "os subprodutos dependem da origem da mistura heterogênea do petróleo.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2016/2016-q49-p14-c1-0.png",
+     "pagina": 15
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 50,
+   "materia": "Ciências Naturais",
+   "contexto_id": null,
+   "enunciado": "A geração de energia elétrica sempre provoca algum efeito na natureza, causando os mais diferentes tipos de impactos, mas cada processo tem suas particularidades. Embora nosso potencial hídrico aponta para a utilização das usinas hidroelétricas, nos últimos anos, o Brasil tem recorrido à produção de energia por meio das usinas termelétricas, devido à crise hídrica. O uso destas usinas tem como vantagens o seu baixo custo de construção e a alta produtividade. Levando-se em conta a questão ambiental, o seu uso tem como desvantagem a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "poluição do ar, devido à produção de gases do efeito estufa e de chuva ácida.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "produção de rejeitos altamente tóxicos, devido à poluição visual de suas turbinas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "disputa do espaço do solo, devido à competição com a produção de alimentos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "dependência das condições climáticas, devido ao alto custo e ao risco de acidentes.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    15
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  }
+ ]
+}

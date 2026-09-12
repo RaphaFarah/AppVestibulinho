@@ -1,0 +1,2268 @@
+{
+ "ano": 2009,
+ "banca": "Fundação Vunesp",
+ "prova": "Conhecimentos Gerais",
+ "fonte_pdf": "VESTIBULINHO prova2009-bauru-guara.pdf",
+ "fonte_gabarito": "VEST gabarito2009-bauru-guara.pdf",
+ "n_alternativas": 5,
+ "contextos": [
+  {
+   "id": "ctx-2009-11",
+   "questoes": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "instrucao": "Leia o texto para responder às questões de números 11 a 16.",
+   "texto": "TEXTO I O caçador de maravilhas Os empresários ocidentais que viajam à China de olho nas prodigiosas riquezas que o país produz, de certa forma, refazem uma jornada ocorrida há sete séculos, quando os Polo, os irmãos Matteo e Niccolo e seu filho Marco, cruzaram a Ásia para serem acolhidos na corte do imperador Kublai Khan (neto de Gengis Khan). Pioneiros na literatura de viagem, os relatos de Marco, reunidos sob o título O livro das maravilhas, tornaram-se populares à época e contaram com leitores famosos como Colombo. Marco Polo nasceu, no século 13, provavelmente em Veneza, onde sua família era reconhecida como de grandes comerciantes. Foi educado de acordo com sua posição social. Quando o tio e o pai voltavam para a China, em uma segunda viagem, Marco integrou a comitiva. Por ser considerado um dos preferidos do imperador, tornou-se um vassalo chinês, tendo realizado várias missões. Marco descreveu a potência do império chinês: sua produção de ferro e de sal, muito superiores à da Europa. Havia, ainda, um sistema de transporte fluvial e um correio eficientes que permitiam a comunicação do imperador com seus súditos e, surpreendentemente para os venezianos, o uso de papel-moeda na economia local. Ele, seu pai e tio ficaram na China por 17 anos. De volta a Veneza, dedicou-se ao comércio, como rezava a tradição familiar, até sua morte. O livro foi lido até o século 19 apenas como diversão, quando passou a ser alvo de revisão crítica e avaliação dos conteúdos científicos. Observador atento, ele pontuou várias diferenças culturais, como, por exemplo, que o bócio apresentado por habitantes de uma região tinha origem na água consumida no local; em outra província, registrou que, quando um marido se ausentava por mais de 20 dias, era substituído por outro, com a concordância da comunidade, e ele próprio tinha o direito de relacionar-se com outras mulheres. No Tibete, após o nascimento dos bebês, as mulheres voltavam ao trabalho enquanto os homens ficavam 40 dias deitados. Há dúvidas quanto à real autoria do livro: para alguns, quem o escreveu foi o trovador Rustichello de Pisa, com quem Marco esteve preso, em Gênova, por um ano. Alguns cientistas afirmam que as histórias relatadas por Marco Polo vieram de muitos mercadores que passavam pela Pérsia; outros asseguram que a origem das histórias são as obras de um historiador judeu. Aqueles que duvidam da autoria da obra argumentam que ele não descreveu ações cotidianas dos chineses que certamente chamariam a atenção de um estrangeiro, como a importância do chá, a caligrafia, os pés enfaixados das mulheres ou mesmo a Grande Muralha. Pesquisadas as rotas, no entanto, ficou comprovado que muitas das informações são verdadeiras. Seja Marco Polo o autor ou apenas o narrador e sejam os relatos ficção, o fato é que a obra sobreviveu aos séculos e é lida com prazer até hoje. (Planeta, junho de 2008. Adaptado) 4 CTIN0802/CG-Bauru-Guara",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2009-18",
+   "questoes": [
+    18,
+    19
+   ],
+   "instrucao": "prisioneiros? – para responder às questões de números 18 e 19.",
+   "texto": "",
+   "texto_na_figura": null,
+   "figuras": []
+  },
+  {
+   "id": "ctx-2009-21",
+   "questoes": [
+    21,
+    22,
+    23
+   ],
+   "instrucao": "Leia a tirinha para responder às questões de números 21 a 23.",
+   "texto": "(R. Goscinny e A. Uderzo. A odisséia de Asterix)",
+   "texto_na_figura": null,
+   "figuras": []
+  }
+ ],
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "José Manuel é fumante e jurou para si mesmo parar de fumar. Como ninguém é de ferro, decidiu fumar os últimos 81 cigarros que tinha em casa, um por dia. Entretanto, José Manuel logo descobriu que, unindo três tocos desses cigarros com uma fita adesiva, fazia outro cigarro. Dessa forma, sem quebrar seu juramento, José Manuel foi repetindo esse processo da união dos tocos e abandonou definitivamente o cigarro depois de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "81 dias.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "96 dias.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "100 dias.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "121 dias.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "127 dias.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    2
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um vagão de um trem de carga tem a seguinte capacidade: ou carrega 400 sacos de trigo, ou carrega 3 200 caixas de sapato. Se dentro desse vagão já estão 256 sacos de trigo, então ainda há espaço suficiente para uma quantidade de caixas de sapato igual a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "990.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1 080.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "1 152.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "1 245.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "1 280.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    2
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Joaquim navegava na Internet quando se deparou com a seguinte informação: o conta-giros de qualquer veículo contabiliza o espaço percorrido pelo veículo a partir do número de voltas que uma roda dá. O espaço é calculado com base nas medidas dos pneus de origem do carro. A figura a seguir foi encontrada por Joaquim no manual do carro de seu pai. Se necessário, usar π ≈ 3,14. Entusiasmado com essa descoberta e depois de alguns cálculos, Joaquim disse a um amigo: “por semana, cada roda do carro do meu pai dá 19 905 voltas para me levar à escola e me trazer de volta para casa”. Se Joaquim tem aulas de 2.ª-feira a 6.ª-feira e o percurso de ida para a escola tem 2 km a mais do que o de volta para casa, então a distância percorrida diariamente pelo carro do pai de Joaquim somente no percurso de casa para a escola, em km, é, aproximadamente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "4.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "6.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "8.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "10.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "12.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/2009-q03-p1-c0-0.png",
+     "pagina": 2
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    2
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "O dono de uma pequena loja de eletrônicos comprou alguns DVDs players por R$ 2.880,00 e vendeu-os por R$ 320,00 cada um. Se o que ele ganhou com a venda de todos os DVDs players é equivalente ao custo de quatro desses aparelhos, então cada DVD player custou",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "R$ 260,00.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "R$ 255,00.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "R$ 250,00.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "R$ 245,00.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "R$ 240,00.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    2
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Provavelmente, você já reparou que, pouco tempo depois de acender uma vela, a sua chama parece ficar imóvel. O gráfico corresponde aos resultados de uma experiência, feita com a vela cilíndrica da fotografia, para observar a variação da altura da chama, em função do tempo decorrido após a vela ter sido acesa. No momento em que se tirou a fotografia, a chama da vela tinha 42 mm de altura. O número mínimo de minutos que podem ter decorrido, desde o momento em que se acendeu a vela até o momento em que a fotografia foi tirada, é de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "10.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "15.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "20.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "25.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/2009-q05-p1-c1-0.png",
+     "pagina": 2
+    },
+    {
+     "arquivo": "data/imagens/2009/2009-q05-p1-c1-1.png",
+     "pagina": 2
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    2
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Na figura, está representado um projeto de uma escultura constituída por uma esfera e um cubo. A esfera vai ser fixada no centro da face superior do cubo, cuja aresta será de 1 metro. A altura total da escultura será de 3,4 metros. Dados: V = 4/3πr3 (volume da esfera); considerar nos cálculos intermediários, inclusive para π, arredondamento para uma casa decimal. Se tanto o cubo quanto a esfera da escultura serão preenchidos com um tipo de concreto, então o volume desse material, em m3, que será gasto para encher o molde da escultura é, aproximadamente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "9,5.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "9,0.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "8,5.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "8,0.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "7,5.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/2009-q06-p2-c0-0.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": true,
+   "correta": null
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "João pretende construir um prisma hexagonal de acordo com a planificação seguinte. O número de vértices, arestas e faces desse prisma é, respectivamente,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "22, 17, 8.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "18, 17, 8.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "16, 17, 8.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "14, 18, 8.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "12, 18, 8.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/2009-q07-p2-c0-1.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um dono de restaurante quer combinar 4 variedades de um total de 7 hortaliças para criar um cardápio semanal de saladas. A quantidade de tipos diferentes de saladas que comporão o cardápio semanal do restaurante é de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "35.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "34.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "33.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "32.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "31.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Sempre que se liga o computador, uma lâmpada, a televisão ou o chuveiro elétrico está-se consumindo energia elétrica. A quantidade de energia elétrica consumida (E), em quilowatt-hora (kWh), é dada pela fórmula E = P . t, em que P é a potência medida em quilowatt (kW), e t é o tempo de utilização, medido em horas (h). Na casa de Pedro, os vários televisores ficam ligados, em média, 6 horas por dia. A sua família costuma desligá-los através do controle remoto e deixá-los no modo stand-by ou estado de prontidão, o que reduz para 64 W a potência total deles. A quantidade de energia elétrica que a família de Pedro pouparia mensalmente, se os desligassem das tomadas, equivaleria, aproximadamente, ao consumo de uma lâmpada incandescente de 90 W acesa ininterruptamente durante",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15 dias.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "16 dias.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "17 dias.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "18 dias.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "19 dias.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "contexto_id": null,
+   "enunciado": "Um poste que seria preparado para a fiação amanheceu partido, provavelmente pela trombada de um veículo desconhecido, como mostra a figura. Dados: sen25° ≈ 0,42, cos25° ≈ 0,91 e tg25° ≈ 0,47. Se a extremidade superior do poste ficou a 7 m da base e a parte caída faz um ângulo de 25° com o chão, então a altura aproximada do poste antes de ser partido era, em metros,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "11.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "10.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "9.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "8.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "7.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/2009-q10-p2-c1-0.png",
+     "pagina": 3
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    3
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 11,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2009-11",
+   "enunciado": "De acordo com o artigo transcrito, os relatos de O livro das maravilhas",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "são aceitos, sem discordância quanto à sua autoria e veracidade.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "comprovadamente não são de Marco Polo, e sim de um trovador italiano.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "independentemente da autoria, descrevem rotas, costumes e características de povos, nas terras orientais.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "têm comprovada a autoria de Marco Polo, não restando dúvida quanto à veracidade dos relatos.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "são produto inconteste de relatos de muitos mercadores persas, conhecidos de Marco Polo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 12,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2009-11",
+   "enunciado": "Com base na leitura do texto, é possível afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "as rotas de comércio estabelecidas entre a Europa e o Oriente, no século 13, são fictícias.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Marco Polo registrou diferenças culturais entre os locais por onde as missões comerciais passavam.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a ausência de traços culturais próprios da China teve pouco valor na discussão quanto à autoria dos relatos de Polo.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "os Polo desprezaram a cultura do império chinês, já que era muito semelhante à européia.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "os relatos de Marco Polo ficaram desconhecidos até o século 20, quando cientistas os divulgaram para descredenciá-los como verdadeiros.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 13,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2009-11",
+   "enunciado": "Na frase – Desde então dedicou-se ao comércio, como rezava a tradição familiar – o significado de rezava está expresso na alternativa:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A comunidade rezava para a padroeira da cidade, em procissão.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Rezava em silêncio, com olhos súplices para a imagem da devoção.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "A demente percorria as ruas e rezava palavras incompreensíveis.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Conforme rezava a lenda do conde Drácula, seus súditos eram mortos-vivos.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "O padre rezava a missa, ajudado por fiéis coroinhas.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 14,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2009-11",
+   "enunciado": "O título – O caçador de maravilhas – relaciona-se significativamente com todo o texto porque",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "se refere aos safáris praticados pelos europeus.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "se refere à prática da caça pelos europeus em terras orientais.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "identifica a atividade de Polo, nas missões para as quais o imperador chinês o designou.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "denota o olhar de indiferença do europeu em relação ao mundo chinês.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "remete à expectativa do europeu em terras estrangeiras.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    4
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 15,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2009-11",
+   "enunciado": "Leia as afirmações. I. As palavras século e científico são acentuadas graficamente pela mesma razão. II. Na frase – Há dúvidas quanto à real autoria do livro: para alguns, quem o escreveu foi o trovador... – o pronome o, em destaque, refere-se à palavra livro. III. Na frase – Pesquisadas as rotas, no entanto, ficou comprovado que muitas das informações são verdadeiras. – a expressão no entanto pode ser substituída, sem alteração de sentido à frase, por entretanto. Está correto o que se afirma em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "II, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "III, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "I e II, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III. O texto serve de base para as questões de números 16 a 20. TEXTO II O jovem Sexta-Feira, meu novo amigo, estranhou muito os alimentos civilizados. Quando salguei a carne, ele a cuspiu, enojado. Eu peguei um pedaço de carne crua e também a cuspi, mostrando com isso que tínhamos jeitos diferentes de apreciar o alimento. Mas o rapaz gostou muito de pão e aos poucos também apreciou a carne assada e salgada. Quando seu inglês melhorou, perguntei a Sexta-Feira de onde ele vinha e quem era seu povo. Disse que seu povo era valente e jamais se rendia. – Diga-me, Sexta-feira, vocês também comem os prisioneiros? – Sim, sim, comer todos os prisioneiros! Eu comer um, dois, três... Foi difícil para minha alma entender como aquele rapaz gentil podia aprovar uma prática de tal selvageria. Aos poucos, fui-lhe explicando sobre Deus e as leis da religião cristã. (Daniel Defoe. Robinson Crusoé, Adaptado)",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 16,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2009-11",
+   "enunciado": "Assinale a alternativa que traduz o assunto comum entre os textos I e II.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As diferenças culturais entre os povos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "A superioridade da cultura européia sobre os povos contatados.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "A superioridade das culturas estrangeiras sobre a cultura dos europeus.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "O comportamento dos povos em comunicação não se altera a partir do contato entre culturas diferentes.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Tanto o Oriente, representado pelo povo chinês, como os indígenas, representados por Sexta-Feira, desvalorizam o contato com o europeu.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 17,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Sobre a frase – Sim, sim, comer todos os prisioneiros. Eu comer um, dois, três... – dita por Sexta-Feira, pode-se dizer que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sua fala está de acordo com as regras da língua escrita.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "sua forma de expressão impediu que Robinson Crusoé o compreendesse.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "as marcas da oralidade denunciam a dificuldade de o indígena se comunicar em consonância com as normas gramaticais.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "impede que os leitores compreendam a fala de Sexta- Feira.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Robinson Crusoé ensinou o indígena a se comunicar de forma equivocada. Considere a frase – Diga-me, Sexta-Feira, vocês também comem os",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 18,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2009-18",
+   "enunciado": "A pergunta está feita da forma direta. Passando-se essa pergunta para o discurso indireto, tem-se:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Robinson Crusoé perguntou: “Vocês também comem os prisioneiros?”",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Sexta-Feira respondeu que eles comem os prisioneiros.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Robinson disse a Sexta-Feira – Comiam também os prisioneiros?",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Robinson Crusoé perguntou se a tribo de Sexta-Feira também comia os prisioneiros.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Seriam os prisioneiros também comidos pela tribo?",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 19,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2009-18",
+   "enunciado": "Assinale a alternativa em que se emprega a vírgula pela mesma razão que na frase dada.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nos séculos em que ocorreram as Grandes Navegações, o comércio era intenso.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "As pessoas, no inverno, sentem mais fome que em outras estações do ano.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "O Brasil, grande produtor de soja, exporta para muitos países.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Machado de Assis, carioca de nascimento, viveu no século 19.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "A professora exigiu: Comente, José, a influência do efeito estufa sobre a qualidade de vida na Terra.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 20,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "O antônimo de selvageria em – ... como aquele rapaz gentil podia aprovar uma prática de tal selvageria. – é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "rusticidade.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "descortesia.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "civilidade.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "grosseria.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "ferocidade.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    5
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 21,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2009-21",
+   "enunciado": "O humor do 2.º quadrinho resulta da",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ignorância do judeu a respeito do que era javali.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "pretensa definição técnico-científica de javali, apresentada por Obelix.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "concordância dos outros dois personagens em relação à definição apresentada.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "ansiedade do judeu em comer javali, comprovada pelo 3.º quadrinho.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "pergunta feita pelo judeu como despiste para não oferecer javali aos convidados.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 22,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2009-21",
+   "enunciado": "Quanto aos tipos de texto, a tirinha",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "compõe-se de elementos próprios da narrativa, como a presença de personagens.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "é um exemplo de dissertação.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "apresenta em todos os quadrinhos uma linguagem própria da descrição.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "traz um encadeamento argumentativo próprio da modalidade dissertativa.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "pode ser classificada como um texto de publicidade, já que faz propaganda do javali.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 23,
+   "materia": "Língua Portuguesa",
+   "contexto_id": "ctx-2009-21",
+   "enunciado": "Na frase – ... mesmo as outras carnes, se não fossem Kosher, eu não comia! (3.º quadrinho) – o tempo verbal comia é característico do registro oral, em situações de informalidade. Segundo as normas gramaticais, que regem a escrita, a forma apropriada é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "... eu não comerei.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "... eu não comera.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "... eu não tinha comido.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "... eu não comeria.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "... eu não tenha comido.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 24,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Quanto à concordância verbal e nominal, está correto:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "No século 20, houveram duas Grandes Guerras Mundiais.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Chegou as novidades nos mercado eletrônico.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Sua Santidade, o papa Bento XVI, tem se mostrado bastante conservadora.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Fazem décadas que ocorreu o retorno de soldados americanos do Vietnã.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Publicam-se revistas dedicadas ao público adolescente. As frases que se seguem pertencem ao mundo da propaganda: Se beber, não dirija. Se dirigir, não beba.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 25,
+   "materia": "Língua Portuguesa",
+   "contexto_id": null,
+   "enunciado": "Assinale a alternativa correta quanto à sua significação.",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A primeira frase enfatiza o perigo da bebida no volante e a segunda, a responsabilidade do dirigir.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "A primeira frase diminui a importância da bebida em relação ao trânsito e a segunda, sua direta relação como causa de acidentes.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Ambas as frases desvinculam a relação entre bebida e direção responsável.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Em ambas as frases, as negativas funcionam com valor afirmativo.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Os “se”, do início de cada frase, atribuem à ação um valor de certeza.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    6
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 26,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Um automóvel encontra-se a uma velocidade de 72 km/h. Para que ele possa reduzir sua velocidade à metade num trecho de 15 m, com aceleração constante, o tempo necessário, em segundos, deverá ser de",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "3.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "4.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "5.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 27,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Dois corpos, A e B, de massas MA e MB tal que MB > MA estão ligados por um fio ideal que passa por uma polia, também ideal, conforme a figura. Embora o sistema se movimente, entre o corpo A e o apoio há atrito, cujo coeficiente é μ. Considerando a aceleração da gravidade igual a g, a aceleração do sistema vale",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "(MB + μ. MA).g / (MA + MB).",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "(MB + MA) .μ.g / (MA + MB).",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "(MB – μ. MA).g / (MA + MB).",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "(MB – μ. MA).g / (MA – MB).",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "(MB – MA) .μ.g / (MB – MA).",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/2009-q27-p6-c0-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 28,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Duas cargas elétricas negativas estão separadas por uma distância d, no vácuo, com uma força de repulsão F. A nova força F’ entre elas, quando a distância que as separa cair pela metade será, em relação a F,",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "quatro vezes menor.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "duas vezes maior.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "igual.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "duas vezes menor.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "quatro vezes maior.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 29,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Considere uma onda mecânica do tipo transversal. As partículas pertencentes a essa onda",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realizam movimento uniforme.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "movem-se numa direção perpendicular à direção de propagação da onda.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "movem-se numa direção paralela à direção de propagação da onda.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "realizam movimento circular.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "não se movimentam.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 30,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Dez gramas de gelo encontram-se a –10 ºC em um calorímetro ideal. O total de calorias que o gelo deve receber para se fundir totalmente é Dados: cgelo = 0,5 cal/g.ºC Lf = 80 cal/g",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "600.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "650.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "800.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "850.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "900. QUÍMICA",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 31,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Ao nível do mar a pressão de 1 atm, foram medidos os pontos de fusão e ebulição de três materiais designados pelas letras X, Y e Z. Os resultados foram transferidos para a tabela esquematizada a seguir P.F (oC) P.E (oC) Material X –160 –25 Y –15 10 Z 50 300 Dentre os materiais especificados, a alternativa que indica qual deles se encontra no estado gasoso quando, num dia quente, a temperatura, medida por um termômetro, é de 38 ºC, é",
+   "texto_na_figura": "P.F (oC) P.E (oC) Material X –160 –25 Y –15 10 Z 50 300",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "X, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Y, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Z, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "X e Y, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Y e Z, apenas.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/2009-q31-p6-c1-0.png",
+     "pagina": 7
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 32,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Nos anos 80, a indústria despertou o seu interesse no uso de películas delgadas de compostos de índio (49In) e estanho (50Sn) para o desenvolvimento de telas de cristais líquidos (LCD). Em relação a esses elementos foram feitas algumas afirmações: I. para adquirirem estabilidade devem perder elétrons transformando-se em um íon negativo; II. o elemento estanho encontra-se no grupo 14 da tabela periódica; III. situam-se no quinto período da tabela periódica; IV. possuem propriedades semelhantes, pois pertencem ao mesmo grupo da tabela periódica. As afirmativas verdadeiras são as indicadas apenas em:",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "III.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "I e III.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "II e III.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "III e IV.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "II, III e IV.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    7
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 33,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "A conservação de alimentos visa preservá-los, ao longo do tempo, com o objetivo de evitar a deterioração. Os métodos de conservação podem, por exemplo, ser refrigeração, desidratação, cozimento ou adição de substâncias químicas. Levando-se em conta esses métodos, é correto afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "na conservação de peixes, do tipo bacalhau, pode-se empregar o sal de cozinha que irá deixá-lo hidratado, dificultando a ação de microrganismos.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o uso de altas temperaturas favorece a ação das enzimas responsáveis por reduzir a velocidade de reprodução dos microrganismos.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o frio reduz a velocidade de reprodução dos microrganismos, impedindo que se proliferem nos alimentos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "nos alimentos industrializados são adicionados aditivos químicos, como aromatizantes, que ativam a ação das enzimas, dificultando a ação dos microrganismos.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "a desidratação reduz a quantidade de água no interior do alimento, facilitando a ação dos microrganismos.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 34,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Devido à curiosidade, o ser humano aprendeu a produzir e a manter o fogo e, a partir desse momento, começou a transformar o que encontrava na natureza. O fogo foi também utilizado para a produção de ligas metálicas, quando, por exemplo, misturava-se minério de cobre ao minério de estanho, ocorrendo a formação de um material marrom, brilhante, que era utilizado na fabricação de armaduras e lanças. Considerando a importância dos metais, o nome do período da Pré-História relacionado ao processo descrito é",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Idade do Ferro.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "Idade do Bronze.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "Idade do Carvão.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "Idade do Cobre.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "Idade da Pedra.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 35,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Nas plantas, o gás carbônico e a água convertem-se em glicose pela interferência da luz solar. Considerando-se essas informações, foram feitas as seguintes afirmativas: I. o gás carbônico e a água são formas químicas que deixam de existir com a transformação em glicose; II. as plantas transformam a energia luminosa em energia química por meio da fotossíntese; III. a luz solar é uma forma de energia. Está correto o contido em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "II, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "III, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "I e III, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 36,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Um dos problemas ambientais mais discutidos atualmente é o aquecimento global. Seu principal causador é o aumento da quantidade de substâncias – como o gás carbônico – na atmosfera, as quais formam uma espécie de “cobertor” sobre o planeta, o que evita que parte dos raios infravermelhos do sol retorne ao espaço, elevando a temperatura da Terra. Os cientistas já registraram diversos efeitos sobre o planeta diretamente relacionados ao aumento da quantidade de gás carbônico na atmosfera e à elevação das temperaturas médias. Entre esses efeitos, pode-se citar: I. o aumento da acidez dos oceanos, responsável por afetar a sobrevivência de diversas espécies marinhas; II. o aumento no número de casos de câncer de pele, uma vez que os raios infravermelhos são cancerígenos; III. a elevação do nível dos oceanos devido ao derretimento das geleiras. Está correto o contido apenas em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "III.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "I e II.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "I e III.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "II e III.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 37,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "As pílulas anticoncepcional e do dia seguinte são métodos contraceptivos destinados unicamente ao público feminino. Sobre a pílula anticoncepcional e a do dia seguinte, pode-se afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a primeira deve ser tomada logo após o ato sexual e a segunda deve ser tomada diariamente.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a primeira deve ser tomada regularmente e a segunda deve ser utilizada somente em casos emergenciais.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "ambas são consideradas métodos contraceptivos de emergência e devem ser tomadas, por exemplo, em caso de estupro ou quando o preservativo estoura.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "somente a primeira é capaz de prevenir a transmissão de doenças sexualmente transmissíveis.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "ambas previnem a gravidez com 100% de eficácia, porém, podem causar inúmeros efeitos colaterais.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    8
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 38,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Observe o gráfico a seguir. Um grupo de excursionistas especializado em escaladas de altas montanhas analisou o gráfico e, baseando-se em suas informações e em seus conhecimentos sobre os sistemas respiratório e cardiovascular, chegou às seguintes conclusões: I. durante a escalada, uma das reações do nosso corpo pode ser a bradicardia, ou seja, redução da freqüência cardíaca desencadeada pela baixa disponibilidade de gás oxigênio; II. à medida que a altitude aumenta, nosso organismo reage aumentando a produção de hemácias; III. à medida que a altitude aumenta, nossa freqüência respiratória aumenta, a fim de aumentar a quantidade de gás oxigênio capturado pelas hemácias; IV. a 6 000 metros, a pressão do gás oxigênio cai mais de 50%, enquanto que a porcentagem de gás oxigênio no sangue é, aproximadamente, apenas 25% menor que ao nível do mar. Está correto o contido em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "III e IV, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "I, II e III, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "I, III e IV, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "II, III e IV, apenas.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "I, II, III e IV.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/2009-q38-p8-c0-0.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 39,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "OS SIRIS DE CUBATÃO Uma pessoa de 60 kg que more na cidade de Cubatão (São Paulo) e coma 100 g de siri por dia estará ingerindo nessa refeição, além dos nutrientes presentes no crustáceo, 27% do cádmio, 50% do cobre, 56% do chumbo, 2,5% do zinco e 7% do cromo que seu corpo pode receber diariamente. Todos esses elementos são metais pesados que podem causar grandes danos à saúde se consumidos em excesso. Os siris são um recurso importante na alimentação da população mais pobre da região. Os níveis dos metais pesados encontrados nos siris estão abaixo dos valores máximos estabelecidos, mas é importante notar que as pessoas também comem outros alimentos que podem estar contaminados, como peixes. (Revista Ciência Hoje, vol. 42, maio de 2008) Observe a teia alimentar a seguir: Baseando-se no texto e na teia alimentar apresentada, assinale a alternativa que preenche corretamente os dados da tabela a seguir. Número de níveis Número de níveis Ser vivo com maior nível tróficos a que tróficos a que de metais pesados em pertence o siri pertence o ser seu organismo após certo humano tempo",
+   "texto_na_figura": "Número de níveis Número de níveis Ser vivo com maior nível tróficos a que tróficos a que de metais pesados em pertence o siri pertence o ser seu organismo após certo humano tempo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 1 Siri",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "2 2 Peixe",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "2 2 Ser humano",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "3 3 Siri",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "3 3 Ser humano",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/2009-q39-p8-c1-0.png",
+     "pagina": 9
+    },
+    {
+     "arquivo": "data/imagens/2009/2009-q39-p8-c1-1.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 40,
+   "materia": "Ciências",
+   "contexto_id": null,
+   "enunciado": "Observe e analise o gráfico a seguir. (SUS, MS, 2006) De acordo com os dados fornecidos sobre a malária na Amazônia Legal, pode-se afirmar que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o número de óbitos (mortes) pela malária foi o menor no ano de 2003.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "o ano de 1999 foi o que apresentou maior número de casos de contágio pelo Trypanossoma cruzi.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "nos anos apresentados, em média, foram registrados mais de 500 mil casos da doença na Amazônia Legal.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "a campanha para erradicar o mosquito vetor da malária, o Aedes aegypti, foi melhor sucedida no ano de 2003.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "o vetor da malária é endêmico da região da Amazônia Legal.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/2009-q40-p8-c1-2.png",
+     "pagina": 9
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    9
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 41,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "Dentre os processos históricos determinantes para a atual configuração da geografia política mundial pode-se destacar",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a dissolução da União Soviética em 1991, encerrando o período da Guerra Fria e a ordem mundial baseada na bipolaridade.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a formação do NAFTA em 1994, que foi o primeiro bloco econômico regional e que inaugurou o período da economia globalizada.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o surgimento do 4.º Mundo na década de 1990, organização formada por países contrários à hegemonia econômica do 1.º e 2.º mundos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o início dos conflitos entre israelenses e palestinos em 1993, dividindo o mundo entre países cristãos e países muçulmanos.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "a ascensão dos países emergentes na década de 1980, cujas economias eram baseadas na exportação de bens primários.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 42,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "Com o fim da Segunda Grande Guerra Mundial, o mundo passou a viver um período denominado Guerra Fria que se caracterizou por uma profunda hostilidade entre as duas grandes potências da época. Um dos fatos marcantes desse período foi",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a prática da política da Perestroika que tinha como objetivo manter unidas as nações comunistas liberadas pela União Soviética.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "a formação de blocos econômicos como o Nafta e o Mercosul, que visavam ao fortalecimento do sistema capitalista.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a criação da Otan (Organização do Tratado do Atlântico Norte), uma organização militar internacional liderada pelos Estados Unidos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "o abandono da Glasnost, conjunto de reformas econômicas colocadas em prática para a recuperação econômica dos países afetados pela guerra.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "a adoção de uma divisão do globo em Norte e Sul, que substituiu a antiga divisão em Primeiro, Segundo e Terceiro Mundo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 43,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "Entre os múltiplos fatores responsáveis pela eclosão da Crise de 29, nos EUA, muitos economistas destacam o grande aumento dos estoques de mercadorias. Uma das principais causas explicativas desse processo diz respeito",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ao exagerado consumismo da população norte-americana, somado ao grande êxito das campanhas publicitárias que induziam o trabalhador às compras.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "ao descompasso entre o acelerado crescimento da produtividade e a modesta expansão do consumo interno, fruto da forte concentração da renda que caracterizava aquela sociedade.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "à profunda recessão em que mergulhou a economia norteamericana após a 1.ª Guerra Mundial, fruto das enormes perdas econômicas causadas pela participação dos EUA no conflito.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à crença de que o crescimento capitalista era temporário e ilusório e que os efeitos do socialismo soviético se espalhariam pelo mundo em um rápido intervalo de tempo.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "à crise do petróleo, gerada a partir da significativa redução da produção pelos países membros da OPEP, como represália à participação dos EUA na 1.ª Guerra Mundial.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  },
+  {
+   "numero": 44,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "Tomando por base os dados apresentados pela tabela, é possível concluir que INGRESSO DE ANO ESCRAVOS NO BRASIL 1846 50.324 1847 56.172 1848 60.000 1849 54.000 1850 23.000 1851 3.287 1852 700 (Sérgio Buarque de Holanda. Raízes do Brasil)",
+   "texto_na_figura": "INGRESSO DE ANO ESCRAVOS NO BRASIL 1846 50.324 1847 56.172 1848 60.000 1849 54.000 1850 23.000 1851 3.287 1852 700",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o ingresso maciço de escravos no Brasil foi interrompido após o ano de 1850, quando o governo brasileiro cedeu à pressão inglesa e decretou a lei Eusébio de Queirós.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "não houve modificação significativa quanto à entrada de novos escravos no Brasil, pois as leis restritivas ao tráfico negreiro foram ignoradas pela elite escravocrata durante todo o império.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "o ingresso de novos escravos no Brasil foi sempre crescente entre os anos de 1846 e 1849 e decrescente entre os anos de 1850 e 1852, o que demonstra a grande eficiência das leis abolicionistas.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "somente a partir de 1851 é que houve uma redução significativa do número de escravos que ingressaram no Brasil, o que aponta para o pequeno compromisso do governo republicano com a causa abolicionista.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "ao longo do período em questão, o ingresso de escravos no Brasil foi sempre decrescente, fruto do desenvolvimento das relações capitalistas de produção tanto na Europa, quanto na América.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/2009-q44-p9-c1-0.png",
+     "pagina": 10
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "A"
+  },
+  {
+   "numero": 45,
+   "materia": "História",
+   "contexto_id": null,
+   "enunciado": "Ao assumir a presidência da República, em 1956, Juscelino Kubitschek pôs em prática o Plano de Metas, responsável pela grande dinamização da economia, dando ênfase à",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "indústria de bens de consumo não duráveis, com destaque para os setores alimentício e siderúrgico.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "agricultura de subsistência, fruto da realização de um projeto efetivo de reforma agrária.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "retomada do modelo agroexportador, abandonado desde a década de 1930 com a crise do café.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "indústria de bens de consumo duráveis, com destaque para o setor automobilístico.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "abertura do país ao capital externo, a partir da privatização dos setores de energia e telecomunicações.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    10
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 46,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "Em 2007, o mundo passou a contar com 50% da população urbana, índice nunca antes atingido em toda a história da humanidade. Uma característica dessa urbanização é a",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "transformação das capitais dos países desenvolvidos em megalópoles, cidades que concentram mais de 10 milhões de habitantes.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "dimimuição da atividade industrial nas cidades, medida adotada para reduzir os níveis de poluição nas áreas urbanas.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "melhoria generalizada das condições de vida da população, pois as áreas urbanas promovem melhor distribuição de renda.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "rapidez como ocorre o processo nas áreas subdesenvolvidas, principalmente, da África e Sul da Ásia.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "pequena contribuição do êxodo rural, pois o atual aumento da população urbana resulta, sobretudo, do crescimento vegetativo.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 47,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "Leia a letra da música para responder à questão. Parabolicamará Gilberto Gil Antes mundo era pequeno Porque Terra era grande Hoje mundo é muito grande Porque Terra é pequena Do tamanho da antena parabolicamará A interpretação geográfica para a letra dessa música revela que",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o crescimento demográfico explosivo da humanidade ao longo do século XX ameaça o futuro do planeta, pois não cabem tantas pessoas na Terra.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "no final do século XX, a geografia escolar começou a ser substituída pelas informações transmitidas pelos meios de comunicação de massa.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "a crescente integração econômica entre os países provocou uma enorme distância econômica e social entre os países desenvolvidos e subdesenvolvidos.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "no século XX, as tecnologias das comunicações modernas ampliaram os limites do espaço geográfico, integrando os lugares mais distantes do globo.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "nas últimas décadas, o avanço tecnológico no setor agropecuário conseguiu promover a ocupação das regiões tropicais, a última fronteira da expansão humana.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "D"
+  },
+  {
+   "numero": 48,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "É evidente a hegemonia econômica deste país no interior do bloco comercial: 1. A população, na casa dos 200 milhões de habitantes, é muito maior que a de todos os outros membros somados. 2. O PIB é de quase US$ 800 bilhões, mais que o dobro do 2.º membro mais rico. 3. O parque industrial é diversificado, em contraste com outros membros de fraca industrialização interna. 4. Além do comércio intra-bloco, participa do comércio mundial como grande exportador de commodities, como minério-de-ferro e soja. A descrição refere-se",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "à Coréia do Sul na APEC.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "aos Estados Unidos no NAFTA.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "à França na União Européia.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "à Arábia Saudita na OPEP.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "ao Brasil no Mercosul. Considere as figuras e o mapa a seguir para responder à questão. A B",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "E"
+  },
+  {
+   "numero": 49,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "As paisagens vegetais A e B são encontradas, respectivamente, em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 e 2.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "1 e 3.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "2 e 3.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "2 e 4.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "3 e 4.",
+     "figura": null
+    }
+   ],
+   "figuras": [],
+   "recorte_integral": [],
+   "paginas": [
+    11
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "C"
+  },
+  {
+   "numero": 50,
+   "materia": "Geografia",
+   "contexto_id": null,
+   "enunciado": "Considere o mapa a seguir e as afirmações sobre a bacia hidrográfica destacada para responder à questão. I. O rio principal é perene, mesmo atravessando uma área onde predomina o clima semi-árido. II. Como abrange uma região de economia estagnada, os rios desta bacia não são aproveitados para a geração de energia elétrica. III. No médio curso do rio principal existem projetos agropecuários que se utilizam de suas águas para a irrigação. IV. É utilizado como hidrovia para o escoamento da produção agropecuária do interior para o litoral, principalmente a soja. Está correto o que se afirma apenas em",
+   "texto_na_figura": null,
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II.",
+     "figura": null
+    },
+    {
+     "letra": "B",
+     "texto": "I e III.",
+     "figura": null
+    },
+    {
+     "letra": "C",
+     "texto": "II e III.",
+     "figura": null
+    },
+    {
+     "letra": "D",
+     "texto": "II e IV.",
+     "figura": null
+    },
+    {
+     "letra": "E",
+     "texto": "III e IV.",
+     "figura": null
+    }
+   ],
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/2009-q50-p11-c0-0.png",
+     "pagina": 12
+    }
+   ],
+   "recorte_integral": [],
+   "paginas": [
+    12
+   ],
+   "revisar": false,
+   "motivo_revisao": [],
+   "anulada": false,
+   "correta": "B"
+  }
+ ]
+}
