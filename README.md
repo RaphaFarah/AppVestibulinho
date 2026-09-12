@@ -1,10 +1,61 @@
-# AppVestibulinho — banco de questões
+# AppVestibulinho
 
-Banco de questões extraído das provas de Conhecimentos Gerais do **Vestibulinho
-ETEC / COOTEC** (Fundação Vunesp), para servir de base a provas simuladas.
+PWA de provas simuladas com questões reais do **Vestibulinho ETEC / COOTEC**
+(Fundação Vunesp), extraídas das provas de Conhecimentos Gerais de 2008 a 2022.
 
-**650 questões** de 13 provas (2008–2016, 2019–2022), com gabarito, alternativas,
-matéria, textos compartilhados e figuras vinculadas.
+**650 questões** de 13 provas, com gabarito, alternativas, matéria, textos
+compartilhados e figuras vinculadas.
+
+## Stack
+
+| Camada | Escolha | Onde |
+|---|---|---|
+| Frontend | React + Vite + TypeScript, PWA instalável | `web/` |
+| Backend | Python + FastAPI, JWT do Supabase | `api/` |
+| Dados de usuário | Postgres (Supabase) | `api/schema.sql` |
+| Banco de questões | JSON + PNG estáticos, servidos por CDN | `data/` |
+| Extração | Python + PyMuPDF | `tools/` |
+
+**O banco de questões não passa pela API.** Ele é estático e pequeno (598 KB de
+JSON), então vai inteiro para o cliente e é cacheado pelo service worker: o
+simulado roda **offline**, e a API só existe para guardar contas e resultados.
+
+Consequência disso: uma prova terminada sem internet não pode se perder, então
+`web/src/lib/outbox.ts` grava a tentativa em IndexedDB e a envia quando a
+conexão volta. O `clienteId` torna o reenvio idempotente.
+
+## Rodar
+
+```bash
+# 1. dados (uma vez, ou quando mudar a extração)
+python tools/parse_exam.py        # PDFs -> JSON + PNG
+python tools/build_db.py          # JSON -> data/questoes.sqlite
+python tools/build_web.py         # JSON -> web/public/dados/ (payload do app)
+python tools/gerar_icones.py      # ícones do PWA
+
+# 2. backend
+cd api && python -m venv .venv && .venv/Scripts/pip install -r requirements.txt
+cp .env.example .env              # preencher com o Supabase
+.venv/Scripts/python -m uvicorn app.main:app --reload
+
+# 3. frontend
+cd web && npm install
+cp .env.example .env.local        # preencher com o Supabase
+npm run dev
+```
+
+Testes: `cd api && .venv/Scripts/python -m pytest` (10 testes, validação de
+token) e `cd web && npx vitest run` (17 testes, banco e gerador de simulado).
+
+## Simulado
+
+`web/src/simulado/gerar.ts` sorteia no mesmo perfil da prova real — idêntico em
+2020, 2021 e 2022: **15 Linguagens, 15 Matemática, 15 Ciências Naturais, 5
+Ciências Humanas**. O sorteio usa gerador com semente, então guardar um número
+na tentativa basta para reconstruir exatamente a mesma prova depois.
+
+Questão que depende de texto compartilhado é sorteada normalmente: o contexto é
+exibido junto, então ela faz sentido sozinha sem arrastar as irmãs do texto.
 
 ## Estado atual
 
@@ -31,12 +82,26 @@ as inclui, se o recorte for corrigido depois.
 data/questoes/<ano>.json     fonte da verdade, versionada e editável à mão
 data/imagens/<ano>/*.png     figuras recortadas das páginas
 data/questoes.sqlite         banco gerado (não versionado)
+
 tools/pdfio.py               extração de texto respeitando faixas e colunas
 tools/sources.py             catálogo das provas: arquivo, dialeto, nº de alternativas
 tools/parse_exam.py          PDF  -> JSON + PNG
 tools/build_db.py            JSON -> SQLite
-tools/schema.sql             esquema do banco
+tools/build_web.py           JSON -> payload estático do PWA
+tools/gerar_icones.py        ícones do PWA
+tools/schema.sql             esquema do SQLite
 tools/recon.py               diagnóstico dos PDFs (páginas, colunas, figuras)
+
+api/app/auth.py              validação do JWT (HS256 ou JWKS)
+api/app/main.py              rotas: /saude, /tentativas, /desempenho
+api/schema.sql               tabelas de tentativa e resposta (Postgres)
+api/tests/                   testes de autenticação
+
+web/src/simulado/gerar.ts    sorteio balanceado, semente, correção
+web/src/lib/outbox.ts        fila offline de envio (IndexedDB)
+web/src/lib/banco.ts         carrega e cacheia o banco estático
+web/src/telas/               Login, Início, Prova, Resultado
+web/public/dados/            payload gerado (não versionado)
 ```
 
 Os PDFs de origem **não estão no repositório**; ficam em

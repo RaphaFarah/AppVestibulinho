@@ -293,12 +293,37 @@ def parse(ano, render=True, integral_tudo=False):
         trecho = stream[i + 1:prox]
         corpo = [x for x in trecho if not in_band(x, bands.get((x["page"], x["col"]), []))]
         figl = [x for x in trecho if in_band(x, bands.get((x["page"], x["col"]), []))]
+
+        # a instrucao pode ser a cauda de uma frase quebrada em duas linhas
+        # ("Considere a frase - Quantos eram os / prisioneiros? - para responder
+        # as questoes..."): recupera o inicio, senao o enunciado se perde
+        ini = i
+        for _ in range(3):
+            if ini == 0 or not stream[ini]["text"].strip()[:1].islower():
+                break
+            ini -= 1
+
+        # regiao onde procurar figura: da instrucao ate a primeira questao.
+        # Sem isto, contexto que e so uma charge -- nenhuma linha de texto
+        # entre a instrucao e a questao -- ficaria sem figura nenhuma.
+        segs = span_of(stream[ini:prox])
+        if prox < len(stream):
+            marc = stream[prox]
+            chave = (marc["page"], marc["col"])
+            if chave in segs:
+                y0, y1 = segs[chave]
+                segs[chave] = (y0, max(y1, marc["y0"] - 2))
+            else:
+                chave_i = (l["page"], l["col"])
+                y0, y1 = segs[chave_i]
+                segs[chave_i] = (y0, alturas[l["page"]] * 0.95)
+
         cid = f"ctx-{ano}-{a:02d}"
         contextos.append(dict(
-            id=cid, questoes=alvo, instrucao=l["text"].strip(),
+            id=cid, questoes=alvo, instrucao=join([x["text"] for x in stream[ini:i + 1]]),
             texto=join([c["text"] for c in corpo]),
             texto_na_figura=join([f["text"] for f in figl]) or None,
-            figuras=figuras_em(span_of(trecho), cid)))
+            figuras=figuras_em(segs, cid)))
         for q in alvo:
             ctx_de[q] = cid
 

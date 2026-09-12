@@ -5,3 +5,9 @@ data/questoes.sqlite-journal
 __pycache__/
 *.pyc
 .venv/
+
+# ambientes e dependencias
+api/.venv/
+web/node_modules/
+web/dist/
+.pytest_cache/

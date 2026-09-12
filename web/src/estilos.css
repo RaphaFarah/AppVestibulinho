@@ -1,0 +1,206 @@
+/* Mobile primeiro: o alvo principal é o celular do aluno, instalado como PWA. */
+:root {
+  --fundo: #f7f7f8;
+  --papel: #ffffff;
+  --texto: #16181d;
+  --apoio: #5a6068;
+  --borda: #dfe1e6;
+  --realce: #1f5fd0;
+  --realce-fraco: #e8f0fd;
+  --certo: #157a45;
+  --certo-fraco: #e4f4ea;
+  --errado: #b3261e;
+  --errado-fraco: #fbe9e7;
+  --raio: 10px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fundo: #14161a;
+    --papel: #1c1f25;
+    --texto: #eceef2;
+    --apoio: #a0a7b0;
+    --borda: #2d323a;
+    --realce: #6ea2f7;
+    --realce-fraco: #1e2a3d;
+    --certo: #6fd39b;
+    --certo-fraco: #16301f;
+    --errado: #f2877f;
+    --errado-fraco: #33201e;
+    color-scheme: dark;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--fundo);
+  color: var(--texto);
+  font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+
+#root { max-width: 780px; margin: 0 auto; padding: 16px; }
+
+h1 { font-size: 1.5rem; margin: 0 0 4px; }
+h2 { font-size: 1rem; margin: 24px 0 8px; text-transform: uppercase;
+     letter-spacing: .04em; color: var(--apoio); }
+p { margin: 8px 0; }
+code { background: var(--realce-fraco); padding: 1px 5px; border-radius: 4px; }
+
+.cartao {
+  background: var(--papel);
+  border: 1px solid var(--borda);
+  border-radius: var(--raio);
+  padding: 20px;
+}
+.estreito { max-width: 420px; margin: 40px auto; }
+.topo { display: flex; justify-content: space-between; align-items: baseline;
+        flex-wrap: wrap; gap: 8px; }
+.apoio { color: var(--apoio); font-size: .875rem; }
+.erro { color: var(--errado); font-size: .9rem; }
+.aviso { background: var(--realce-fraco); border-radius: var(--raio);
+         padding: 10px 12px; font-size: .9rem; }
+
+/* ---- formulário e botões ---- */
+label { display: block; margin: 12px 0; font-size: .9rem; color: var(--apoio); }
+label.linha { display: flex; align-items: center; gap: 8px; color: var(--texto);
+              font-size: 1rem; }
+input[type="email"], input[type="password"] {
+  display: block; width: 100%; margin-top: 4px; padding: 11px 12px;
+  font-size: 1rem; color: var(--texto); background: var(--fundo);
+  border: 1px solid var(--borda); border-radius: var(--raio);
+}
+input:focus-visible, button:focus-visible {
+  outline: 2px solid var(--realce); outline-offset: 2px;
+}
+
+button {
+  font: inherit; cursor: pointer; padding: 11px 16px; border-radius: var(--raio);
+  border: 1px solid var(--realce); background: var(--realce); color: #fff;
+  min-height: 44px; /* alvo de toque confortável */
+}
+button:disabled { opacity: .5; cursor: default; }
+button.secundario { background: transparent; color: var(--realce); }
+button.texto { background: none; border: none; color: var(--realce);
+               padding: 0 2px; min-height: 0; text-decoration: underline; }
+button.principal { width: 100%; margin-top: 20px; font-weight: 600; }
+.acoes { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 16px; }
+.alternar { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 14px;
+            font-size: .875rem; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { padding: 6px 12px; min-height: 0; font-size: .875rem;
+        background: transparent; color: var(--texto); border-color: var(--borda); }
+.chip.ativo { background: var(--realce-fraco); border-color: var(--realce);
+              color: var(--realce); font-weight: 600; }
+
+/* ---- prova ---- */
+.barra {
+  position: sticky; top: 0; z-index: 5;
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  padding: 10px 12px; margin-bottom: 12px;
+  background: var(--papel); border: 1px solid var(--borda);
+  border-radius: var(--raio);
+}
+.relogio { font-variant-numeric: tabular-nums; font-weight: 700;
+           font-size: 1.1rem; }
+.relogio.urgente { color: var(--errado); }
+.progresso { color: var(--apoio); font-size: .875rem; margin-right: auto; }
+
+.questao {
+  background: var(--papel); border: 1px solid var(--borda);
+  border-radius: var(--raio); padding: 18px;
+}
+.questao > header {
+  display: flex; gap: 8px; align-items: center; flex-wrap: wrap;
+  padding-bottom: 12px; margin-bottom: 12px;
+  border-bottom: 1px solid var(--borda); font-size: .8rem; color: var(--apoio);
+}
+.contador { font-weight: 700; color: var(--texto); }
+.etiqueta { background: var(--realce-fraco); color: var(--realce);
+            padding: 2px 8px; border-radius: 999px; font-weight: 600; }
+.origem { margin-left: auto; }
+
+.contexto { border-left: 3px solid var(--borda); padding-left: 14px;
+            margin-bottom: 16px; }
+.instrucao { font-weight: 600; }
+.corrido { white-space: pre-line; text-align: justify; }
+.transcricao { font-size: .8rem; color: var(--apoio); }
+.transcricao span { font-weight: 600; }
+.enunciado { text-align: justify; }
+
+.questao img, .contexto img {
+  display: block; max-width: 100%; height: auto; margin: 12px 0;
+  border-radius: 6px; background: #fff; /* recortes têm fundo branco */
+}
+
+.alternativas { list-style: none; margin: 16px 0 0; padding: 0;
+                display: flex; flex-direction: column; gap: 8px; }
+.alternativa {
+  display: flex; gap: 10px; align-items: flex-start; width: 100%;
+  text-align: left; padding: 11px 12px;
+  background: transparent; color: var(--texto); border-color: var(--borda);
+}
+.alternativa .letra {
+  flex: 0 0 26px; height: 26px; display: grid; place-items: center;
+  border: 1px solid var(--borda); border-radius: 50%;
+  font-size: .8rem; font-weight: 700;
+}
+.alternativa img.corpo { margin: 0; max-height: 110px; width: auto; }
+.alternativa.escolhida { border-color: var(--realce); background: var(--realce-fraco); }
+.alternativa.escolhida .letra { background: var(--realce); color: #fff;
+                                border-color: var(--realce); }
+.alternativa.certa { border-color: var(--certo); background: var(--certo-fraco); }
+.alternativa.certa .letra { background: var(--certo); color: #fff;
+                            border-color: var(--certo); }
+.alternativa.errada { border-color: var(--errado); background: var(--errado-fraco); }
+.alternativa.errada .letra { background: var(--errado); color: #fff;
+                             border-color: var(--errado); }
+.alternativa:disabled { opacity: 1; cursor: default; }
+
+.navegacao { display: flex; gap: 8px; margin: 14px 0; }
+.navegacao button { flex: 1; }
+
+.mapa { list-style: none; display: flex; flex-wrap: wrap; gap: 6px;
+        padding: 0; margin: 0 0 24px; }
+.bolinha {
+  width: 38px; min-height: 38px; padding: 0; font-size: .8rem;
+  background: var(--papel); color: var(--apoio); border-color: var(--borda);
+}
+.bolinha.feita { background: var(--realce-fraco); color: var(--realce);
+                 border-color: var(--realce); font-weight: 700; }
+.bolinha.atual { outline: 2px solid var(--texto); outline-offset: 1px; }
+
+.modal {
+  position: fixed; inset: 0; z-index: 10; display: grid; place-items: center;
+  padding: 16px; background: rgba(0, 0, 0, .55);
+}
+.modal .cartao { margin: 0; }
+
+/* ---- resultado ---- */
+.desempenho { width: 100%; border-collapse: collapse; margin: 8px 0 16px; }
+.desempenho caption { text-align: left; font-size: .8rem; color: var(--apoio);
+                      text-transform: uppercase; letter-spacing: .04em;
+                      padding-bottom: 6px; }
+.desempenho th { text-align: left; font-weight: 500; padding: 7px 0; }
+.desempenho td { padding: 7px 0 7px 10px; font-variant-numeric: tabular-nums; }
+.barra-dado { width: 45%; }
+.barra-dado span { display: block; height: 8px; border-radius: 4px;
+                   background: var(--realce); min-width: 2px; }
+
+.historico { list-style: none; padding: 0; margin: 0; }
+.historico li { display: flex; gap: 10px; align-items: baseline;
+                padding: 9px 0; border-bottom: 1px solid var(--borda); }
+.historico strong { font-variant-numeric: tabular-nums; }
+.historico li > span:last-child { margin-left: auto; }
+
+.revisao .questao { margin-bottom: 14px; }
+
+@media (min-width: 600px) {
+  #root { padding: 24px; }
+  .bolinha { width: 40px; }
+}

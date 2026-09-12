@@ -44,7 +44,12 @@
    "instrucao": "Leia a charge para responder às questões de números 07 e 08.",
    "texto": "(Fabiane Langona, “Viver dói”. Folha de S.Paulo, 01.09.2021. Adaptado)",
    "texto_na_figura": null,
-   "figuras": []
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2022/ctx-2022-07-p3-c0-0.png",
+     "pagina": 4
+    }
+   ]
   },
   {
    "id": "ctx-2022-10",

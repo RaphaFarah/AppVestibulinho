@@ -15,7 +15,12 @@
    "instrucao": "Leia a charge para responder às questões de números 01 e 02.",
    "texto": "",
    "texto_na_figura": null,
-   "figuras": []
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2015/ctx-2015-01-p2-c0-0.png",
+     "pagina": 3
+    }
+   ]
   },
   {
    "id": "ctx-2015-08",

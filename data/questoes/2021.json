@@ -15,7 +15,12 @@
    "instrucao": "Leia a tira para responder às questões de números 01 e 02.",
    "texto": "(Fernando Gonsales, Níquel Náusea. Folha de S.Paulo, 19.09.2020)",
    "texto_na_figura": null,
-   "figuras": []
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2021/ctx-2021-01-p2-c0-0.png",
+     "pagina": 3
+    }
+   ]
   },
   {
    "id": "ctx-2021-03",

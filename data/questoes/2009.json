@@ -27,7 +27,7 @@
     18,
     19
    ],
-   "instrucao": "prisioneiros? – para responder às questões de números 18 e 19.",
+   "instrucao": "Considere a frase – Diga-me, Sexta-Feira, vocês também comem os prisioneiros? – para responder às questões de números 18 e 19.",
    "texto": "",
    "texto_na_figura": null,
    "figuras": []
@@ -42,7 +42,12 @@
    "instrucao": "Leia a tirinha para responder às questões de números 21 a 23.",
    "texto": "(R. Goscinny e A. Uderzo. A odisséia de Asterix)",
    "texto_na_figura": null,
-   "figuras": []
+   "figuras": [
+    {
+     "arquivo": "data/imagens/2009/ctx-2009-21-p5-c0-0.png",
+     "pagina": 6
+    }
+   ]
   }
  ],
  "questoes": [
